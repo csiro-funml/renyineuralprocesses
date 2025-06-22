@@ -1,0 +1,15 @@
+Total number of parameters: 232708
+
+NP:trial step 200 lr 4.995e-04 loss 2.7690 (33.934 secs)
+NP:trial step 400 lr 4.980e-04 loss 2.5483 (31.972 secs)
+NP:trial step 600 lr 4.956e-04 loss 2.3848 (32.181 secs)
+NP:trial step 800 lr 4.921e-04 loss 2.2338 (32.643 secs)
+NP:trial step 1000 lr 4.878e-04 loss 2.0998 (31.967 secs)
+NP:trial crps 0.5127 ctx_ll -2.1538 tar_ll -2.2733 ctx_re inf tar_re inf (79.258 secs)
+
+save model at epoch 1000
+NP:trial step 1200 lr 4.824e-04 loss 1.9973 (110.076 secs)
+NP:trial step 1400 lr 4.762e-04 loss 1.9617 (31.265 secs)
+NP:trial step 1600 lr 4.691e-04 loss 1.8843 (31.329 secs)
+NP:trial step 1800 lr 4.611e-04 loss 1.8678 (30.767 secs)
+NP:trial step 2000 lr 4.523e-04 loss 1.7700 (31.691 secs)

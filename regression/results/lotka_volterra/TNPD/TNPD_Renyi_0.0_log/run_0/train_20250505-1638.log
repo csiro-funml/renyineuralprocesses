@@ -1,0 +1,81 @@
+Total number of parameters: 222404
+
+TNPD:trial step 200 lr 4.995e-04 loss 2.6269 (1.891 secs)
+TNPD:trial step 400 lr 4.980e-04 loss 2.1061 (1.695 secs)
+TNPD:trial step 600 lr 4.956e-04 loss 1.6209 (1.698 secs)
+TNPD:trial step 800 lr 4.921e-04 loss 1.1695 (1.684 secs)
+TNPD:trial step 1000 lr 4.878e-04 loss 0.7097 (1.704 secs)
+TNPD:trial ctx_ll -0.2008 tar_ll -0.4742 (2.363 secs)
+
+save model at epoch 1000
+TNPD:trial step 1200 lr 4.824e-04 loss 0.5351 (3.835 secs)
+TNPD:trial step 1400 lr 4.762e-04 loss 0.1824 (1.803 secs)
+TNPD:trial step 1600 lr 4.691e-04 loss -0.0671 (1.758 secs)
+TNPD:trial step 1800 lr 4.611e-04 loss -0.2482 (1.745 secs)
+TNPD:trial step 2000 lr 4.523e-04 loss -0.5312 (1.779 secs)
+TNPD:trial ctx_ll 1.2221 tar_ll 0.7198 (2.049 secs)
+
+save model at epoch 2000
+TNPD:trial step 2200 lr 4.426e-04 loss -0.6943 (3.854 secs)
+TNPD:trial step 2400 lr 4.322e-04 loss -0.7793 (1.751 secs)
+TNPD:trial step 2600 lr 4.211e-04 loss -0.9970 (1.785 secs)
+TNPD:trial step 2800 lr 4.094e-04 loss -1.0247 (1.745 secs)
+TNPD:trial step 3000 lr 3.969e-04 loss -1.1480 (1.737 secs)
+TNPD:trial ctx_ll 1.8512 tar_ll 1.1496 (2.038 secs)
+
+save model at epoch 3000
+TNPD:trial step 3200 lr 3.840e-04 loss -1.2717 (4.013 secs)
+TNPD:trial step 3400 lr 3.704e-04 loss -1.3034 (1.788 secs)
+TNPD:trial step 3600 lr 3.564e-04 loss -1.3572 (1.801 secs)
+TNPD:trial step 3800 lr 3.420e-04 loss -1.3361 (1.805 secs)
+TNPD:trial step 4000 lr 3.273e-04 loss -1.4314 (1.765 secs)
+TNPD:trial ctx_ll 2.2036 tar_ll 1.4075 (2.047 secs)
+
+save model at epoch 4000
+TNPD:trial step 4200 lr 3.122e-04 loss -1.4008 (3.987 secs)
+TNPD:trial step 4400 lr 2.968e-04 loss -1.5803 (1.812 secs)
+TNPD:trial step 4600 lr 2.813e-04 loss -1.4297 (1.810 secs)
+TNPD:trial step 4800 lr 2.657e-04 loss -1.5696 (1.834 secs)
+TNPD:trial step 5000 lr 2.500e-04 loss -1.5981 (1.768 secs)
+TNPD:trial ctx_ll 2.6296 tar_ll 1.6942 (2.039 secs)
+
+save model at epoch 5000
+TNPD:trial step 5200 lr 2.343e-04 loss -1.7648 (3.842 secs)
+TNPD:trial step 5400 lr 2.187e-04 loss -1.7403 (1.799 secs)
+TNPD:trial step 5600 lr 2.032e-04 loss -1.6789 (1.839 secs)
+TNPD:trial step 5800 lr 1.878e-04 loss -1.7794 (1.856 secs)
+TNPD:trial step 6000 lr 1.727e-04 loss -1.7783 (1.814 secs)
+TNPD:trial ctx_ll 2.8434 tar_ll 1.8455 (2.086 secs)
+
+save model at epoch 6000
+TNPD:trial step 6200 lr 1.580e-04 loss -1.8357 (3.895 secs)
+TNPD:trial step 6400 lr 1.436e-04 loss -1.8835 (1.785 secs)
+TNPD:trial step 6600 lr 1.296e-04 loss -1.8373 (1.796 secs)
+TNPD:trial step 6800 lr 1.160e-04 loss -1.8387 (1.879 secs)
+TNPD:trial step 7000 lr 1.031e-04 loss -1.8917 (1.795 secs)
+TNPD:trial ctx_ll 2.8613 tar_ll 1.8296 (2.045 secs)
+
+TNPD:trial step 7200 lr 9.064e-05 loss -1.9023 (3.888 secs)
+TNPD:trial step 7400 lr 7.886e-05 loss -1.9676 (1.758 secs)
+TNPD:trial step 7600 lr 6.776e-05 loss -1.8944 (1.754 secs)
+TNPD:trial step 7800 lr 5.737e-05 loss -1.9391 (1.774 secs)
+TNPD:trial step 8000 lr 4.775e-05 loss -1.9690 (1.818 secs)
+TNPD:trial ctx_ll 3.0807 tar_ll 1.9788 (2.059 secs)
+
+save model at epoch 8000
+TNPD:trial step 8200 lr 3.892e-05 loss -2.0278 (3.949 secs)
+TNPD:trial step 8400 lr 3.092e-05 loss -2.0449 (1.855 secs)
+TNPD:trial step 8600 lr 2.379e-05 loss -2.0655 (1.807 secs)
+TNPD:trial step 8800 lr 1.756e-05 loss -1.9600 (1.759 secs)
+TNPD:trial step 9000 lr 1.224e-05 loss -2.0231 (1.770 secs)
+TNPD:trial ctx_ll 3.1307 tar_ll 2.0130 (2.049 secs)
+
+save model at epoch 9000
+TNPD:trial step 9200 lr 7.854e-06 loss -1.9738 (4.058 secs)
+TNPD:trial step 9400 lr 4.428e-06 loss -2.1105 (1.846 secs)
+TNPD:trial step 9600 lr 1.971e-06 loss -1.9921 (1.826 secs)
+TNPD:trial step 9800 lr 4.933e-07 loss -2.0444 (1.847 secs)
+TNPD:trial step 10000 lr 0.000e+00 loss -2.0672 (1.805 secs)
+TNPD:trial ctx_ll 3.1648 tar_ll 2.0276 (2.051 secs)
+
+save model at epoch 10000

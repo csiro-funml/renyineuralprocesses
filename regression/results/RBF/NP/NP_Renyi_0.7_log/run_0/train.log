@@ -1,0 +1,3195 @@
+Experiment: NP-default
+Total number of parameters: 232194
+
+NP:default step 200 lr 5.000e-04 [train_loss] loss 0.6419 (1.403 secs)
+NP:default step 400 lr 5.000e-04 [train_loss] loss 0.5418 (1.142 secs)
+NP:default step 600 lr 5.000e-04 [train_loss] loss 0.5163 (1.144 secs)
+NP:default step 800 lr 4.999e-04 [train_loss] loss 0.5485 (1.143 secs)
+NP:default step 1000 lr 4.999e-04 [train_loss] loss 0.5313 (1.141 secs)
+NP:default RBF ctx_ll -0.4567 tar_ll -0.5639 (3.122 secs)
+
+save model at epoch 1000
+NP:default step 1200 lr 4.998e-04 [train_loss] loss 0.4870 (4.954 secs)
+NP:default step 1400 lr 4.998e-04 [train_loss] loss 0.4628 (1.142 secs)
+NP:default step 1600 lr 4.997e-04 [train_loss] loss 0.4263 (1.142 secs)
+NP:default step 1800 lr 4.996e-04 [train_loss] loss 0.4234 (1.143 secs)
+NP:default step 2000 lr 4.995e-04 [train_loss] loss 0.4500 (1.144 secs)
+NP:default RBF ctx_ll -0.3474 tar_ll -0.4904 (3.120 secs)
+
+save model at epoch 2000
+NP:default step 2200 lr 4.994e-04 [train_loss] loss 0.4149 (4.852 secs)
+NP:default step 2400 lr 4.993e-04 [train_loss] loss 0.4369 (1.145 secs)
+NP:default step 2600 lr 4.992e-04 [train_loss] loss 0.4256 (1.145 secs)
+NP:default step 2800 lr 4.990e-04 [train_loss] loss 0.4016 (1.156 secs)
+NP:default step 3000 lr 4.989e-04 [train_loss] loss 0.3982 (1.139 secs)
+NP:default RBF ctx_ll -0.2546 tar_ll -0.4729 (3.095 secs)
+
+save model at epoch 3000
+NP:default step 3200 lr 4.987e-04 [train_loss] loss 0.3687 (4.820 secs)
+NP:default step 3400 lr 4.986e-04 [train_loss] loss 0.3626 (1.143 secs)
+NP:default step 3600 lr 4.984e-04 [train_loss] loss 0.3104 (1.146 secs)
+NP:default step 3800 lr 4.982e-04 [train_loss] loss 0.3119 (1.144 secs)
+NP:default step 4000 lr 4.980e-04 [train_loss] loss 0.2960 (1.143 secs)
+NP:default RBF ctx_ll -0.1403 tar_ll -0.3796 (3.093 secs)
+
+save model at epoch 4000
+NP:default step 4200 lr 4.978e-04 [train_loss] loss 0.2833 (4.812 secs)
+NP:default step 4400 lr 4.976e-04 [train_loss] loss 0.2408 (1.140 secs)
+NP:default step 4600 lr 4.974e-04 [train_loss] loss 0.2542 (1.138 secs)
+NP:default step 4800 lr 4.972e-04 [train_loss] loss 0.2378 (1.141 secs)
+NP:default step 5000 lr 4.969e-04 [train_loss] loss 0.2140 (1.142 secs)
+NP:default RBF ctx_ll -0.0424 tar_ll -0.3206 (3.095 secs)
+
+NP:default RBF ctx_ll -0.0425 tar_ll -0.3199 (3.103 secs)
+
+save model at epoch 5000
+NP:default step 5200 lr 4.967e-04 [train_loss] loss 0.2060 (4.805 secs)
+NP:default step 5400 lr 4.964e-04 [train_loss] loss 0.2200 (1.139 secs)
+NP:default step 5600 lr 4.961e-04 [train_loss] loss 0.1767 (1.153 secs)
+NP:default step 5800 lr 4.959e-04 [train_loss] loss 0.1861 (1.143 secs)
+NP:default step 6000 lr 4.956e-04 [train_loss] loss 0.1721 (1.143 secs)
+NP:default RBF ctx_ll -0.0071 tar_ll -0.2697 (3.103 secs)
+
+save model at epoch 6000
+NP:default step 6200 lr 4.953e-04 [train_loss] loss 0.1692 (4.798 secs)
+NP:default step 6400 lr 4.950e-04 [train_loss] loss 0.1806 (1.144 secs)
+NP:default step 6600 lr 4.946e-04 [train_loss] loss 0.1345 (1.144 secs)
+NP:default step 6800 lr 4.943e-04 [train_loss] loss 0.1692 (1.143 secs)
+NP:default step 7000 lr 4.940e-04 [train_loss] loss 0.1213 (1.141 secs)
+NP:default RBF ctx_ll 0.0626 tar_ll -0.2484 (3.093 secs)
+
+save model at epoch 7000
+NP:default step 7200 lr 4.936e-04 [train_loss] loss 0.1301 (4.875 secs)
+NP:default step 7400 lr 4.933e-04 [train_loss] loss 0.1039 (1.143 secs)
+NP:default step 7600 lr 4.929e-04 [train_loss] loss 0.1365 (1.145 secs)
+NP:default step 7800 lr 4.925e-04 [train_loss] loss 0.1097 (1.142 secs)
+NP:default step 8000 lr 4.921e-04 [train_loss] loss 0.1202 (1.142 secs)
+NP:default RBF ctx_ll 0.0560 tar_ll -0.2106 (3.132 secs)
+
+save model at epoch 8000
+NP:default step 8200 lr 4.918e-04 [train_loss] loss 0.0726 (4.834 secs)
+NP:default step 8400 lr 4.913e-04 [train_loss] loss 0.0757 (1.143 secs)
+NP:default step 8600 lr 4.909e-04 [train_loss] loss 0.0430 (1.146 secs)
+NP:default step 8800 lr 4.905e-04 [train_loss] loss 0.0751 (1.152 secs)
+NP:default step 9000 lr 4.901e-04 [train_loss] loss 0.0886 (1.152 secs)
+NP:default RBF ctx_ll 0.1115 tar_ll -0.2013 (3.107 secs)
+
+save model at epoch 9000
+NP:default step 9200 lr 4.896e-04 [train_loss] loss 0.0470 (4.811 secs)
+NP:default step 9400 lr 4.892e-04 [train_loss] loss 0.0729 (1.142 secs)
+NP:default step 9600 lr 4.887e-04 [train_loss] loss 0.0518 (1.143 secs)
+NP:default step 9800 lr 4.882e-04 [train_loss] loss 0.0385 (1.143 secs)
+NP:default step 10000 lr 4.878e-04 [train_loss] loss 0.0334 (1.143 secs)
+NP:default RBF ctx_ll 0.1675 tar_ll -0.1792 (3.140 secs)
+
+NP:default RBF ctx_ll 0.1674 tar_ll -0.1801 (3.113 secs)
+
+save model at epoch 10000
+NP:default step 10200 lr 4.873e-04 [train_loss] loss 0.0293 (4.878 secs)
+NP:default step 10400 lr 4.868e-04 [train_loss] loss 0.0492 (1.141 secs)
+NP:default step 10600 lr 4.863e-04 [train_loss] loss 0.0340 (1.141 secs)
+NP:default step 10800 lr 4.857e-04 [train_loss] loss 0.0302 (1.144 secs)
+NP:default step 11000 lr 4.852e-04 [train_loss] loss 0.0227 (1.142 secs)
+NP:default RBF ctx_ll 0.1902 tar_ll -0.1447 (3.105 secs)
+
+save model at epoch 11000
+NP:default step 11200 lr 4.847e-04 [train_loss] loss 0.0217 (4.813 secs)
+NP:default step 11400 lr 4.841e-04 [train_loss] loss 0.0031 (1.141 secs)
+NP:default step 11600 lr 4.836e-04 [train_loss] loss -0.0090 (1.151 secs)
+NP:default step 11800 lr 4.830e-04 [train_loss] loss 0.0055 (1.139 secs)
+NP:default step 12000 lr 4.824e-04 [train_loss] loss -0.0446 (1.143 secs)
+NP:default RBF ctx_ll 0.1701 tar_ll -0.1055 (3.108 secs)
+
+save model at epoch 12000
+NP:default step 12200 lr 4.819e-04 [train_loss] loss 0.0057 (4.787 secs)
+NP:default step 12400 lr 4.813e-04 [train_loss] loss -0.0553 (1.145 secs)
+NP:default step 12600 lr 4.807e-04 [train_loss] loss 0.0044 (1.144 secs)
+NP:default step 12800 lr 4.801e-04 [train_loss] loss -0.0171 (1.142 secs)
+NP:default step 13000 lr 4.794e-04 [train_loss] loss -0.0388 (1.145 secs)
+NP:default RBF ctx_ll 0.2385 tar_ll -0.1259 (3.109 secs)
+
+NP:default step 13200 lr 4.788e-04 [train_loss] loss -0.0182 (4.799 secs)
+NP:default step 13400 lr 4.782e-04 [train_loss] loss -0.0359 (1.144 secs)
+NP:default step 13600 lr 4.775e-04 [train_loss] loss -0.0520 (1.144 secs)
+NP:default step 13800 lr 4.769e-04 [train_loss] loss -0.0752 (1.144 secs)
+NP:default step 14000 lr 4.762e-04 [train_loss] loss -0.0342 (1.146 secs)
+NP:default RBF ctx_ll 0.2292 tar_ll -0.0762 (3.124 secs)
+
+save model at epoch 14000
+NP:default step 14200 lr 4.755e-04 [train_loss] loss -0.0596 (4.909 secs)
+NP:default step 14400 lr 4.749e-04 [train_loss] loss -0.0563 (1.146 secs)
+NP:default step 14600 lr 4.742e-04 [train_loss] loss -0.1064 (1.145 secs)
+NP:default step 14800 lr 4.735e-04 [train_loss] loss -0.0821 (1.153 secs)
+NP:default step 15000 lr 4.728e-04 [train_loss] loss -0.0863 (1.144 secs)
+NP:default RBF ctx_ll 0.2633 tar_ll -0.0623 (3.110 secs)
+
+NP:default RBF ctx_ll 0.2636 tar_ll -0.0625 (3.115 secs)
+
+save model at epoch 15000
+NP:default step 15200 lr 4.720e-04 [train_loss] loss -0.0755 (4.800 secs)
+NP:default step 15400 lr 4.713e-04 [train_loss] loss -0.0691 (1.143 secs)
+NP:default step 15600 lr 4.706e-04 [train_loss] loss -0.0875 (1.143 secs)
+NP:default step 15800 lr 4.698e-04 [train_loss] loss -0.1128 (1.146 secs)
+NP:default step 16000 lr 4.691e-04 [train_loss] loss -0.1226 (1.141 secs)
+NP:default RBF ctx_ll 0.3165 tar_ll -0.0764 (3.118 secs)
+
+NP:default step 16200 lr 4.683e-04 [train_loss] loss -0.1143 (4.795 secs)
+NP:default step 16400 lr 4.675e-04 [train_loss] loss -0.0854 (1.141 secs)
+NP:default step 16600 lr 4.668e-04 [train_loss] loss -0.1036 (1.142 secs)
+NP:default step 16800 lr 4.660e-04 [train_loss] loss -0.0966 (1.141 secs)
+NP:default step 17000 lr 4.652e-04 [train_loss] loss -0.0960 (1.141 secs)
+NP:default RBF ctx_ll 0.2746 tar_ll -0.0462 (3.121 secs)
+
+save model at epoch 17000
+NP:default step 17200 lr 4.644e-04 [train_loss] loss -0.0842 (4.808 secs)
+NP:default step 17400 lr 4.636e-04 [train_loss] loss -0.0815 (1.143 secs)
+NP:default step 17600 lr 4.627e-04 [train_loss] loss -0.1036 (1.152 secs)
+NP:default step 17800 lr 4.619e-04 [train_loss] loss -0.1203 (1.141 secs)
+NP:default step 18000 lr 4.611e-04 [train_loss] loss -0.1444 (1.142 secs)
+NP:default RBF ctx_ll 0.3222 tar_ll -0.0136 (3.104 secs)
+
+save model at epoch 18000
+NP:default step 18200 lr 4.602e-04 [train_loss] loss -0.1347 (4.804 secs)
+NP:default step 18400 lr 4.594e-04 [train_loss] loss -0.1255 (1.143 secs)
+NP:default step 18600 lr 4.585e-04 [train_loss] loss -0.1502 (1.147 secs)
+NP:default step 18800 lr 4.576e-04 [train_loss] loss -0.1661 (1.145 secs)
+NP:default step 19000 lr 4.568e-04 [train_loss] loss -0.1296 (1.145 secs)
+NP:default RBF ctx_ll 0.3076 tar_ll 0.0004 (3.104 secs)
+
+save model at epoch 19000
+NP:default step 19200 lr 4.559e-04 [train_loss] loss -0.1279 (4.793 secs)
+NP:default step 19400 lr 4.550e-04 [train_loss] loss -0.1319 (1.145 secs)
+NP:default step 19600 lr 4.541e-04 [train_loss] loss -0.1504 (1.145 secs)
+NP:default step 19800 lr 4.532e-04 [train_loss] loss -0.1672 (1.141 secs)
+NP:default step 20000 lr 4.523e-04 [train_loss] loss -0.1604 (1.144 secs)
+NP:default RBF ctx_ll 0.3756 tar_ll -0.0014 (3.107 secs)
+
+NP:default RBF ctx_ll 0.3758 tar_ll -0.0015 (3.097 secs)
+
+NP:default step 20200 lr 4.513e-04 [train_loss] loss -0.1540 (4.797 secs)
+NP:default step 20400 lr 4.504e-04 [train_loss] loss -0.1360 (1.141 secs)
+NP:default step 20600 lr 4.494e-04 [train_loss] loss -0.1481 (1.141 secs)
+NP:default step 20800 lr 4.485e-04 [train_loss] loss -0.1435 (1.142 secs)
+NP:default step 21000 lr 4.475e-04 [train_loss] loss -0.1760 (1.144 secs)
+NP:default RBF ctx_ll 0.3724 tar_ll -0.0168 (3.107 secs)
+
+NP:default step 21200 lr 4.466e-04 [train_loss] loss -0.1520 (4.801 secs)
+NP:default step 21400 lr 4.456e-04 [train_loss] loss -0.1889 (1.143 secs)
+NP:default step 21600 lr 4.446e-04 [train_loss] loss -0.1890 (1.142 secs)
+NP:default step 21800 lr 4.436e-04 [train_loss] loss -0.1884 (1.140 secs)
+NP:default step 22000 lr 4.426e-04 [train_loss] loss -0.1439 (1.142 secs)
+NP:default RBF ctx_ll 0.3900 tar_ll 0.0337 (3.101 secs)
+
+save model at epoch 22000
+NP:default step 22200 lr 4.416e-04 [train_loss] loss -0.2372 (4.778 secs)
+NP:default step 22400 lr 4.406e-04 [train_loss] loss -0.2111 (1.145 secs)
+NP:default step 22600 lr 4.396e-04 [train_loss] loss -0.1766 (1.143 secs)
+NP:default step 22800 lr 4.386e-04 [train_loss] loss -0.2077 (1.141 secs)
+NP:default step 23000 lr 4.375e-04 [train_loss] loss -0.1930 (1.146 secs)
+NP:default RBF ctx_ll 0.3854 tar_ll 0.0084 (3.087 secs)
+
+NP:default step 23200 lr 4.365e-04 [train_loss] loss -0.1976 (4.849 secs)
+NP:default step 23400 lr 4.354e-04 [train_loss] loss -0.1770 (1.139 secs)
+NP:default step 23600 lr 4.344e-04 [train_loss] loss -0.2146 (1.157 secs)
+NP:default step 23800 lr 4.333e-04 [train_loss] loss -0.2113 (1.141 secs)
+NP:default step 24000 lr 4.322e-04 [train_loss] loss -0.2104 (1.144 secs)
+NP:default RBF ctx_ll 0.4508 tar_ll -0.0292 (3.098 secs)
+
+NP:default step 24200 lr 4.312e-04 [train_loss] loss -0.2218 (4.774 secs)
+NP:default step 24400 lr 4.301e-04 [train_loss] loss -0.2493 (1.143 secs)
+NP:default step 24600 lr 4.290e-04 [train_loss] loss -0.2242 (1.142 secs)
+NP:default step 24800 lr 4.279e-04 [train_loss] loss -0.1973 (1.143 secs)
+NP:default step 25000 lr 4.268e-04 [train_loss] loss -0.2127 (1.143 secs)
+NP:default RBF ctx_ll 0.4386 tar_ll 0.0171 (3.092 secs)
+
+NP:default RBF ctx_ll 0.4386 tar_ll 0.0165 (3.087 secs)
+
+NP:default step 25200 lr 4.257e-04 [train_loss] loss -0.2156 (4.758 secs)
+NP:default step 25400 lr 4.245e-04 [train_loss] loss -0.2093 (1.140 secs)
+NP:default step 25600 lr 4.234e-04 [train_loss] loss -0.2151 (1.141 secs)
+NP:default step 25800 lr 4.223e-04 [train_loss] loss -0.1840 (1.141 secs)
+NP:default step 26000 lr 4.211e-04 [train_loss] loss -0.2065 (1.141 secs)
+NP:default RBF ctx_ll 0.4179 tar_ll 0.0182 (3.081 secs)
+
+NP:default step 26200 lr 4.200e-04 [train_loss] loss -0.2104 (4.854 secs)
+NP:default step 26400 lr 4.188e-04 [train_loss] loss -0.2173 (1.142 secs)
+NP:default step 26600 lr 4.177e-04 [train_loss] loss -0.2217 (1.140 secs)
+NP:default step 26800 lr 4.165e-04 [train_loss] loss -0.2322 (1.139 secs)
+NP:default step 27000 lr 4.153e-04 [train_loss] loss -0.2168 (1.145 secs)
+NP:default RBF ctx_ll 0.4702 tar_ll 0.0344 (3.088 secs)
+
+save model at epoch 27000
+NP:default step 27200 lr 4.141e-04 [train_loss] loss -0.2140 (4.782 secs)
+NP:default step 27400 lr 4.130e-04 [train_loss] loss -0.2251 (1.142 secs)
+NP:default step 27600 lr 4.118e-04 [train_loss] loss -0.2361 (1.143 secs)
+NP:default step 27800 lr 4.106e-04 [train_loss] loss -0.2463 (1.142 secs)
+NP:default step 28000 lr 4.094e-04 [train_loss] loss -0.2218 (1.145 secs)
+NP:default RBF ctx_ll 0.4233 tar_ll 0.0768 (3.086 secs)
+
+save model at epoch 28000
+NP:default step 28200 lr 4.081e-04 [train_loss] loss -0.2559 (4.770 secs)
+NP:default step 28400 lr 4.069e-04 [train_loss] loss -0.2435 (1.147 secs)
+NP:default step 28600 lr 4.057e-04 [train_loss] loss -0.2226 (1.141 secs)
+NP:default step 28800 lr 4.045e-04 [train_loss] loss -0.2585 (1.142 secs)
+NP:default step 29000 lr 4.032e-04 [train_loss] loss -0.2207 (1.142 secs)
+NP:default RBF ctx_ll 0.4817 tar_ll 0.0661 (3.110 secs)
+
+NP:default step 29200 lr 4.020e-04 [train_loss] loss -0.2571 (4.810 secs)
+NP:default step 29400 lr 4.007e-04 [train_loss] loss -0.2547 (1.142 secs)
+NP:default step 29600 lr 3.995e-04 [train_loss] loss -0.2548 (1.154 secs)
+NP:default step 29800 lr 3.982e-04 [train_loss] loss -0.2445 (1.141 secs)
+NP:default step 30000 lr 3.969e-04 [train_loss] loss -0.2557 (1.142 secs)
+NP:default RBF ctx_ll 0.4131 tar_ll 0.0951 (3.104 secs)
+
+NP:default RBF ctx_ll 0.4132 tar_ll 0.0946 (3.099 secs)
+
+save model at epoch 30000
+NP:default step 30200 lr 3.957e-04 [train_loss] loss -0.2296 (4.783 secs)
+NP:default step 30400 lr 3.944e-04 [train_loss] loss -0.2841 (1.141 secs)
+NP:default step 30600 lr 3.931e-04 [train_loss] loss -0.2999 (1.139 secs)
+NP:default step 30800 lr 3.918e-04 [train_loss] loss -0.2723 (1.142 secs)
+NP:default step 31000 lr 3.905e-04 [train_loss] loss -0.2380 (1.141 secs)
+NP:default RBF ctx_ll 0.5155 tar_ll 0.1002 (3.092 secs)
+
+save model at epoch 31000
+NP:default step 31200 lr 3.892e-04 [train_loss] loss -0.2702 (4.764 secs)
+NP:default step 31400 lr 3.879e-04 [train_loss] loss -0.3128 (1.140 secs)
+NP:default step 31600 lr 3.866e-04 [train_loss] loss -0.2747 (1.141 secs)
+NP:default step 31800 lr 3.853e-04 [train_loss] loss -0.2977 (1.140 secs)
+NP:default step 32000 lr 3.840e-04 [train_loss] loss -0.2816 (1.143 secs)
+NP:default RBF ctx_ll 0.4435 tar_ll 0.1076 (3.084 secs)
+
+save model at epoch 32000
+NP:default step 32200 lr 3.826e-04 [train_loss] loss -0.2429 (4.855 secs)
+NP:default step 32400 lr 3.813e-04 [train_loss] loss -0.2775 (1.139 secs)
+NP:default step 32600 lr 3.800e-04 [train_loss] loss -0.2931 (1.139 secs)
+NP:default step 32800 lr 3.786e-04 [train_loss] loss -0.2754 (1.142 secs)
+NP:default step 33000 lr 3.773e-04 [train_loss] loss -0.2868 (1.140 secs)
+NP:default RBF ctx_ll 0.5150 tar_ll 0.1067 (3.106 secs)
+
+NP:default step 33200 lr 3.759e-04 [train_loss] loss -0.3086 (4.785 secs)
+NP:default step 33400 lr 3.745e-04 [train_loss] loss -0.2687 (1.140 secs)
+NP:default step 33600 lr 3.732e-04 [train_loss] loss -0.2599 (1.139 secs)
+NP:default step 33800 lr 3.718e-04 [train_loss] loss -0.2824 (1.139 secs)
+NP:default step 34000 lr 3.704e-04 [train_loss] loss -0.3171 (1.140 secs)
+NP:default RBF ctx_ll 0.5214 tar_ll 0.1311 (3.091 secs)
+
+save model at epoch 34000
+NP:default step 34200 lr 3.691e-04 [train_loss] loss -0.2947 (4.779 secs)
+NP:default step 34400 lr 3.677e-04 [train_loss] loss -0.3168 (1.142 secs)
+NP:default step 34600 lr 3.663e-04 [train_loss] loss -0.2979 (1.144 secs)
+NP:default step 34800 lr 3.649e-04 [train_loss] loss -0.3156 (1.141 secs)
+NP:default step 35000 lr 3.635e-04 [train_loss] loss -0.3372 (1.146 secs)
+NP:default RBF ctx_ll 0.5487 tar_ll 0.1359 (3.088 secs)
+
+NP:default RBF ctx_ll 0.5485 tar_ll 0.1352 (3.091 secs)
+
+save model at epoch 35000
+NP:default step 35200 lr 3.621e-04 [train_loss] loss -0.2908 (4.849 secs)
+NP:default step 35400 lr 3.607e-04 [train_loss] loss -0.3283 (1.142 secs)
+NP:default step 35600 lr 3.593e-04 [train_loss] loss -0.3066 (1.140 secs)
+NP:default step 35800 lr 3.579e-04 [train_loss] loss -0.3330 (1.140 secs)
+NP:default step 36000 lr 3.564e-04 [train_loss] loss -0.2912 (1.141 secs)
+NP:default RBF ctx_ll 0.5683 tar_ll 0.1380 (3.082 secs)
+
+save model at epoch 36000
+NP:default step 36200 lr 3.550e-04 [train_loss] loss -0.3219 (4.761 secs)
+NP:default step 36400 lr 3.536e-04 [train_loss] loss -0.3136 (1.140 secs)
+NP:default step 36600 lr 3.522e-04 [train_loss] loss -0.3026 (1.139 secs)
+NP:default step 36800 lr 3.507e-04 [train_loss] loss -0.3556 (1.139 secs)
+NP:default step 37000 lr 3.493e-04 [train_loss] loss -0.3519 (1.148 secs)
+NP:default RBF ctx_ll 0.5011 tar_ll 0.1492 (3.092 secs)
+
+save model at epoch 37000
+NP:default step 37200 lr 3.478e-04 [train_loss] loss -0.3464 (4.783 secs)
+NP:default step 37400 lr 3.464e-04 [train_loss] loss -0.3429 (1.142 secs)
+NP:default step 37600 lr 3.449e-04 [train_loss] loss -0.3135 (1.143 secs)
+NP:default step 37800 lr 3.435e-04 [train_loss] loss -0.3219 (1.143 secs)
+NP:default step 38000 lr 3.420e-04 [train_loss] loss -0.3379 (1.141 secs)
+NP:default RBF ctx_ll 0.5609 tar_ll 0.1623 (3.080 secs)
+
+save model at epoch 38000
+NP:default step 38200 lr 3.406e-04 [train_loss] loss -0.3521 (4.766 secs)
+NP:default step 38400 lr 3.391e-04 [train_loss] loss -0.3059 (1.140 secs)
+NP:default step 38600 lr 3.376e-04 [train_loss] loss -0.3246 (1.140 secs)
+NP:default step 38800 lr 3.362e-04 [train_loss] loss -0.3397 (1.141 secs)
+NP:default step 39000 lr 3.347e-04 [train_loss] loss -0.3415 (1.140 secs)
+NP:default RBF ctx_ll 0.6071 tar_ll 0.1520 (3.083 secs)
+
+NP:default step 39200 lr 3.332e-04 [train_loss] loss -0.3187 (4.832 secs)
+NP:default step 39400 lr 3.317e-04 [train_loss] loss -0.3287 (1.139 secs)
+NP:default step 39600 lr 3.302e-04 [train_loss] loss -0.3357 (1.139 secs)
+NP:default step 39800 lr 3.287e-04 [train_loss] loss -0.3439 (1.142 secs)
+NP:default step 40000 lr 3.273e-04 [train_loss] loss -0.3459 (1.139 secs)
+NP:default RBF ctx_ll 0.5801 tar_ll 0.1745 (3.128 secs)
+
+NP:default RBF ctx_ll 0.5802 tar_ll 0.1747 (3.099 secs)
+
+save model at epoch 40000
+NP:default step 40200 lr 3.258e-04 [train_loss] loss -0.3636 (4.789 secs)
+NP:default step 40400 lr 3.243e-04 [train_loss] loss -0.3334 (1.141 secs)
+NP:default step 40600 lr 3.228e-04 [train_loss] loss -0.3268 (1.142 secs)
+NP:default step 40800 lr 3.213e-04 [train_loss] loss -0.3513 (1.142 secs)
+NP:default step 41000 lr 3.197e-04 [train_loss] loss -0.4007 (1.145 secs)
+NP:default RBF ctx_ll 0.5707 tar_ll 0.1704 (3.083 secs)
+
+NP:default step 41200 lr 3.182e-04 [train_loss] loss -0.3345 (4.781 secs)
+NP:default step 41400 lr 3.167e-04 [train_loss] loss -0.3637 (1.151 secs)
+NP:default step 41600 lr 3.152e-04 [train_loss] loss -0.3672 (1.145 secs)
+NP:default step 41800 lr 3.137e-04 [train_loss] loss -0.3978 (1.144 secs)
+NP:default step 42000 lr 3.122e-04 [train_loss] loss -0.3528 (1.144 secs)
+NP:default RBF ctx_ll 0.5920 tar_ll 0.1673 (3.088 secs)
+
+NP:default step 42200 lr 3.106e-04 [train_loss] loss -0.3771 (4.770 secs)
+NP:default step 42400 lr 3.091e-04 [train_loss] loss -0.3832 (1.140 secs)
+NP:default step 42600 lr 3.076e-04 [train_loss] loss -0.3313 (1.143 secs)
+NP:default step 42800 lr 3.061e-04 [train_loss] loss -0.3929 (1.140 secs)
+NP:default step 43000 lr 3.045e-04 [train_loss] loss -0.3304 (1.139 secs)
+NP:default RBF ctx_ll 0.6244 tar_ll 0.1553 (3.085 secs)
+
+NP:default step 43200 lr 3.030e-04 [train_loss] loss -0.3987 (4.756 secs)
+NP:default step 43400 lr 3.015e-04 [train_loss] loss -0.3735 (1.140 secs)
+NP:default step 43600 lr 2.999e-04 [train_loss] loss -0.3541 (1.141 secs)
+NP:default step 43800 lr 2.984e-04 [train_loss] loss -0.3579 (1.140 secs)
+NP:default step 44000 lr 2.968e-04 [train_loss] loss -0.3706 (1.139 secs)
+NP:default RBF ctx_ll 0.5859 tar_ll 0.1557 (3.089 secs)
+
+NP:default step 44200 lr 2.953e-04 [train_loss] loss -0.4123 (4.756 secs)
+NP:default step 44400 lr 2.938e-04 [train_loss] loss -0.3817 (1.152 secs)
+NP:default step 44600 lr 2.922e-04 [train_loss] loss -0.3733 (1.139 secs)
+NP:default step 44800 lr 2.907e-04 [train_loss] loss -0.3754 (1.140 secs)
+NP:default step 45000 lr 2.891e-04 [train_loss] loss -0.3707 (1.139 secs)
+NP:default RBF ctx_ll 0.5832 tar_ll 0.1998 (3.109 secs)
+
+NP:default RBF ctx_ll 0.5832 tar_ll 0.1996 (3.096 secs)
+
+save model at epoch 45000
+NP:default step 45200 lr 2.876e-04 [train_loss] loss -0.3981 (4.787 secs)
+NP:default step 45400 lr 2.860e-04 [train_loss] loss -0.3864 (1.139 secs)
+NP:default step 45600 lr 2.844e-04 [train_loss] loss -0.3447 (1.141 secs)
+NP:default step 45800 lr 2.829e-04 [train_loss] loss -0.3801 (1.142 secs)
+NP:default step 46000 lr 2.813e-04 [train_loss] loss -0.4043 (1.141 secs)
+NP:default RBF ctx_ll 0.6153 tar_ll 0.2055 (3.097 secs)
+
+save model at epoch 46000
+NP:default step 46200 lr 2.798e-04 [train_loss] loss -0.3612 (4.793 secs)
+NP:default step 46400 lr 2.782e-04 [train_loss] loss -0.4063 (1.141 secs)
+NP:default step 46600 lr 2.767e-04 [train_loss] loss -0.3712 (1.141 secs)
+NP:default step 46800 lr 2.751e-04 [train_loss] loss -0.4017 (1.143 secs)
+NP:default step 47000 lr 2.735e-04 [train_loss] loss -0.4095 (1.145 secs)
+NP:default RBF ctx_ll 0.6442 tar_ll 0.1987 (3.095 secs)
+
+NP:default step 47200 lr 2.720e-04 [train_loss] loss -0.4189 (4.798 secs)
+NP:default step 47400 lr 2.704e-04 [train_loss] loss -0.4183 (1.143 secs)
+NP:default step 47600 lr 2.688e-04 [train_loss] loss -0.3955 (1.144 secs)
+NP:default step 47800 lr 2.673e-04 [train_loss] loss -0.4232 (1.144 secs)
+NP:default step 48000 lr 2.657e-04 [train_loss] loss -0.3849 (1.144 secs)
+NP:default RBF ctx_ll 0.5984 tar_ll 0.2202 (3.089 secs)
+
+save model at epoch 48000
+NP:default step 48200 lr 2.641e-04 [train_loss] loss -0.3947 (4.876 secs)
+NP:default step 48400 lr 2.626e-04 [train_loss] loss -0.3446 (1.139 secs)
+NP:default step 48600 lr 2.610e-04 [train_loss] loss -0.3870 (1.142 secs)
+NP:default step 48800 lr 2.594e-04 [train_loss] loss -0.4442 (1.141 secs)
+NP:default step 49000 lr 2.579e-04 [train_loss] loss -0.3931 (1.141 secs)
+NP:default RBF ctx_ll 0.6494 tar_ll 0.2118 (3.081 secs)
+
+NP:default step 49200 lr 2.563e-04 [train_loss] loss -0.4342 (4.762 secs)
+NP:default step 49400 lr 2.547e-04 [train_loss] loss -0.4540 (1.141 secs)
+NP:default step 49600 lr 2.531e-04 [train_loss] loss -0.4034 (1.140 secs)
+NP:default step 49800 lr 2.516e-04 [train_loss] loss -0.3919 (1.140 secs)
+NP:default step 50000 lr 2.500e-04 [train_loss] loss -0.3816 (1.140 secs)
+NP:default RBF ctx_ll 0.6218 tar_ll 0.2232 (3.100 secs)
+
+NP:default RBF ctx_ll 0.6217 tar_ll 0.2237 (3.098 secs)
+
+save model at epoch 50000
+NP:default step 50200 lr 2.484e-04 [train_loss] loss -0.3968 (4.780 secs)
+NP:default step 50400 lr 2.469e-04 [train_loss] loss -0.4065 (1.140 secs)
+NP:default step 50600 lr 2.453e-04 [train_loss] loss -0.4068 (1.139 secs)
+NP:default step 50800 lr 2.437e-04 [train_loss] loss -0.4100 (1.140 secs)
+NP:default step 51000 lr 2.421e-04 [train_loss] loss -0.3781 (1.138 secs)
+NP:default RBF ctx_ll 0.6501 tar_ll 0.2072 (3.096 secs)
+
+NP:default step 51200 lr 2.406e-04 [train_loss] loss -0.3773 (4.853 secs)
+NP:default step 51400 lr 2.390e-04 [train_loss] loss -0.3704 (1.140 secs)
+NP:default step 51600 lr 2.374e-04 [train_loss] loss -0.4015 (1.139 secs)
+NP:default step 51800 lr 2.359e-04 [train_loss] loss -0.4313 (1.140 secs)
+NP:default step 52000 lr 2.343e-04 [train_loss] loss -0.4025 (1.139 secs)
+NP:default RBF ctx_ll 0.6287 tar_ll 0.2295 (3.090 secs)
+
+save model at epoch 52000
+NP:default step 52200 lr 2.327e-04 [train_loss] loss -0.4315 (4.795 secs)
+NP:default step 52400 lr 2.312e-04 [train_loss] loss -0.4343 (1.143 secs)
+NP:default step 52600 lr 2.296e-04 [train_loss] loss -0.4289 (1.143 secs)
+NP:default step 52800 lr 2.280e-04 [train_loss] loss -0.4248 (1.143 secs)
+NP:default step 53000 lr 2.265e-04 [train_loss] loss -0.4270 (1.142 secs)
+NP:default RBF ctx_ll 0.6694 tar_ll 0.2172 (3.103 secs)
+
+NP:default step 53200 lr 2.249e-04 [train_loss] loss -0.4089 (4.794 secs)
+NP:default step 53400 lr 2.233e-04 [train_loss] loss -0.3940 (1.141 secs)
+NP:default step 53600 lr 2.218e-04 [train_loss] loss -0.4571 (1.142 secs)
+NP:default step 53800 lr 2.202e-04 [train_loss] loss -0.4248 (1.141 secs)
+NP:default step 54000 lr 2.187e-04 [train_loss] loss -0.3993 (1.138 secs)
+NP:default RBF ctx_ll 0.6505 tar_ll 0.2335 (3.091 secs)
+
+save model at epoch 54000
+NP:default step 54200 lr 2.171e-04 [train_loss] loss -0.4277 (4.772 secs)
+NP:default step 54400 lr 2.156e-04 [train_loss] loss -0.4393 (1.141 secs)
+NP:default step 54600 lr 2.140e-04 [train_loss] loss -0.4336 (1.143 secs)
+NP:default step 54800 lr 2.124e-04 [train_loss] loss -0.4344 (1.145 secs)
+NP:default step 55000 lr 2.109e-04 [train_loss] loss -0.4290 (1.143 secs)
+NP:default RBF ctx_ll 0.6815 tar_ll 0.2422 (3.094 secs)
+
+NP:default RBF ctx_ll 0.6817 tar_ll 0.2434 (3.101 secs)
+
+save model at epoch 55000
+NP:default step 55200 lr 2.093e-04 [train_loss] loss -0.4300 (4.792 secs)
+NP:default step 55400 lr 2.078e-04 [train_loss] loss -0.4863 (1.143 secs)
+NP:default step 55600 lr 2.062e-04 [train_loss] loss -0.4335 (1.141 secs)
+NP:default step 55800 lr 2.047e-04 [train_loss] loss -0.4579 (1.142 secs)
+NP:default step 56000 lr 2.032e-04 [train_loss] loss -0.4164 (1.139 secs)
+NP:default RBF ctx_ll 0.6631 tar_ll 0.2493 (3.104 secs)
+
+save model at epoch 56000
+NP:default step 56200 lr 2.016e-04 [train_loss] loss -0.4327 (4.787 secs)
+NP:default step 56400 lr 2.001e-04 [train_loss] loss -0.4101 (1.140 secs)
+NP:default step 56600 lr 1.985e-04 [train_loss] loss -0.4395 (1.143 secs)
+NP:default step 56800 lr 1.970e-04 [train_loss] loss -0.4425 (1.140 secs)
+NP:default step 57000 lr 1.955e-04 [train_loss] loss -0.4347 (1.140 secs)
+NP:default RBF ctx_ll 0.6650 tar_ll 0.2573 (3.094 secs)
+
+save model at epoch 57000
+NP:default step 57200 lr 1.939e-04 [train_loss] loss -0.4621 (4.868 secs)
+NP:default step 57400 lr 1.924e-04 [train_loss] loss -0.4763 (1.142 secs)
+NP:default step 57600 lr 1.909e-04 [train_loss] loss -0.4428 (1.145 secs)
+NP:default step 57800 lr 1.894e-04 [train_loss] loss -0.4205 (1.144 secs)
+NP:default step 58000 lr 1.878e-04 [train_loss] loss -0.4640 (1.144 secs)
+NP:default RBF ctx_ll 0.7010 tar_ll 0.2315 (3.106 secs)
+
+NP:default step 58200 lr 1.863e-04 [train_loss] loss -0.4234 (4.796 secs)
+NP:default step 58400 lr 1.848e-04 [train_loss] loss -0.4168 (1.141 secs)
+NP:default step 58600 lr 1.833e-04 [train_loss] loss -0.4215 (1.141 secs)
+NP:default step 58800 lr 1.818e-04 [train_loss] loss -0.4210 (1.142 secs)
+NP:default step 59000 lr 1.803e-04 [train_loss] loss -0.4297 (1.141 secs)
+NP:default RBF ctx_ll 0.6116 tar_ll 0.1929 (3.091 secs)
+
+NP:default step 59200 lr 1.787e-04 [train_loss] loss -0.4750 (4.770 secs)
+NP:default step 59400 lr 1.772e-04 [train_loss] loss -0.4266 (1.142 secs)
+NP:default step 59600 lr 1.757e-04 [train_loss] loss -0.4433 (1.142 secs)
+NP:default step 59800 lr 1.742e-04 [train_loss] loss -0.4667 (1.141 secs)
+NP:default step 60000 lr 1.727e-04 [train_loss] loss -0.4519 (1.142 secs)
+NP:default RBF ctx_ll 0.6693 tar_ll 0.2526 (3.085 secs)
+
+NP:default RBF ctx_ll 0.6695 tar_ll 0.2530 (3.120 secs)
+
+NP:default step 60200 lr 1.713e-04 [train_loss] loss -0.4797 (4.871 secs)
+NP:default step 60400 lr 1.698e-04 [train_loss] loss -0.4887 (1.144 secs)
+NP:default step 60600 lr 1.683e-04 [train_loss] loss -0.4473 (1.141 secs)
+NP:default step 60800 lr 1.668e-04 [train_loss] loss -0.4768 (1.140 secs)
+NP:default step 61000 lr 1.653e-04 [train_loss] loss -0.4415 (1.141 secs)
+NP:default RBF ctx_ll 0.7039 tar_ll 0.2612 (3.087 secs)
+
+save model at epoch 61000
+NP:default step 61200 lr 1.638e-04 [train_loss] loss -0.4594 (4.775 secs)
+NP:default step 61400 lr 1.624e-04 [train_loss] loss -0.4683 (1.142 secs)
+NP:default step 61600 lr 1.609e-04 [train_loss] loss -0.4315 (1.143 secs)
+NP:default step 61800 lr 1.594e-04 [train_loss] loss -0.4840 (1.142 secs)
+NP:default step 62000 lr 1.580e-04 [train_loss] loss -0.4338 (1.142 secs)
+NP:default RBF ctx_ll 0.7215 tar_ll 0.2336 (3.109 secs)
+
+NP:default step 62200 lr 1.565e-04 [train_loss] loss -0.4659 (4.810 secs)
+NP:default step 62400 lr 1.551e-04 [train_loss] loss -0.4651 (1.139 secs)
+NP:default step 62600 lr 1.536e-04 [train_loss] loss -0.4575 (1.141 secs)
+NP:default step 62800 lr 1.522e-04 [train_loss] loss -0.4478 (1.141 secs)
+NP:default step 63000 lr 1.507e-04 [train_loss] loss -0.4889 (1.144 secs)
+NP:default RBF ctx_ll 0.7057 tar_ll 0.2688 (3.111 secs)
+
+save model at epoch 63000
+NP:default step 63200 lr 1.493e-04 [train_loss] loss -0.4486 (4.809 secs)
+NP:default step 63400 lr 1.478e-04 [train_loss] loss -0.4276 (1.141 secs)
+NP:default step 63600 lr 1.464e-04 [train_loss] loss -0.4331 (1.142 secs)
+NP:default step 63800 lr 1.450e-04 [train_loss] loss -0.4410 (1.142 secs)
+NP:default step 64000 lr 1.436e-04 [train_loss] loss -0.4716 (1.143 secs)
+NP:default RBF ctx_ll 0.6512 tar_ll 0.2638 (3.102 secs)
+
+NP:default step 64200 lr 1.421e-04 [train_loss] loss -0.4914 (4.862 secs)
+NP:default step 64400 lr 1.407e-04 [train_loss] loss -0.4765 (1.143 secs)
+NP:default step 64600 lr 1.393e-04 [train_loss] loss -0.4936 (1.141 secs)
+NP:default step 64800 lr 1.379e-04 [train_loss] loss -0.4523 (1.140 secs)
+NP:default step 65000 lr 1.365e-04 [train_loss] loss -0.5047 (1.140 secs)
+NP:default RBF ctx_ll 0.7170 tar_ll 0.2654 (3.089 secs)
+
+NP:default RBF ctx_ll 0.7169 tar_ll 0.2638 (3.113 secs)
+
+NP:default step 65200 lr 1.351e-04 [train_loss] loss -0.4609 (4.800 secs)
+NP:default step 65400 lr 1.337e-04 [train_loss] loss -0.4864 (1.142 secs)
+NP:default step 65600 lr 1.323e-04 [train_loss] loss -0.4451 (1.138 secs)
+NP:default step 65800 lr 1.309e-04 [train_loss] loss -0.4541 (1.138 secs)
+NP:default step 66000 lr 1.296e-04 [train_loss] loss -0.4714 (1.140 secs)
+NP:default RBF ctx_ll 0.7108 tar_ll 0.2788 (3.090 secs)
+
+save model at epoch 66000
+NP:default step 66200 lr 1.282e-04 [train_loss] loss -0.4899 (4.785 secs)
+NP:default step 66400 lr 1.268e-04 [train_loss] loss -0.4638 (1.147 secs)
+NP:default step 66600 lr 1.255e-04 [train_loss] loss -0.4625 (1.143 secs)
+NP:default step 66800 lr 1.241e-04 [train_loss] loss -0.4610 (1.143 secs)
+NP:default step 67000 lr 1.227e-04 [train_loss] loss -0.4502 (1.144 secs)
+NP:default RBF ctx_ll 0.7243 tar_ll 0.2654 (3.093 secs)
+
+NP:default step 67200 lr 1.214e-04 [train_loss] loss -0.4873 (4.803 secs)
+NP:default step 67400 lr 1.200e-04 [train_loss] loss -0.4852 (1.140 secs)
+NP:default step 67600 lr 1.187e-04 [train_loss] loss -0.4660 (1.143 secs)
+NP:default step 67800 lr 1.174e-04 [train_loss] loss -0.4749 (1.146 secs)
+NP:default step 68000 lr 1.160e-04 [train_loss] loss -0.5000 (1.147 secs)
+NP:default RBF ctx_ll 0.7395 tar_ll 0.2645 (3.094 secs)
+
+NP:default step 68200 lr 1.147e-04 [train_loss] loss -0.4870 (4.794 secs)
+NP:default step 68400 lr 1.134e-04 [train_loss] loss -0.5107 (1.142 secs)
+NP:default step 68600 lr 1.121e-04 [train_loss] loss -0.4805 (1.139 secs)
+NP:default step 68800 lr 1.108e-04 [train_loss] loss -0.5097 (1.141 secs)
+NP:default step 69000 lr 1.095e-04 [train_loss] loss -0.5107 (1.140 secs)
+NP:default RBF ctx_ll 0.7290 tar_ll 0.2816 (3.091 secs)
+
+save model at epoch 69000
+NP:default step 69200 lr 1.082e-04 [train_loss] loss -0.4682 (4.778 secs)
+NP:default step 69400 lr 1.069e-04 [train_loss] loss -0.4960 (1.144 secs)
+NP:default step 69600 lr 1.056e-04 [train_loss] loss -0.4863 (1.140 secs)
+NP:default step 69800 lr 1.043e-04 [train_loss] loss -0.5103 (1.142 secs)
+NP:default step 70000 lr 1.031e-04 [train_loss] loss -0.4456 (1.143 secs)
+NP:default RBF ctx_ll 0.7273 tar_ll 0.2881 (3.098 secs)
+
+NP:default RBF ctx_ll 0.7272 tar_ll 0.2864 (3.103 secs)
+
+save model at epoch 70000
+NP:default step 70200 lr 1.018e-04 [train_loss] loss -0.4930 (4.799 secs)
+NP:default step 70400 lr 1.005e-04 [train_loss] loss -0.4798 (1.142 secs)
+NP:default step 70600 lr 9.927e-05 [train_loss] loss -0.5062 (1.139 secs)
+NP:default step 70800 lr 9.802e-05 [train_loss] loss -0.4543 (1.139 secs)
+NP:default step 71000 lr 9.677e-05 [train_loss] loss -0.4670 (1.152 secs)
+NP:default RBF ctx_ll 0.7160 tar_ll 0.2991 (3.086 secs)
+
+save model at epoch 71000
+NP:default step 71200 lr 9.554e-05 [train_loss] loss -0.5195 (4.777 secs)
+NP:default step 71400 lr 9.430e-05 [train_loss] loss -0.5191 (1.144 secs)
+NP:default step 71600 lr 9.308e-05 [train_loss] loss -0.4871 (1.146 secs)
+NP:default step 71800 lr 9.186e-05 [train_loss] loss -0.4973 (1.142 secs)
+NP:default step 72000 lr 9.064e-05 [train_loss] loss -0.4895 (1.144 secs)
+NP:default RBF ctx_ll 0.7330 tar_ll 0.2960 (3.087 secs)
+
+NP:default step 72200 lr 8.944e-05 [train_loss] loss -0.5170 (4.781 secs)
+NP:default step 72400 lr 8.824e-05 [train_loss] loss -0.4758 (1.142 secs)
+NP:default step 72600 lr 8.704e-05 [train_loss] loss -0.5100 (1.143 secs)
+NP:default step 72800 lr 8.585e-05 [train_loss] loss -0.4823 (1.141 secs)
+NP:default step 73000 lr 8.467e-05 [train_loss] loss -0.5129 (1.143 secs)
+NP:default RBF ctx_ll 0.7400 tar_ll 0.2979 (3.105 secs)
+
+NP:default step 73200 lr 8.350e-05 [train_loss] loss -0.5023 (4.867 secs)
+NP:default step 73400 lr 8.233e-05 [train_loss] loss -0.5005 (1.142 secs)
+NP:default step 73600 lr 8.117e-05 [train_loss] loss -0.4937 (1.143 secs)
+NP:default step 73800 lr 8.001e-05 [train_loss] loss -0.5120 (1.141 secs)
+NP:default step 74000 lr 7.886e-05 [train_loss] loss -0.4762 (1.141 secs)
+NP:default RBF ctx_ll 0.7319 tar_ll 0.2994 (3.087 secs)
+
+save model at epoch 74000
+NP:default step 74200 lr 7.772e-05 [train_loss] loss -0.4866 (4.781 secs)
+NP:default step 74400 lr 7.659e-05 [train_loss] loss -0.4926 (1.141 secs)
+NP:default step 74600 lr 7.546e-05 [train_loss] loss -0.4730 (1.138 secs)
+NP:default step 74800 lr 7.434e-05 [train_loss] loss -0.4825 (1.143 secs)
+NP:default step 75000 lr 7.322e-05 [train_loss] loss -0.4962 (1.140 secs)
+NP:default RBF ctx_ll 0.7476 tar_ll 0.2959 (3.080 secs)
+
+NP:default RBF ctx_ll 0.7477 tar_ll 0.2958 (3.100 secs)
+
+NP:default step 75200 lr 7.212e-05 [train_loss] loss -0.4739 (4.788 secs)
+NP:default step 75400 lr 7.102e-05 [train_loss] loss -0.4585 (1.144 secs)
+NP:default step 75600 lr 6.992e-05 [train_loss] loss -0.4908 (1.144 secs)
+NP:default step 75800 lr 6.884e-05 [train_loss] loss -0.5150 (1.145 secs)
+NP:default step 76000 lr 6.776e-05 [train_loss] loss -0.5115 (1.144 secs)
+NP:default RBF ctx_ll 0.7494 tar_ll 0.2919 (3.083 secs)
+
+NP:default step 76200 lr 6.669e-05 [train_loss] loss -0.5052 (4.867 secs)
+NP:default step 76400 lr 6.562e-05 [train_loss] loss -0.4947 (1.147 secs)
+NP:default step 76600 lr 6.456e-05 [train_loss] loss -0.5647 (1.145 secs)
+NP:default step 76800 lr 6.351e-05 [train_loss] loss -0.5245 (1.146 secs)
+NP:default step 77000 lr 6.247e-05 [train_loss] loss -0.5041 (1.147 secs)
+NP:default RBF ctx_ll 0.7453 tar_ll 0.3030 (3.092 secs)
+
+save model at epoch 77000
+NP:default step 77200 lr 6.144e-05 [train_loss] loss -0.5313 (4.803 secs)
+NP:default step 77400 lr 6.041e-05 [train_loss] loss -0.5049 (1.142 secs)
+NP:default step 77600 lr 5.939e-05 [train_loss] loss -0.5256 (1.143 secs)
+NP:default step 77800 lr 5.838e-05 [train_loss] loss -0.5059 (1.144 secs)
+NP:default step 78000 lr 5.737e-05 [train_loss] loss -0.5202 (1.145 secs)
+NP:default RBF ctx_ll 0.7582 tar_ll 0.2987 (3.100 secs)
+
+NP:default step 78200 lr 5.637e-05 [train_loss] loss -0.5166 (4.783 secs)
+NP:default step 78400 lr 5.538e-05 [train_loss] loss -0.4951 (1.141 secs)
+NP:default step 78600 lr 5.440e-05 [train_loss] loss -0.5576 (1.142 secs)
+NP:default step 78800 lr 5.343e-05 [train_loss] loss -0.5131 (1.141 secs)
+NP:default step 79000 lr 5.246e-05 [train_loss] loss -0.5091 (1.142 secs)
+NP:default RBF ctx_ll 0.7450 tar_ll 0.3093 (3.086 secs)
+
+save model at epoch 79000
+NP:default step 79200 lr 5.150e-05 [train_loss] loss -0.4802 (4.783 secs)
+NP:default step 79400 lr 5.055e-05 [train_loss] loss -0.5300 (1.142 secs)
+NP:default step 79600 lr 4.961e-05 [train_loss] loss -0.5063 (1.143 secs)
+NP:default step 79800 lr 4.867e-05 [train_loss] loss -0.4786 (1.142 secs)
+NP:default step 80000 lr 4.775e-05 [train_loss] loss -0.5217 (1.142 secs)
+NP:default RBF ctx_ll 0.7630 tar_ll 0.2942 (3.110 secs)
+
+NP:default RBF ctx_ll 0.7631 tar_ll 0.2953 (3.103 secs)
+
+NP:default step 80200 lr 4.683e-05 [train_loss] loss -0.5344 (4.787 secs)
+NP:default step 80400 lr 4.592e-05 [train_loss] loss -0.4966 (1.146 secs)
+NP:default step 80600 lr 4.501e-05 [train_loss] loss -0.4819 (1.143 secs)
+NP:default step 80800 lr 4.412e-05 [train_loss] loss -0.4947 (1.143 secs)
+NP:default step 81000 lr 4.323e-05 [train_loss] loss -0.5088 (1.144 secs)
+NP:default RBF ctx_ll 0.7561 tar_ll 0.3035 (3.105 secs)
+
+NP:default step 81200 lr 4.235e-05 [train_loss] loss -0.5239 (4.788 secs)
+NP:default step 81400 lr 4.148e-05 [train_loss] loss -0.5086 (1.141 secs)
+NP:default step 81600 lr 4.062e-05 [train_loss] loss -0.5425 (1.141 secs)
+NP:default step 81800 lr 3.976e-05 [train_loss] loss -0.4993 (1.140 secs)
+NP:default step 82000 lr 3.892e-05 [train_loss] loss -0.5515 (1.139 secs)
+NP:default RBF ctx_ll 0.7535 tar_ll 0.3118 (3.089 secs)
+
+save model at epoch 82000
+NP:default step 82200 lr 3.808e-05 [train_loss] loss -0.5310 (4.873 secs)
+NP:default step 82400 lr 3.725e-05 [train_loss] loss -0.5227 (1.144 secs)
+NP:default step 82600 lr 3.643e-05 [train_loss] loss -0.4978 (1.143 secs)
+NP:default step 82800 lr 3.562e-05 [train_loss] loss -0.5239 (1.143 secs)
+NP:default step 83000 lr 3.481e-05 [train_loss] loss -0.5077 (1.143 secs)
+NP:default RBF ctx_ll 0.7622 tar_ll 0.3066 (3.087 secs)
+
+NP:default step 83200 lr 3.402e-05 [train_loss] loss -0.4839 (4.773 secs)
+NP:default step 83400 lr 3.323e-05 [train_loss] loss -0.5008 (1.140 secs)
+NP:default step 83600 lr 3.245e-05 [train_loss] loss -0.5000 (1.141 secs)
+NP:default step 83800 lr 3.168e-05 [train_loss] loss -0.5082 (1.140 secs)
+NP:default step 84000 lr 3.092e-05 [train_loss] loss -0.5057 (1.140 secs)
+NP:default RBF ctx_ll 0.7571 tar_ll 0.3137 (3.093 secs)
+
+save model at epoch 84000
+NP:default step 84200 lr 3.017e-05 [train_loss] loss -0.5206 (4.788 secs)
+NP:default step 84400 lr 2.943e-05 [train_loss] loss -0.5076 (1.141 secs)
+NP:default step 84600 lr 2.869e-05 [train_loss] loss -0.5248 (1.144 secs)
+NP:default step 84800 lr 2.797e-05 [train_loss] loss -0.4980 (1.144 secs)
+NP:default step 85000 lr 2.725e-05 [train_loss] loss -0.5055 (1.140 secs)
+NP:default RBF ctx_ll 0.7639 tar_ll 0.3089 (3.092 secs)
+
+NP:default RBF ctx_ll 0.7639 tar_ll 0.3083 (3.098 secs)
+
+NP:default step 85200 lr 2.654e-05 [train_loss] loss -0.5530 (4.871 secs)
+NP:default step 85400 lr 2.584e-05 [train_loss] loss -0.5010 (1.140 secs)
+NP:default step 85600 lr 2.515e-05 [train_loss] loss -0.5112 (1.142 secs)
+NP:default step 85800 lr 2.447e-05 [train_loss] loss -0.4893 (1.153 secs)
+NP:default step 86000 lr 2.379e-05 [train_loss] loss -0.5091 (1.141 secs)
+NP:default RBF ctx_ll 0.7578 tar_ll 0.3156 (3.087 secs)
+
+save model at epoch 86000
+NP:default step 86200 lr 2.313e-05 [train_loss] loss -0.5178 (4.786 secs)
+NP:default step 86400 lr 2.247e-05 [train_loss] loss -0.4924 (1.140 secs)
+NP:default step 86600 lr 2.183e-05 [train_loss] loss -0.4961 (1.139 secs)
+NP:default step 86800 lr 2.119e-05 [train_loss] loss -0.5020 (1.138 secs)
+NP:default step 87000 lr 2.056e-05 [train_loss] loss -0.5101 (1.139 secs)
+NP:default RBF ctx_ll 0.7575 tar_ll 0.3171 (3.097 secs)
+
+save model at epoch 87000
+NP:default step 87200 lr 1.994e-05 [train_loss] loss -0.5118 (4.790 secs)
+NP:default step 87400 lr 1.933e-05 [train_loss] loss -0.5199 (1.140 secs)
+NP:default step 87600 lr 1.873e-05 [train_loss] loss -0.5513 (1.143 secs)
+NP:default step 87800 lr 1.814e-05 [train_loss] loss -0.5109 (1.140 secs)
+NP:default step 88000 lr 1.756e-05 [train_loss] loss -0.4895 (1.140 secs)
+NP:default RBF ctx_ll 0.7615 tar_ll 0.3174 (3.088 secs)
+
+save model at epoch 88000
+NP:default step 88200 lr 1.698e-05 [train_loss] loss -0.5251 (4.794 secs)
+NP:default step 88400 lr 1.642e-05 [train_loss] loss -0.5246 (1.147 secs)
+NP:default step 88600 lr 1.586e-05 [train_loss] loss -0.5505 (1.145 secs)
+NP:default step 88800 lr 1.532e-05 [train_loss] loss -0.5271 (1.142 secs)
+NP:default step 89000 lr 1.478e-05 [train_loss] loss -0.4822 (1.144 secs)
+NP:default RBF ctx_ll 0.7653 tar_ll 0.3142 (3.087 secs)
+
+NP:default step 89200 lr 1.425e-05 [train_loss] loss -0.5269 (4.863 secs)
+NP:default step 89400 lr 1.373e-05 [train_loss] loss -0.5419 (1.143 secs)
+NP:default step 89600 lr 1.323e-05 [train_loss] loss -0.5385 (1.142 secs)
+NP:default step 89800 lr 1.273e-05 [train_loss] loss -0.5420 (1.140 secs)
+NP:default step 90000 lr 1.224e-05 [train_loss] loss -0.5531 (1.141 secs)
+NP:default RBF ctx_ll 0.7708 tar_ll 0.3116 (3.096 secs)
+
+NP:default RBF ctx_ll 0.7708 tar_ll 0.3112 (3.102 secs)
+
+NP:default step 90200 lr 1.176e-05 [train_loss] loss -0.4923 (4.793 secs)
+NP:default step 90400 lr 1.128e-05 [train_loss] loss -0.5614 (1.142 secs)
+NP:default step 90600 lr 1.082e-05 [train_loss] loss -0.5392 (1.145 secs)
+NP:default step 90800 lr 1.037e-05 [train_loss] loss -0.5149 (1.140 secs)
+NP:default step 91000 lr 9.927e-06 [train_loss] loss -0.4963 (1.146 secs)
+NP:default RBF ctx_ll 0.7680 tar_ll 0.3136 (3.087 secs)
+
+NP:default step 91200 lr 9.493e-06 [train_loss] loss -0.5179 (4.782 secs)
+NP:default step 91400 lr 9.069e-06 [train_loss] loss -0.5527 (1.142 secs)
+NP:default step 91600 lr 8.655e-06 [train_loss] loss -0.5214 (1.144 secs)
+NP:default step 91800 lr 8.250e-06 [train_loss] loss -0.5156 (1.153 secs)
+NP:default step 92000 lr 7.854e-06 [train_loss] loss -0.5265 (1.141 secs)
+NP:default RBF ctx_ll 0.7635 tar_ll 0.3181 (3.094 secs)
+
+save model at epoch 92000
+NP:default step 92200 lr 7.468e-06 [train_loss] loss -0.5165 (4.784 secs)
+NP:default step 92400 lr 7.092e-06 [train_loss] loss -0.4975 (1.141 secs)
+NP:default step 92600 lr 6.725e-06 [train_loss] loss -0.5456 (1.143 secs)
+NP:default step 92800 lr 6.368e-06 [train_loss] loss -0.5516 (1.141 secs)
+NP:default step 93000 lr 6.021e-06 [train_loss] loss -0.4935 (1.139 secs)
+NP:default RBF ctx_ll 0.7701 tar_ll 0.3143 (3.092 secs)
+
+NP:default step 93200 lr 5.683e-06 [train_loss] loss -0.5304 (4.790 secs)
+NP:default step 93400 lr 5.355e-06 [train_loss] loss -0.5276 (1.140 secs)
+NP:default step 93600 lr 5.036e-06 [train_loss] loss -0.5047 (1.146 secs)
+NP:default step 93800 lr 4.727e-06 [train_loss] loss -0.5241 (1.145 secs)
+NP:default step 94000 lr 4.428e-06 [train_loss] loss -0.5227 (1.145 secs)
+NP:default RBF ctx_ll 0.7688 tar_ll 0.3155 (3.100 secs)
+
+NP:default step 94200 lr 4.139e-06 [train_loss] loss -0.5133 (4.791 secs)
+NP:default step 94400 lr 3.859e-06 [train_loss] loss -0.5285 (1.142 secs)
+NP:default step 94600 lr 3.589e-06 [train_loss] loss -0.5519 (1.143 secs)
+NP:default step 94800 lr 3.329e-06 [train_loss] loss -0.5177 (1.144 secs)
+NP:default step 95000 lr 3.078e-06 [train_loss] loss -0.5181 (1.144 secs)
+NP:default RBF ctx_ll 0.7666 tar_ll 0.3180 (3.095 secs)
+
+NP:default RBF ctx_ll 0.7667 tar_ll 0.3176 (3.118 secs)
+
+NP:default step 95200 lr 2.837e-06 [train_loss] loss -0.5541 (4.813 secs)
+NP:default step 95400 lr 2.606e-06 [train_loss] loss -0.5653 (1.142 secs)
+NP:default step 95600 lr 2.385e-06 [train_loss] loss -0.5413 (1.141 secs)
+NP:default step 95800 lr 2.173e-06 [train_loss] loss -0.5270 (1.141 secs)
+NP:default step 96000 lr 1.971e-06 [train_loss] loss -0.5158 (1.142 secs)
+NP:default RBF ctx_ll 0.7681 tar_ll 0.3175 (3.098 secs)
+
+NP:default step 96200 lr 1.779e-06 [train_loss] loss -0.5133 (4.791 secs)
+NP:default step 96400 lr 1.597e-06 [train_loss] loss -0.5526 (1.144 secs)
+NP:default step 96600 lr 1.425e-06 [train_loss] loss -0.5100 (1.142 secs)
+NP:default step 96800 lr 1.262e-06 [train_loss] loss -0.5312 (1.143 secs)
+NP:default step 97000 lr 1.110e-06 [train_loss] loss -0.4909 (1.145 secs)
+NP:default RBF ctx_ll 0.7687 tar_ll 0.3171 (3.115 secs)
+
+NP:default step 97200 lr 9.666e-07 [train_loss] loss -0.5142 (4.800 secs)
+NP:default step 97400 lr 8.335e-07 [train_loss] loss -0.5064 (1.141 secs)
+NP:default step 97600 lr 7.103e-07 [train_loss] loss -0.5340 (1.141 secs)
+NP:default step 97800 lr 5.969e-07 [train_loss] loss -0.5119 (1.154 secs)
+NP:default step 98000 lr 4.933e-07 [train_loss] loss -0.5499 (1.142 secs)
+NP:default RBF ctx_ll 0.7686 tar_ll 0.3173 (3.106 secs)
+
+NP:default step 98200 lr 3.996e-07 [train_loss] loss -0.5293 (4.886 secs)
+NP:default step 98400 lr 3.158e-07 [train_loss] loss -0.5385 (1.148 secs)
+NP:default step 98600 lr 2.418e-07 [train_loss] loss -0.5412 (1.143 secs)
+NP:default step 98800 lr 1.776e-07 [train_loss] loss -0.5504 (1.145 secs)
+NP:default step 99000 lr 1.234e-07 [train_loss] loss -0.5102 (1.143 secs)
+NP:default RBF ctx_ll 0.7697 tar_ll 0.3173 (3.100 secs)
+
+NP:default step 99200 lr 7.895e-08 [train_loss] loss -0.5335 (4.794 secs)
+NP:default step 99400 lr 4.441e-08 [train_loss] loss -0.5542 (1.143 secs)
+NP:default step 99600 lr 1.974e-08 [train_loss] loss -0.5688 (1.143 secs)
+NP:default step 99800 lr 4.935e-09 [train_loss] loss -0.5047 (1.142 secs)
+NP:default step 100000 lr 0.000e+00 [train_loss] loss -0.5290 (1.143 secs)
+NP:default RBF ctx_ll 0.7698 tar_ll 0.3171 (3.109 secs)
+
+NP:default RBF ctx_ll 0.7698 tar_ll 0.3172 (3.127 secs)
+
+Experiment: NP-default
+Total number of parameters: 232194
+
+NP:default step 200 lr 5.000e-04 [train_loss] loss 0.6314 (1.567 secs)
+NP:default step 400 lr 5.000e-04 [train_loss] loss 0.5430 (1.294 secs)
+NP:default step 600 lr 5.000e-04 [train_loss] loss 0.5183 (1.300 secs)
+NP:default step 800 lr 4.999e-04 [train_loss] loss 0.5500 (1.300 secs)
+NP:default step 1000 lr 4.999e-04 [train_loss] loss 0.5304 (1.301 secs)
+NP:default RBF ctx_ll -0.4458 tar_ll -0.5587 (3.099 secs)
+
+save model at epoch 1000
+NP:default step 1200 lr 4.998e-04 [train_loss] loss 0.5381 (6.218 secs)
+NP:default step 1400 lr 4.998e-04 [train_loss] loss 0.5133 (1.304 secs)
+NP:default step 1600 lr 4.997e-04 [train_loss] loss 0.4973 (1.307 secs)
+NP:default step 1800 lr 4.996e-04 [train_loss] loss 0.4264 (1.303 secs)
+NP:default step 2000 lr 4.995e-04 [train_loss] loss 0.4378 (1.314 secs)
+NP:default RBF ctx_ll -0.3511 tar_ll -0.5106 (3.083 secs)
+
+save model at epoch 2000
+NP:default step 2200 lr 4.994e-04 [train_loss] loss 0.4408 (4.986 secs)
+NP:default step 2400 lr 4.993e-04 [train_loss] loss 0.4358 (1.308 secs)
+NP:default step 2600 lr 4.992e-04 [train_loss] loss 0.4002 (1.310 secs)
+NP:default step 2800 lr 4.990e-04 [train_loss] loss 0.3987 (1.306 secs)
+NP:default step 3000 lr 4.989e-04 [train_loss] loss 0.3186 (1.307 secs)
+NP:default RBF ctx_ll -0.2441 tar_ll -0.4345 (3.120 secs)
+
+save model at epoch 3000
+NP:default step 3200 lr 4.987e-04 [train_loss] loss 0.3456 (5.021 secs)
+NP:default step 3400 lr 4.986e-04 [train_loss] loss 0.3309 (1.306 secs)
+NP:default step 3600 lr 4.984e-04 [train_loss] loss 0.3044 (1.308 secs)
+NP:default step 3800 lr 4.982e-04 [train_loss] loss 0.2911 (1.303 secs)
+NP:default step 4000 lr 4.980e-04 [train_loss] loss 0.2886 (1.308 secs)
+NP:default RBF ctx_ll -0.1712 tar_ll -0.3789 (3.101 secs)
+
+save model at epoch 4000
+NP:default step 4200 lr 4.978e-04 [train_loss] loss 0.2890 (5.000 secs)
+NP:default step 4400 lr 4.976e-04 [train_loss] loss 0.2568 (1.308 secs)
+NP:default step 4600 lr 4.974e-04 [train_loss] loss 0.2328 (1.308 secs)
+NP:default step 4800 lr 4.972e-04 [train_loss] loss 0.2162 (1.303 secs)
+NP:default step 5000 lr 4.969e-04 [train_loss] loss 0.1883 (1.309 secs)
+NP:default RBF ctx_ll -0.0970 tar_ll -0.2980 (3.092 secs)
+
+NP:default RBF ctx_ll -0.0971 tar_ll -0.2983 (3.103 secs)
+
+save model at epoch 5000
+NP:default step 5200 lr 4.967e-04 [train_loss] loss 0.2015 (4.977 secs)
+NP:default step 5400 lr 4.964e-04 [train_loss] loss 0.1764 (1.303 secs)
+NP:default step 5600 lr 4.961e-04 [train_loss] loss 0.1773 (1.308 secs)
+NP:default step 5800 lr 4.959e-04 [train_loss] loss 0.1622 (1.305 secs)
+NP:default step 6000 lr 4.956e-04 [train_loss] loss 0.1835 (1.309 secs)
+NP:default RBF ctx_ll -0.0721 tar_ll -0.2791 (3.088 secs)
+
+save model at epoch 6000
+NP:default step 6200 lr 4.953e-04 [train_loss] loss 0.1419 (4.982 secs)
+NP:default step 6400 lr 4.950e-04 [train_loss] loss 0.1254 (1.304 secs)
+NP:default step 6600 lr 4.946e-04 [train_loss] loss 0.1297 (1.303 secs)
+NP:default step 6800 lr 4.943e-04 [train_loss] loss 0.1189 (1.305 secs)
+NP:default step 7000 lr 4.940e-04 [train_loss] loss 0.1445 (1.303 secs)
+NP:default RBF ctx_ll 0.0230 tar_ll -0.2542 (3.118 secs)
+
+save model at epoch 7000
+NP:default step 7200 lr 4.936e-04 [train_loss] loss 0.1029 (5.053 secs)
+NP:default step 7400 lr 4.933e-04 [train_loss] loss 0.1034 (1.307 secs)
+NP:default step 7600 lr 4.929e-04 [train_loss] loss 0.1227 (1.313 secs)
+NP:default step 7800 lr 4.925e-04 [train_loss] loss 0.1127 (1.308 secs)
+NP:default step 8000 lr 4.921e-04 [train_loss] loss 0.0791 (1.306 secs)
+NP:default RBF ctx_ll 0.1091 tar_ll -0.2444 (3.079 secs)
+
+save model at epoch 8000
+NP:default step 8200 lr 4.918e-04 [train_loss] loss 0.0575 (5.075 secs)
+NP:default step 8400 lr 4.913e-04 [train_loss] loss 0.0716 (1.308 secs)
+NP:default step 8600 lr 4.909e-04 [train_loss] loss 0.0650 (1.306 secs)
+NP:default step 8800 lr 4.905e-04 [train_loss] loss 0.0394 (1.310 secs)
+NP:default step 9000 lr 4.901e-04 [train_loss] loss 0.0231 (1.308 secs)
+NP:default RBF ctx_ll 0.1606 tar_ll -0.1939 (3.086 secs)
+
+save model at epoch 9000
+NP:default step 9200 lr 4.896e-04 [train_loss] loss 0.0580 (4.956 secs)
+NP:default step 9400 lr 4.892e-04 [train_loss] loss 0.0114 (1.307 secs)
+NP:default step 9600 lr 4.887e-04 [train_loss] loss 0.0127 (1.305 secs)
+NP:default step 9800 lr 4.882e-04 [train_loss] loss 0.0002 (1.311 secs)
+NP:default step 10000 lr 4.878e-04 [train_loss] loss 0.0574 (1.311 secs)
+NP:default RBF ctx_ll 0.1636 tar_ll -0.1419 (3.101 secs)
+
+NP:default RBF ctx_ll 0.1636 tar_ll -0.1418 (3.106 secs)
+
+save model at epoch 10000
+NP:default step 10200 lr 4.873e-04 [train_loss] loss 0.0124 (5.026 secs)
+NP:default step 10400 lr 4.868e-04 [train_loss] loss -0.0029 (1.304 secs)
+NP:default step 10600 lr 4.863e-04 [train_loss] loss -0.0032 (1.304 secs)
+NP:default step 10800 lr 4.857e-04 [train_loss] loss 0.0170 (1.306 secs)
+NP:default step 11000 lr 4.852e-04 [train_loss] loss -0.0512 (1.306 secs)
+NP:default RBF ctx_ll 0.2324 tar_ll -0.1480 (3.094 secs)
+
+NP:default step 11200 lr 4.847e-04 [train_loss] loss -0.0529 (4.970 secs)
+NP:default step 11400 lr 4.841e-04 [train_loss] loss -0.0277 (1.308 secs)
+NP:default step 11600 lr 4.836e-04 [train_loss] loss -0.0279 (1.308 secs)
+NP:default step 11800 lr 4.830e-04 [train_loss] loss -0.0592 (1.307 secs)
+NP:default step 12000 lr 4.824e-04 [train_loss] loss -0.0805 (1.310 secs)
+NP:default RBF ctx_ll 0.2954 tar_ll -0.1274 (3.086 secs)
+
+save model at epoch 12000
+NP:default step 12200 lr 4.819e-04 [train_loss] loss -0.0539 (4.964 secs)
+NP:default step 12400 lr 4.813e-04 [train_loss] loss -0.0231 (1.304 secs)
+NP:default step 12600 lr 4.807e-04 [train_loss] loss -0.0804 (1.311 secs)
+NP:default step 12800 lr 4.801e-04 [train_loss] loss -0.0623 (1.307 secs)
+NP:default step 13000 lr 4.794e-04 [train_loss] loss -0.0751 (1.268 secs)
+NP:default RBF ctx_ll 0.2503 tar_ll -0.0666 (3.087 secs)
+
+save model at epoch 13000
+NP:default step 13200 lr 4.788e-04 [train_loss] loss -0.0825 (4.964 secs)
+NP:default step 13400 lr 4.782e-04 [train_loss] loss -0.0980 (1.311 secs)
+NP:default step 13600 lr 4.775e-04 [train_loss] loss -0.0920 (1.311 secs)
+NP:default step 13800 lr 4.769e-04 [train_loss] loss -0.1252 (1.314 secs)
+NP:default step 14000 lr 4.762e-04 [train_loss] loss -0.1103 (1.315 secs)
+NP:default RBF ctx_ll 0.3068 tar_ll -0.0405 (3.099 secs)
+
+save model at epoch 14000
+NP:default step 14200 lr 4.755e-04 [train_loss] loss -0.1512 (5.081 secs)
+NP:default step 14400 lr 4.749e-04 [train_loss] loss -0.1370 (1.308 secs)
+NP:default step 14600 lr 4.742e-04 [train_loss] loss -0.1315 (1.310 secs)
+NP:default step 14800 lr 4.735e-04 [train_loss] loss -0.1352 (1.316 secs)
+NP:default step 15000 lr 4.728e-04 [train_loss] loss -0.0871 (1.324 secs)
+NP:default RBF ctx_ll 0.3603 tar_ll -0.0580 (3.079 secs)
+
+NP:default RBF ctx_ll 0.3602 tar_ll -0.0586 (3.078 secs)
+
+NP:default step 15200 lr 4.720e-04 [train_loss] loss -0.1023 (4.940 secs)
+NP:default step 15400 lr 4.713e-04 [train_loss] loss -0.1334 (1.306 secs)
+NP:default step 15600 lr 4.706e-04 [train_loss] loss -0.1360 (1.307 secs)
+NP:default step 15800 lr 4.698e-04 [train_loss] loss -0.1402 (1.316 secs)
+NP:default step 16000 lr 4.691e-04 [train_loss] loss -0.1696 (1.319 secs)
+NP:default RBF ctx_ll 0.3795 tar_ll -0.0489 (3.097 secs)
+
+NP:default step 16200 lr 4.683e-04 [train_loss] loss -0.1304 (4.997 secs)
+NP:default step 16400 lr 4.675e-04 [train_loss] loss -0.1045 (1.306 secs)
+NP:default step 16600 lr 4.668e-04 [train_loss] loss -0.1955 (1.308 secs)
+NP:default step 16800 lr 4.660e-04 [train_loss] loss -0.1416 (1.306 secs)
+NP:default step 17000 lr 4.652e-04 [train_loss] loss -0.1832 (1.306 secs)
+NP:default RBF ctx_ll 0.3498 tar_ll 0.0078 (3.088 secs)
+
+save model at epoch 17000
+NP:default step 17200 lr 4.644e-04 [train_loss] loss -0.1510 (4.975 secs)
+NP:default step 17400 lr 4.636e-04 [train_loss] loss -0.1468 (1.316 secs)
+NP:default step 17600 lr 4.627e-04 [train_loss] loss -0.1279 (1.314 secs)
+NP:default step 17800 lr 4.619e-04 [train_loss] loss -0.1302 (1.318 secs)
+NP:default step 18000 lr 4.611e-04 [train_loss] loss -0.1660 (1.312 secs)
+NP:default RBF ctx_ll 0.3672 tar_ll -0.0341 (3.085 secs)
+
+NP:default step 18200 lr 4.602e-04 [train_loss] loss -0.1756 (4.985 secs)
+NP:default step 18400 lr 4.594e-04 [train_loss] loss -0.1631 (1.305 secs)
+NP:default step 18600 lr 4.585e-04 [train_loss] loss -0.1748 (1.308 secs)
+NP:default step 18800 lr 4.576e-04 [train_loss] loss -0.1870 (1.305 secs)
+NP:default step 19000 lr 4.568e-04 [train_loss] loss -0.1997 (1.305 secs)
+NP:default RBF ctx_ll 0.3497 tar_ll 0.0314 (3.066 secs)
+
+save model at epoch 19000
+NP:default step 19200 lr 4.559e-04 [train_loss] loss -0.1824 (4.930 secs)
+NP:default step 19400 lr 4.550e-04 [train_loss] loss -0.2349 (1.313 secs)
+NP:default step 19600 lr 4.541e-04 [train_loss] loss -0.1779 (1.315 secs)
+NP:default step 19800 lr 4.532e-04 [train_loss] loss -0.2212 (1.314 secs)
+NP:default step 20000 lr 4.523e-04 [train_loss] loss -0.2057 (1.309 secs)
+NP:default RBF ctx_ll 0.3811 tar_ll 0.0284 (3.064 secs)
+
+NP:default RBF ctx_ll 0.3810 tar_ll 0.0283 (3.078 secs)
+
+NP:default step 20200 lr 4.513e-04 [train_loss] loss -0.1658 (4.937 secs)
+NP:default step 20400 lr 4.504e-04 [train_loss] loss -0.2455 (1.315 secs)
+NP:default step 20600 lr 4.494e-04 [train_loss] loss -0.2396 (1.306 secs)
+NP:default step 20800 lr 4.485e-04 [train_loss] loss -0.2139 (1.306 secs)
+NP:default step 21000 lr 4.475e-04 [train_loss] loss -0.1764 (1.307 secs)
+NP:default RBF ctx_ll 0.4293 tar_ll 0.0412 (3.061 secs)
+
+save model at epoch 21000
+NP:default step 21200 lr 4.466e-04 [train_loss] loss -0.1723 (4.962 secs)
+NP:default step 21400 lr 4.456e-04 [train_loss] loss -0.1757 (1.312 secs)
+NP:default step 21600 lr 4.446e-04 [train_loss] loss -0.2325 (1.317 secs)
+NP:default step 21800 lr 4.436e-04 [train_loss] loss -0.1833 (1.322 secs)
+NP:default step 22000 lr 4.426e-04 [train_loss] loss -0.2330 (1.320 secs)
+NP:default RBF ctx_ll 0.4383 tar_ll 0.0507 (3.091 secs)
+
+save model at epoch 22000
+NP:default step 22200 lr 4.416e-04 [train_loss] loss -0.2199 (4.997 secs)
+NP:default step 22400 lr 4.406e-04 [train_loss] loss -0.2223 (1.317 secs)
+NP:default step 22600 lr 4.396e-04 [train_loss] loss -0.2561 (1.315 secs)
+NP:default step 22800 lr 4.386e-04 [train_loss] loss -0.2124 (1.311 secs)
+NP:default step 23000 lr 4.375e-04 [train_loss] loss -0.2414 (1.316 secs)
+NP:default RBF ctx_ll 0.4223 tar_ll 0.0854 (3.084 secs)
+
+save model at epoch 23000
+NP:default step 23200 lr 4.365e-04 [train_loss] loss -0.1998 (5.044 secs)
+NP:default step 23400 lr 4.354e-04 [train_loss] loss -0.2424 (1.324 secs)
+NP:default step 23600 lr 4.344e-04 [train_loss] loss -0.2366 (1.328 secs)
+NP:default step 23800 lr 4.333e-04 [train_loss] loss -0.2579 (1.317 secs)
+NP:default step 24000 lr 4.322e-04 [train_loss] loss -0.2398 (1.324 secs)
+NP:default RBF ctx_ll 0.4808 tar_ll 0.0509 (3.074 secs)
+
+NP:default step 24200 lr 4.312e-04 [train_loss] loss -0.2462 (4.988 secs)
+NP:default step 24400 lr 4.301e-04 [train_loss] loss -0.2694 (1.321 secs)
+NP:default step 24600 lr 4.290e-04 [train_loss] loss -0.2163 (1.318 secs)
+NP:default step 24800 lr 4.279e-04 [train_loss] loss -0.2214 (1.317 secs)
+NP:default step 25000 lr 4.268e-04 [train_loss] loss -0.2834 (1.320 secs)
+NP:default RBF ctx_ll 0.4679 tar_ll 0.0786 (3.077 secs)
+
+NP:default RBF ctx_ll 0.4677 tar_ll 0.0782 (3.086 secs)
+
+NP:default step 25200 lr 4.257e-04 [train_loss] loss -0.2858 (4.954 secs)
+NP:default step 25400 lr 4.245e-04 [train_loss] loss -0.2793 (1.311 secs)
+NP:default step 25600 lr 4.234e-04 [train_loss] loss -0.2521 (1.312 secs)
+NP:default step 25800 lr 4.223e-04 [train_loss] loss -0.2381 (1.312 secs)
+NP:default step 26000 lr 4.211e-04 [train_loss] loss -0.2361 (1.311 secs)
+NP:default RBF ctx_ll 0.4922 tar_ll 0.1047 (3.088 secs)
+
+save model at epoch 26000
+NP:default step 26200 lr 4.200e-04 [train_loss] loss -0.2737 (5.028 secs)
+NP:default step 26400 lr 4.188e-04 [train_loss] loss -0.2806 (1.313 secs)
+NP:default step 26600 lr 4.177e-04 [train_loss] loss -0.2680 (1.312 secs)
+NP:default step 26800 lr 4.165e-04 [train_loss] loss -0.2616 (1.314 secs)
+NP:default step 27000 lr 4.153e-04 [train_loss] loss -0.2904 (1.317 secs)
+NP:default RBF ctx_ll 0.4901 tar_ll 0.0998 (3.088 secs)
+
+NP:default step 27200 lr 4.141e-04 [train_loss] loss -0.2514 (4.960 secs)
+NP:default step 27400 lr 4.130e-04 [train_loss] loss -0.2786 (1.311 secs)
+NP:default step 27600 lr 4.118e-04 [train_loss] loss -0.2463 (1.308 secs)
+NP:default step 27800 lr 4.106e-04 [train_loss] loss -0.2465 (1.316 secs)
+NP:default step 28000 lr 4.094e-04 [train_loss] loss -0.2893 (1.315 secs)
+NP:default RBF ctx_ll 0.5099 tar_ll 0.1158 (3.081 secs)
+
+save model at epoch 28000
+NP:default step 28200 lr 4.081e-04 [train_loss] loss -0.2633 (4.981 secs)
+NP:default step 28400 lr 4.069e-04 [train_loss] loss -0.3313 (1.314 secs)
+NP:default step 28600 lr 4.057e-04 [train_loss] loss -0.3005 (1.311 secs)
+NP:default step 28800 lr 4.045e-04 [train_loss] loss -0.2678 (1.311 secs)
+NP:default step 29000 lr 4.032e-04 [train_loss] loss -0.2813 (1.312 secs)
+NP:default RBF ctx_ll 0.5363 tar_ll 0.0852 (3.100 secs)
+
+NP:default step 29200 lr 4.020e-04 [train_loss] loss -0.2837 (4.972 secs)
+NP:default step 29400 lr 4.007e-04 [train_loss] loss -0.3081 (1.319 secs)
+NP:default step 29600 lr 3.995e-04 [train_loss] loss -0.3250 (1.318 secs)
+NP:default step 29800 lr 3.982e-04 [train_loss] loss -0.2838 (1.316 secs)
+NP:default step 30000 lr 3.969e-04 [train_loss] loss -0.2960 (1.317 secs)
+NP:default RBF ctx_ll 0.4895 tar_ll 0.1395 (3.084 secs)
+
+NP:default RBF ctx_ll 0.4897 tar_ll 0.1402 (3.088 secs)
+
+save model at epoch 30000
+NP:default step 30200 lr 3.957e-04 [train_loss] loss -0.2981 (4.948 secs)
+NP:default step 30400 lr 3.944e-04 [train_loss] loss -0.2920 (1.311 secs)
+NP:default step 30600 lr 3.931e-04 [train_loss] loss -0.3227 (1.313 secs)
+NP:default step 30800 lr 3.918e-04 [train_loss] loss -0.3155 (1.314 secs)
+NP:default step 31000 lr 3.905e-04 [train_loss] loss -0.3126 (1.317 secs)
+NP:default RBF ctx_ll 0.4979 tar_ll 0.1442 (3.076 secs)
+
+save model at epoch 31000
+NP:default step 31200 lr 3.892e-04 [train_loss] loss -0.2957 (4.978 secs)
+NP:default step 31400 lr 3.879e-04 [train_loss] loss -0.3158 (1.314 secs)
+NP:default step 31600 lr 3.866e-04 [train_loss] loss -0.3092 (1.316 secs)
+NP:default step 31800 lr 3.853e-04 [train_loss] loss -0.3208 (1.316 secs)
+NP:default step 32000 lr 3.840e-04 [train_loss] loss -0.3411 (1.319 secs)
+NP:default RBF ctx_ll 0.5519 tar_ll 0.1473 (3.074 secs)
+
+save model at epoch 32000
+NP:default step 32200 lr 3.826e-04 [train_loss] loss -0.3383 (5.220 secs)
+NP:default step 32400 lr 3.813e-04 [train_loss] loss -0.2870 (1.309 secs)
+NP:default step 32600 lr 3.800e-04 [train_loss] loss -0.3538 (1.309 secs)
+NP:default step 32800 lr 3.786e-04 [train_loss] loss -0.3432 (1.315 secs)
+NP:default step 33000 lr 3.773e-04 [train_loss] loss -0.2977 (1.313 secs)
+NP:default RBF ctx_ll 0.5176 tar_ll 0.1394 (3.060 secs)
+
+NP:default step 33200 lr 3.759e-04 [train_loss] loss -0.3451 (4.961 secs)
+NP:default step 33400 lr 3.745e-04 [train_loss] loss -0.3294 (1.313 secs)
+NP:default step 33600 lr 3.732e-04 [train_loss] loss -0.3359 (1.306 secs)
+NP:default step 33800 lr 3.718e-04 [train_loss] loss -0.3337 (1.290 secs)
+NP:default step 34000 lr 3.704e-04 [train_loss] loss -0.3431 (1.314 secs)
+NP:default RBF ctx_ll 0.5883 tar_ll 0.1242 (3.105 secs)
+
+NP:default step 34200 lr 3.691e-04 [train_loss] loss -0.3590 (5.014 secs)
+NP:default step 34400 lr 3.677e-04 [train_loss] loss -0.3242 (1.298 secs)
+NP:default step 34600 lr 3.663e-04 [train_loss] loss -0.3261 (1.157 secs)
+NP:default step 34800 lr 3.649e-04 [train_loss] loss -0.3421 (1.162 secs)
+NP:default step 35000 lr 3.635e-04 [train_loss] loss -0.3398 (1.162 secs)
+NP:default RBF ctx_ll 0.5568 tar_ll 0.1763 (3.108 secs)
+
+NP:default RBF ctx_ll 0.5568 tar_ll 0.1769 (3.118 secs)
+
+save model at epoch 35000
+NP:default step 35200 lr 3.621e-04 [train_loss] loss -0.3195 (4.943 secs)
+NP:default step 35400 lr 3.607e-04 [train_loss] loss -0.3730 (1.162 secs)
+NP:default step 35600 lr 3.593e-04 [train_loss] loss -0.3184 (1.160 secs)
+NP:default step 35800 lr 3.579e-04 [train_loss] loss -0.3343 (1.161 secs)
+NP:default step 36000 lr 3.564e-04 [train_loss] loss -0.3154 (1.164 secs)
+NP:default RBF ctx_ll 0.5602 tar_ll 0.1753 (3.114 secs)
+
+NP:default step 36200 lr 3.550e-04 [train_loss] loss -0.3333 (4.867 secs)
+NP:default step 36400 lr 3.536e-04 [train_loss] loss -0.3494 (1.158 secs)
+NP:default step 36600 lr 3.522e-04 [train_loss] loss -0.3548 (1.163 secs)
+NP:default step 36800 lr 3.507e-04 [train_loss] loss -0.3528 (1.163 secs)
+NP:default step 37000 lr 3.493e-04 [train_loss] loss -0.3587 (1.161 secs)
+NP:default RBF ctx_ll 0.5708 tar_ll 0.1642 (3.082 secs)
+
+NP:default step 37200 lr 3.478e-04 [train_loss] loss -0.3459 (4.833 secs)
+NP:default step 37400 lr 3.464e-04 [train_loss] loss -0.3186 (1.163 secs)
+NP:default step 37600 lr 3.449e-04 [train_loss] loss -0.3776 (1.162 secs)
+NP:default step 37800 lr 3.435e-04 [train_loss] loss -0.3834 (1.164 secs)
+NP:default step 38000 lr 3.420e-04 [train_loss] loss -0.3718 (1.164 secs)
+NP:default RBF ctx_ll 0.5822 tar_ll 0.1607 (3.076 secs)
+
+NP:default step 38200 lr 3.406e-04 [train_loss] loss -0.3402 (5.350 secs)
+NP:default step 38400 lr 3.391e-04 [train_loss] loss -0.3669 (1.160 secs)
+NP:default step 38600 lr 3.376e-04 [train_loss] loss -0.3802 (1.164 secs)
+NP:default step 38800 lr 3.362e-04 [train_loss] loss -0.3748 (1.163 secs)
+NP:default step 39000 lr 3.347e-04 [train_loss] loss -0.3663 (1.164 secs)
+NP:default RBF ctx_ll 0.5892 tar_ll 0.1756 (3.100 secs)
+
+NP:default step 39200 lr 3.332e-04 [train_loss] loss -0.3638 (4.994 secs)
+NP:default step 39400 lr 3.317e-04 [train_loss] loss -0.3569 (1.164 secs)
+NP:default step 39600 lr 3.302e-04 [train_loss] loss -0.3802 (1.163 secs)
+NP:default step 39800 lr 3.287e-04 [train_loss] loss -0.3878 (1.163 secs)
+NP:default step 40000 lr 3.273e-04 [train_loss] loss -0.3946 (1.161 secs)
+NP:default RBF ctx_ll 0.6093 tar_ll 0.1781 (3.102 secs)
+
+NP:default RBF ctx_ll 0.6093 tar_ll 0.1793 (3.107 secs)
+
+save model at epoch 40000
+NP:default step 40200 lr 3.258e-04 [train_loss] loss -0.3594 (4.963 secs)
+NP:default step 40400 lr 3.243e-04 [train_loss] loss -0.3490 (1.159 secs)
+NP:default step 40600 lr 3.228e-04 [train_loss] loss -0.3835 (1.163 secs)
+NP:default step 40800 lr 3.213e-04 [train_loss] loss -0.3214 (1.163 secs)
+NP:default step 41000 lr 3.197e-04 [train_loss] loss -0.3635 (1.172 secs)
+NP:default RBF ctx_ll 0.6232 tar_ll 0.1961 (3.085 secs)
+
+save model at epoch 41000
+NP:default step 41200 lr 3.182e-04 [train_loss] loss -0.3855 (4.831 secs)
+NP:default step 41400 lr 3.167e-04 [train_loss] loss -0.4012 (1.159 secs)
+NP:default step 41600 lr 3.152e-04 [train_loss] loss -0.4025 (1.161 secs)
+NP:default step 41800 lr 3.137e-04 [train_loss] loss -0.3732 (1.159 secs)
+NP:default step 42000 lr 3.122e-04 [train_loss] loss -0.4080 (1.163 secs)
+NP:default RBF ctx_ll 0.6194 tar_ll 0.2087 (3.084 secs)
+
+save model at epoch 42000
+NP:default step 42200 lr 3.106e-04 [train_loss] loss -0.4011 (4.807 secs)
+NP:default step 42400 lr 3.091e-04 [train_loss] loss -0.4096 (1.162 secs)
+NP:default step 42600 lr 3.076e-04 [train_loss] loss -0.3697 (1.161 secs)
+NP:default step 42800 lr 3.061e-04 [train_loss] loss -0.3834 (1.161 secs)
+NP:default step 43000 lr 3.045e-04 [train_loss] loss -0.4385 (1.162 secs)
+NP:default RBF ctx_ll 0.6318 tar_ll 0.1931 (3.075 secs)
+
+NP:default step 43200 lr 3.030e-04 [train_loss] loss -0.3750 (4.806 secs)
+NP:default step 43400 lr 3.015e-04 [train_loss] loss -0.4127 (1.160 secs)
+NP:default step 43600 lr 2.999e-04 [train_loss] loss -0.4167 (1.161 secs)
+NP:default step 43800 lr 2.984e-04 [train_loss] loss -0.3792 (1.163 secs)
+NP:default step 44000 lr 2.968e-04 [train_loss] loss -0.3769 (1.159 secs)
+NP:default RBF ctx_ll 0.6347 tar_ll 0.1798 (3.076 secs)
+
+NP:default step 44200 lr 2.953e-04 [train_loss] loss -0.4016 (4.787 secs)
+NP:default step 44400 lr 2.938e-04 [train_loss] loss -0.3943 (1.160 secs)
+NP:default step 44600 lr 2.922e-04 [train_loss] loss -0.4277 (1.163 secs)
+NP:default step 44800 lr 2.907e-04 [train_loss] loss -0.4357 (1.165 secs)
+NP:default step 45000 lr 2.891e-04 [train_loss] loss -0.4102 (1.163 secs)
+NP:default RBF ctx_ll 0.6607 tar_ll 0.1864 (3.056 secs)
+
+NP:default RBF ctx_ll 0.6607 tar_ll 0.1865 (3.081 secs)
+
+NP:default step 45200 lr 2.876e-04 [train_loss] loss -0.4151 (4.795 secs)
+NP:default step 45400 lr 2.860e-04 [train_loss] loss -0.4242 (1.160 secs)
+NP:default step 45600 lr 2.844e-04 [train_loss] loss -0.4348 (1.161 secs)
+NP:default step 45800 lr 2.829e-04 [train_loss] loss -0.4143 (1.159 secs)
+NP:default step 46000 lr 2.813e-04 [train_loss] loss -0.3893 (1.165 secs)
+NP:default RBF ctx_ll 0.5729 tar_ll 0.1974 (3.073 secs)
+
+NP:default step 46200 lr 2.798e-04 [train_loss] loss -0.3976 (4.809 secs)
+NP:default step 46400 lr 2.782e-04 [train_loss] loss -0.4486 (1.164 secs)
+NP:default step 46600 lr 2.767e-04 [train_loss] loss -0.3863 (1.161 secs)
+NP:default step 46800 lr 2.751e-04 [train_loss] loss -0.4108 (1.173 secs)
+NP:default step 47000 lr 2.735e-04 [train_loss] loss -0.4149 (1.157 secs)
+NP:default RBF ctx_ll 0.6578 tar_ll 0.2037 (3.069 secs)
+
+NP:default step 47200 lr 2.720e-04 [train_loss] loss -0.3936 (4.780 secs)
+NP:default step 47400 lr 2.704e-04 [train_loss] loss -0.4269 (1.160 secs)
+NP:default step 47600 lr 2.688e-04 [train_loss] loss -0.4097 (1.160 secs)
+NP:default step 47800 lr 2.673e-04 [train_loss] loss -0.3897 (1.157 secs)
+NP:default step 48000 lr 2.657e-04 [train_loss] loss -0.4198 (1.159 secs)
+NP:default RBF ctx_ll 0.6697 tar_ll 0.2122 (3.069 secs)
+
+save model at epoch 48000
+NP:default step 48200 lr 2.641e-04 [train_loss] loss -0.3772 (4.866 secs)
+NP:default step 48400 lr 2.626e-04 [train_loss] loss -0.3850 (1.163 secs)
+NP:default step 48600 lr 2.610e-04 [train_loss] loss -0.4414 (1.161 secs)
+NP:default step 48800 lr 2.594e-04 [train_loss] loss -0.4279 (1.162 secs)
+NP:default step 49000 lr 2.579e-04 [train_loss] loss -0.4519 (1.160 secs)
+NP:default RBF ctx_ll 0.6626 tar_ll 0.2250 (3.084 secs)
+
+save model at epoch 49000
+NP:default step 49200 lr 2.563e-04 [train_loss] loss -0.4300 (4.825 secs)
+NP:default step 49400 lr 2.547e-04 [train_loss] loss -0.3807 (1.160 secs)
+NP:default step 49600 lr 2.531e-04 [train_loss] loss -0.4350 (1.159 secs)
+NP:default step 49800 lr 2.516e-04 [train_loss] loss -0.4377 (1.159 secs)
+NP:default step 50000 lr 2.500e-04 [train_loss] loss -0.4300 (1.159 secs)
+NP:default RBF ctx_ll 0.6779 tar_ll 0.2141 (3.074 secs)
+
+NP:default RBF ctx_ll 0.6779 tar_ll 0.2140 (3.086 secs)
+
+NP:default step 50200 lr 2.484e-04 [train_loss] loss -0.4193 (4.791 secs)
+NP:default step 50400 lr 2.469e-04 [train_loss] loss -0.4560 (1.160 secs)
+NP:default step 50600 lr 2.453e-04 [train_loss] loss -0.4205 (1.158 secs)
+NP:default step 50800 lr 2.437e-04 [train_loss] loss -0.4220 (1.159 secs)
+NP:default step 51000 lr 2.421e-04 [train_loss] loss -0.4299 (1.160 secs)
+NP:default RBF ctx_ll 0.6601 tar_ll 0.2413 (3.084 secs)
+
+save model at epoch 51000
+NP:default step 51200 lr 2.406e-04 [train_loss] loss -0.4434 (4.876 secs)
+NP:default step 51400 lr 2.390e-04 [train_loss] loss -0.4182 (1.158 secs)
+NP:default step 51600 lr 2.374e-04 [train_loss] loss -0.4373 (1.156 secs)
+NP:default step 51800 lr 2.359e-04 [train_loss] loss -0.4227 (1.155 secs)
+NP:default step 52000 lr 2.343e-04 [train_loss] loss -0.4383 (1.156 secs)
+NP:default RBF ctx_ll 0.6704 tar_ll 0.2410 (3.088 secs)
+
+NP:default step 52200 lr 2.327e-04 [train_loss] loss -0.4715 (4.822 secs)
+NP:default step 52400 lr 2.312e-04 [train_loss] loss -0.4358 (1.158 secs)
+NP:default step 52600 lr 2.296e-04 [train_loss] loss -0.3956 (1.156 secs)
+NP:default step 52800 lr 2.280e-04 [train_loss] loss -0.4451 (1.171 secs)
+NP:default step 53000 lr 2.265e-04 [train_loss] loss -0.4449 (1.157 secs)
+NP:default RBF ctx_ll 0.6517 tar_ll 0.2522 (3.066 secs)
+
+save model at epoch 53000
+NP:default step 53200 lr 2.249e-04 [train_loss] loss -0.4706 (4.790 secs)
+NP:default step 53400 lr 2.233e-04 [train_loss] loss -0.4573 (1.160 secs)
+NP:default step 53600 lr 2.218e-04 [train_loss] loss -0.4439 (1.160 secs)
+NP:default step 53800 lr 2.202e-04 [train_loss] loss -0.4522 (1.159 secs)
+NP:default step 54000 lr 2.187e-04 [train_loss] loss -0.4469 (1.161 secs)
+NP:default RBF ctx_ll 0.6897 tar_ll 0.2492 (3.064 secs)
+
+NP:default step 54200 lr 2.171e-04 [train_loss] loss -0.4423 (4.775 secs)
+NP:default step 54400 lr 2.156e-04 [train_loss] loss -0.4485 (1.161 secs)
+NP:default step 54600 lr 2.140e-04 [train_loss] loss -0.4225 (1.162 secs)
+NP:default step 54800 lr 2.124e-04 [train_loss] loss -0.4723 (1.163 secs)
+NP:default step 55000 lr 2.109e-04 [train_loss] loss -0.4357 (1.164 secs)
+NP:default RBF ctx_ll 0.6556 tar_ll 0.2652 (3.059 secs)
+
+NP:default RBF ctx_ll 0.6553 tar_ll 0.2652 (3.066 secs)
+
+save model at epoch 55000
+NP:default step 55200 lr 2.093e-04 [train_loss] loss -0.4575 (4.798 secs)
+NP:default step 55400 lr 2.078e-04 [train_loss] loss -0.4527 (1.161 secs)
+NP:default step 55600 lr 2.062e-04 [train_loss] loss -0.4287 (1.158 secs)
+NP:default step 55800 lr 2.047e-04 [train_loss] loss -0.4582 (1.158 secs)
+NP:default step 56000 lr 2.032e-04 [train_loss] loss -0.4824 (1.162 secs)
+NP:default RBF ctx_ll 0.6923 tar_ll 0.2619 (3.069 secs)
+
+NP:default step 56200 lr 2.016e-04 [train_loss] loss -0.4369 (4.768 secs)
+NP:default step 56400 lr 2.001e-04 [train_loss] loss -0.4289 (1.159 secs)
+NP:default step 56600 lr 1.985e-04 [train_loss] loss -0.4620 (1.159 secs)
+NP:default step 56800 lr 1.970e-04 [train_loss] loss -0.4684 (1.161 secs)
+NP:default step 57000 lr 1.955e-04 [train_loss] loss -0.4650 (1.159 secs)
+NP:default RBF ctx_ll 0.6918 tar_ll 0.2614 (3.060 secs)
+
+NP:default step 57200 lr 1.939e-04 [train_loss] loss -0.4731 (4.838 secs)
+NP:default step 57400 lr 1.924e-04 [train_loss] loss -0.4891 (1.158 secs)
+NP:default step 57600 lr 1.909e-04 [train_loss] loss -0.4890 (1.159 secs)
+NP:default step 57800 lr 1.894e-04 [train_loss] loss -0.4499 (1.159 secs)
+NP:default step 58000 lr 1.878e-04 [train_loss] loss -0.4836 (1.162 secs)
+NP:default RBF ctx_ll 0.6727 tar_ll 0.2603 (3.066 secs)
+
+NP:default step 58200 lr 1.863e-04 [train_loss] loss -0.4534 (4.773 secs)
+NP:default step 58400 lr 1.848e-04 [train_loss] loss -0.4988 (1.166 secs)
+NP:default step 58600 lr 1.833e-04 [train_loss] loss -0.4826 (1.165 secs)
+NP:default step 58800 lr 1.818e-04 [train_loss] loss -0.4586 (1.172 secs)
+NP:default step 59000 lr 1.803e-04 [train_loss] loss -0.4577 (1.159 secs)
+NP:default RBF ctx_ll 0.7095 tar_ll 0.2462 (3.065 secs)
+
+NP:default step 59200 lr 1.787e-04 [train_loss] loss -0.4922 (4.779 secs)
+NP:default step 59400 lr 1.772e-04 [train_loss] loss -0.5049 (1.160 secs)
+NP:default step 59600 lr 1.757e-04 [train_loss] loss -0.5009 (1.161 secs)
+NP:default step 59800 lr 1.742e-04 [train_loss] loss -0.4376 (1.163 secs)
+NP:default step 60000 lr 1.727e-04 [train_loss] loss -0.4804 (1.162 secs)
+NP:default RBF ctx_ll 0.7147 tar_ll 0.2622 (3.064 secs)
+
+NP:default RBF ctx_ll 0.7147 tar_ll 0.2617 (3.073 secs)
+
+NP:default step 60200 lr 1.713e-04 [train_loss] loss -0.4882 (4.846 secs)
+NP:default step 60400 lr 1.698e-04 [train_loss] loss -0.4430 (1.160 secs)
+NP:default step 60600 lr 1.683e-04 [train_loss] loss -0.4943 (1.165 secs)
+NP:default step 60800 lr 1.668e-04 [train_loss] loss -0.5145 (1.161 secs)
+NP:default step 61000 lr 1.653e-04 [train_loss] loss -0.4409 (1.161 secs)
+NP:default RBF ctx_ll 0.7179 tar_ll 0.2606 (3.070 secs)
+
+NP:default step 61200 lr 1.638e-04 [train_loss] loss -0.4500 (4.790 secs)
+NP:default step 61400 lr 1.624e-04 [train_loss] loss -0.4845 (1.169 secs)
+NP:default step 61600 lr 1.609e-04 [train_loss] loss -0.4729 (1.158 secs)
+NP:default step 61800 lr 1.594e-04 [train_loss] loss -0.4326 (1.161 secs)
+NP:default step 62000 lr 1.580e-04 [train_loss] loss -0.4756 (1.158 secs)
+NP:default RBF ctx_ll 0.7152 tar_ll 0.2697 (3.073 secs)
+
+save model at epoch 62000
+NP:default step 62200 lr 1.565e-04 [train_loss] loss -0.4187 (4.788 secs)
+NP:default step 62400 lr 1.551e-04 [train_loss] loss -0.4823 (1.159 secs)
+NP:default step 62600 lr 1.536e-04 [train_loss] loss -0.4951 (1.162 secs)
+NP:default step 62800 lr 1.522e-04 [train_loss] loss -0.5092 (1.161 secs)
+NP:default step 63000 lr 1.507e-04 [train_loss] loss -0.4725 (1.160 secs)
+NP:default RBF ctx_ll 0.7305 tar_ll 0.2610 (3.082 secs)
+
+NP:default step 63200 lr 1.493e-04 [train_loss] loss -0.4987 (4.792 secs)
+NP:default step 63400 lr 1.478e-04 [train_loss] loss -0.4736 (1.161 secs)
+NP:default step 63600 lr 1.464e-04 [train_loss] loss -0.4939 (1.163 secs)
+NP:default step 63800 lr 1.450e-04 [train_loss] loss -0.4664 (1.160 secs)
+NP:default step 64000 lr 1.436e-04 [train_loss] loss -0.4805 (1.162 secs)
+NP:default RBF ctx_ll 0.7132 tar_ll 0.2808 (3.061 secs)
+
+save model at epoch 64000
+NP:default step 64200 lr 1.421e-04 [train_loss] loss -0.4969 (4.851 secs)
+NP:default step 64400 lr 1.407e-04 [train_loss] loss -0.5118 (1.158 secs)
+NP:default step 64600 lr 1.393e-04 [train_loss] loss -0.4929 (1.174 secs)
+NP:default step 64800 lr 1.379e-04 [train_loss] loss -0.4904 (1.157 secs)
+NP:default step 65000 lr 1.365e-04 [train_loss] loss -0.4900 (1.163 secs)
+NP:default RBF ctx_ll 0.7204 tar_ll 0.2782 (3.058 secs)
+
+NP:default RBF ctx_ll 0.7204 tar_ll 0.2770 (3.060 secs)
+
+NP:default step 65200 lr 1.351e-04 [train_loss] loss -0.5094 (4.772 secs)
+NP:default step 65400 lr 1.337e-04 [train_loss] loss -0.4614 (1.159 secs)
+NP:default step 65600 lr 1.323e-04 [train_loss] loss -0.4887 (1.158 secs)
+NP:default step 65800 lr 1.309e-04 [train_loss] loss -0.4697 (1.162 secs)
+NP:default step 66000 lr 1.296e-04 [train_loss] loss -0.4750 (1.162 secs)
+NP:default RBF ctx_ll 0.7252 tar_ll 0.2886 (3.063 secs)
+
+save model at epoch 66000
+NP:default step 66200 lr 1.282e-04 [train_loss] loss -0.4800 (4.791 secs)
+NP:default step 66400 lr 1.268e-04 [train_loss] loss -0.4616 (1.160 secs)
+NP:default step 66600 lr 1.255e-04 [train_loss] loss -0.4921 (1.160 secs)
+NP:default step 66800 lr 1.241e-04 [train_loss] loss -0.5004 (1.160 secs)
+NP:default step 67000 lr 1.227e-04 [train_loss] loss -0.4966 (1.159 secs)
+NP:default RBF ctx_ll 0.7483 tar_ll 0.2640 (3.070 secs)
+
+NP:default step 67200 lr 1.214e-04 [train_loss] loss -0.5089 (4.788 secs)
+NP:default step 67400 lr 1.200e-04 [train_loss] loss -0.5016 (1.163 secs)
+NP:default step 67600 lr 1.187e-04 [train_loss] loss -0.5025 (1.157 secs)
+NP:default step 67800 lr 1.174e-04 [train_loss] loss -0.4850 (1.157 secs)
+NP:default step 68000 lr 1.160e-04 [train_loss] loss -0.4679 (1.158 secs)
+NP:default RBF ctx_ll 0.7291 tar_ll 0.2946 (3.081 secs)
+
+save model at epoch 68000
+NP:default step 68200 lr 1.147e-04 [train_loss] loss -0.4622 (4.791 secs)
+NP:default step 68400 lr 1.134e-04 [train_loss] loss -0.5233 (1.162 secs)
+NP:default step 68600 lr 1.121e-04 [train_loss] loss -0.4766 (1.164 secs)
+NP:default step 68800 lr 1.108e-04 [train_loss] loss -0.5044 (1.163 secs)
+NP:default step 69000 lr 1.095e-04 [train_loss] loss -0.5034 (1.163 secs)
+NP:default RBF ctx_ll 0.7267 tar_ll 0.2859 (3.060 secs)
+
+NP:default step 69200 lr 1.082e-04 [train_loss] loss -0.5391 (4.774 secs)
+NP:default step 69400 lr 1.069e-04 [train_loss] loss -0.5017 (1.161 secs)
+NP:default step 69600 lr 1.056e-04 [train_loss] loss -0.5139 (1.159 secs)
+NP:default step 69800 lr 1.043e-04 [train_loss] loss -0.5163 (1.158 secs)
+NP:default step 70000 lr 1.031e-04 [train_loss] loss -0.5462 (1.165 secs)
+NP:default RBF ctx_ll 0.7546 tar_ll 0.2790 (3.086 secs)
+
+NP:default RBF ctx_ll 0.7547 tar_ll 0.2783 (3.077 secs)
+
+NP:default step 70200 lr 1.018e-04 [train_loss] loss -0.4941 (4.801 secs)
+NP:default step 70400 lr 1.005e-04 [train_loss] loss -0.5033 (1.155 secs)
+NP:default step 70600 lr 9.927e-05 [train_loss] loss -0.5201 (1.157 secs)
+NP:default step 70800 lr 9.802e-05 [train_loss] loss -0.5134 (1.158 secs)
+NP:default step 71000 lr 9.677e-05 [train_loss] loss -0.4944 (1.157 secs)
+NP:default RBF ctx_ll 0.7469 tar_ll 0.2926 (3.085 secs)
+
+NP:default step 71200 lr 9.554e-05 [train_loss] loss -0.5203 (4.803 secs)
+NP:default step 71400 lr 9.430e-05 [train_loss] loss -0.4921 (1.158 secs)
+NP:default step 71600 lr 9.308e-05 [train_loss] loss -0.5221 (1.158 secs)
+NP:default step 71800 lr 9.186e-05 [train_loss] loss -0.5197 (1.160 secs)
+NP:default step 72000 lr 9.064e-05 [train_loss] loss -0.5176 (1.159 secs)
+NP:default RBF ctx_ll 0.7345 tar_ll 0.3080 (3.066 secs)
+
+save model at epoch 72000
+NP:default step 72200 lr 8.944e-05 [train_loss] loss -0.5142 (4.775 secs)
+NP:default step 72400 lr 8.824e-05 [train_loss] loss -0.5016 (1.160 secs)
+NP:default step 72600 lr 8.704e-05 [train_loss] loss -0.5349 (1.164 secs)
+NP:default step 72800 lr 8.585e-05 [train_loss] loss -0.5545 (1.161 secs)
+NP:default step 73000 lr 8.467e-05 [train_loss] loss -0.4723 (1.160 secs)
+NP:default RBF ctx_ll 0.7406 tar_ll 0.2997 (3.074 secs)
+
+NP:default step 73200 lr 8.350e-05 [train_loss] loss -0.5232 (4.860 secs)
+NP:default step 73400 lr 8.233e-05 [train_loss] loss -0.5108 (1.160 secs)
+NP:default step 73600 lr 8.117e-05 [train_loss] loss -0.5519 (1.159 secs)
+NP:default step 73800 lr 8.001e-05 [train_loss] loss -0.4926 (1.163 secs)
+NP:default step 74000 lr 7.886e-05 [train_loss] loss -0.4663 (1.162 secs)
+NP:default RBF ctx_ll 0.7333 tar_ll 0.3051 (3.061 secs)
+
+NP:default step 74200 lr 7.772e-05 [train_loss] loss -0.5176 (4.779 secs)
+NP:default step 74400 lr 7.659e-05 [train_loss] loss -0.4874 (1.156 secs)
+NP:default step 74600 lr 7.546e-05 [train_loss] loss -0.5159 (1.158 secs)
+NP:default step 74800 lr 7.434e-05 [train_loss] loss -0.5332 (1.159 secs)
+NP:default step 75000 lr 7.322e-05 [train_loss] loss -0.5010 (1.159 secs)
+NP:default RBF ctx_ll 0.7627 tar_ll 0.2882 (3.086 secs)
+
+NP:default RBF ctx_ll 0.7624 tar_ll 0.2880 (3.083 secs)
+
+NP:default step 75200 lr 7.212e-05 [train_loss] loss -0.4998 (4.809 secs)
+NP:default step 75400 lr 7.102e-05 [train_loss] loss -0.4844 (1.158 secs)
+NP:default step 75600 lr 6.992e-05 [train_loss] loss -0.5387 (1.158 secs)
+NP:default step 75800 lr 6.884e-05 [train_loss] loss -0.5449 (1.156 secs)
+NP:default step 76000 lr 6.776e-05 [train_loss] loss -0.4987 (1.156 secs)
+NP:default RBF ctx_ll 0.7465 tar_ll 0.3103 (3.094 secs)
+
+save model at epoch 76000
+NP:default step 76200 lr 6.669e-05 [train_loss] loss -0.5104 (4.877 secs)
+NP:default step 76400 lr 6.562e-05 [train_loss] loss -0.5077 (1.157 secs)
+NP:default step 76600 lr 6.456e-05 [train_loss] loss -0.5317 (1.158 secs)
+NP:default step 76800 lr 6.351e-05 [train_loss] loss -0.5015 (1.157 secs)
+NP:default step 77000 lr 6.247e-05 [train_loss] loss -0.5175 (1.157 secs)
+NP:default RBF ctx_ll 0.7610 tar_ll 0.3014 (3.076 secs)
+
+NP:default step 77200 lr 6.144e-05 [train_loss] loss -0.5125 (4.797 secs)
+NP:default step 77400 lr 6.041e-05 [train_loss] loss -0.4914 (1.157 secs)
+NP:default step 77600 lr 5.939e-05 [train_loss] loss -0.4729 (1.156 secs)
+NP:default step 77800 lr 5.838e-05 [train_loss] loss -0.4912 (1.157 secs)
+NP:default step 78000 lr 5.737e-05 [train_loss] loss -0.5312 (1.156 secs)
+NP:default RBF ctx_ll 0.7577 tar_ll 0.3086 (3.085 secs)
+
+NP:default step 78200 lr 5.637e-05 [train_loss] loss -0.5201 (4.799 secs)
+NP:default step 78400 lr 5.538e-05 [train_loss] loss -0.5456 (1.161 secs)
+NP:default step 78600 lr 5.440e-05 [train_loss] loss -0.5164 (1.156 secs)
+NP:default step 78800 lr 5.343e-05 [train_loss] loss -0.5393 (1.158 secs)
+NP:default step 79000 lr 5.246e-05 [train_loss] loss -0.5241 (1.161 secs)
+NP:default RBF ctx_ll 0.7594 tar_ll 0.3085 (3.075 secs)
+
+NP:default step 79200 lr 5.150e-05 [train_loss] loss -0.5098 (4.806 secs)
+NP:default step 79400 lr 5.055e-05 [train_loss] loss -0.4943 (1.158 secs)
+NP:default step 79600 lr 4.961e-05 [train_loss] loss -0.5302 (1.157 secs)
+NP:default step 79800 lr 4.867e-05 [train_loss] loss -0.5376 (1.158 secs)
+NP:default step 80000 lr 4.775e-05 [train_loss] loss -0.5180 (1.157 secs)
+NP:default RBF ctx_ll 0.7475 tar_ll 0.3154 (3.087 secs)
+
+NP:default RBF ctx_ll 0.7475 tar_ll 0.3161 (3.093 secs)
+
+save model at epoch 80000
+NP:default step 80200 lr 4.683e-05 [train_loss] loss -0.5399 (4.824 secs)
+NP:default step 80400 lr 4.592e-05 [train_loss] loss -0.5412 (1.159 secs)
+NP:default step 80600 lr 4.501e-05 [train_loss] loss -0.5076 (1.156 secs)
+NP:default step 80800 lr 4.412e-05 [train_loss] loss -0.5670 (1.158 secs)
+NP:default step 81000 lr 4.323e-05 [train_loss] loss -0.5331 (1.157 secs)
+NP:default RBF ctx_ll 0.7642 tar_ll 0.3117 (3.089 secs)
+
+NP:default step 81200 lr 4.235e-05 [train_loss] loss -0.4996 (4.794 secs)
+NP:default step 81400 lr 4.148e-05 [train_loss] loss -0.5277 (1.157 secs)
+NP:default step 81600 lr 4.062e-05 [train_loss] loss -0.5059 (1.158 secs)
+NP:default step 81800 lr 3.976e-05 [train_loss] loss -0.5325 (1.162 secs)
+NP:default step 82000 lr 3.892e-05 [train_loss] loss -0.5423 (1.159 secs)
+NP:default RBF ctx_ll 0.7587 tar_ll 0.3169 (3.082 secs)
+
+save model at epoch 82000
+NP:default step 82200 lr 3.808e-05 [train_loss] loss -0.5301 (4.865 secs)
+NP:default step 82400 lr 3.725e-05 [train_loss] loss -0.4972 (1.158 secs)
+NP:default step 82600 lr 3.643e-05 [train_loss] loss -0.5443 (1.160 secs)
+NP:default step 82800 lr 3.562e-05 [train_loss] loss -0.5331 (1.162 secs)
+NP:default step 83000 lr 3.481e-05 [train_loss] loss -0.5149 (1.157 secs)
+NP:default RBF ctx_ll 0.7640 tar_ll 0.3156 (3.073 secs)
+
+NP:default step 83200 lr 3.402e-05 [train_loss] loss -0.4868 (4.780 secs)
+NP:default step 83400 lr 3.323e-05 [train_loss] loss -0.5374 (1.157 secs)
+NP:default step 83600 lr 3.245e-05 [train_loss] loss -0.5178 (1.156 secs)
+NP:default step 83800 lr 3.168e-05 [train_loss] loss -0.5371 (1.159 secs)
+NP:default step 84000 lr 3.092e-05 [train_loss] loss -0.5460 (1.157 secs)
+NP:default RBF ctx_ll 0.7654 tar_ll 0.3156 (3.087 secs)
+
+NP:default step 84200 lr 3.017e-05 [train_loss] loss -0.4605 (4.801 secs)
+NP:default step 84400 lr 2.943e-05 [train_loss] loss -0.5082 (1.157 secs)
+NP:default step 84600 lr 2.869e-05 [train_loss] loss -0.5207 (1.158 secs)
+NP:default step 84800 lr 2.797e-05 [train_loss] loss -0.5240 (1.158 secs)
+NP:default step 85000 lr 2.725e-05 [train_loss] loss -0.5090 (1.156 secs)
+NP:default RBF ctx_ll 0.7700 tar_ll 0.3155 (3.086 secs)
+
+NP:default RBF ctx_ll 0.7700 tar_ll 0.3151 (3.093 secs)
+
+NP:default step 85200 lr 2.654e-05 [train_loss] loss -0.5393 (4.887 secs)
+NP:default step 85400 lr 2.584e-05 [train_loss] loss -0.5234 (1.160 secs)
+NP:default step 85600 lr 2.515e-05 [train_loss] loss -0.4968 (1.158 secs)
+NP:default step 85800 lr 2.447e-05 [train_loss] loss -0.5313 (1.155 secs)
+NP:default step 86000 lr 2.379e-05 [train_loss] loss -0.5518 (1.156 secs)
+NP:default RBF ctx_ll 0.7734 tar_ll 0.3127 (3.080 secs)
+
+NP:default step 86200 lr 2.313e-05 [train_loss] loss -0.5357 (4.790 secs)
+NP:default step 86400 lr 2.247e-05 [train_loss] loss -0.5294 (1.159 secs)
+NP:default step 86600 lr 2.183e-05 [train_loss] loss -0.5032 (1.160 secs)
+NP:default step 86800 lr 2.119e-05 [train_loss] loss -0.5475 (1.158 secs)
+NP:default step 87000 lr 2.056e-05 [train_loss] loss -0.5474 (1.159 secs)
+NP:default RBF ctx_ll 0.7754 tar_ll 0.3141 (3.073 secs)
+
+NP:default step 87200 lr 1.994e-05 [train_loss] loss -0.5664 (4.789 secs)
+NP:default step 87400 lr 1.933e-05 [train_loss] loss -0.5283 (1.156 secs)
+NP:default step 87600 lr 1.873e-05 [train_loss] loss -0.5450 (1.156 secs)
+NP:default step 87800 lr 1.814e-05 [train_loss] loss -0.5191 (1.157 secs)
+NP:default step 88000 lr 1.756e-05 [train_loss] loss -0.5521 (1.157 secs)
+NP:default RBF ctx_ll 0.7726 tar_ll 0.3183 (3.085 secs)
+
+save model at epoch 88000
+NP:default step 88200 lr 1.698e-05 [train_loss] loss -0.5509 (4.792 secs)
+NP:default step 88400 lr 1.642e-05 [train_loss] loss -0.5446 (1.157 secs)
+NP:default step 88600 lr 1.586e-05 [train_loss] loss -0.4823 (1.160 secs)
+NP:default step 88800 lr 1.532e-05 [train_loss] loss -0.5491 (1.159 secs)
+NP:default step 89000 lr 1.478e-05 [train_loss] loss -0.5037 (1.159 secs)
+NP:default RBF ctx_ll 0.7741 tar_ll 0.3184 (3.118 secs)
+
+save model at epoch 89000
+NP:default step 89200 lr 1.425e-05 [train_loss] loss -0.5110 (4.981 secs)
+NP:default step 89400 lr 1.373e-05 [train_loss] loss -0.5387 (1.158 secs)
+NP:default step 89600 lr 1.323e-05 [train_loss] loss -0.5394 (1.161 secs)
+NP:default step 89800 lr 1.273e-05 [train_loss] loss -0.5680 (1.156 secs)
+NP:default step 90000 lr 1.224e-05 [train_loss] loss -0.5255 (1.156 secs)
+NP:default RBF ctx_ll 0.7714 tar_ll 0.3215 (3.081 secs)
+
+NP:default RBF ctx_ll 0.7714 tar_ll 0.3218 (3.108 secs)
+
+save model at epoch 90000
+NP:default step 90200 lr 1.176e-05 [train_loss] loss -0.5514 (4.839 secs)
+NP:default step 90400 lr 1.128e-05 [train_loss] loss -0.5250 (1.158 secs)
+NP:default step 90600 lr 1.082e-05 [train_loss] loss -0.5346 (1.156 secs)
+NP:default step 90800 lr 1.037e-05 [train_loss] loss -0.5046 (1.155 secs)
+NP:default step 91000 lr 9.927e-06 [train_loss] loss -0.5454 (1.157 secs)
+NP:default RBF ctx_ll 0.7725 tar_ll 0.3214 (3.082 secs)
+
+NP:default step 91200 lr 9.493e-06 [train_loss] loss -0.5415 (4.801 secs)
+NP:default step 91400 lr 9.069e-06 [train_loss] loss -0.5089 (1.159 secs)
+NP:default step 91600 lr 8.655e-06 [train_loss] loss -0.5389 (1.158 secs)
+NP:default step 91800 lr 8.250e-06 [train_loss] loss -0.5431 (1.157 secs)
+NP:default step 92000 lr 7.854e-06 [train_loss] loss -0.5524 (1.159 secs)
+NP:default RBF ctx_ll 0.7746 tar_ll 0.3218 (3.072 secs)
+
+save model at epoch 92000
+NP:default step 92200 lr 7.468e-06 [train_loss] loss -0.5019 (4.798 secs)
+NP:default step 92400 lr 7.092e-06 [train_loss] loss -0.5803 (1.160 secs)
+NP:default step 92600 lr 6.725e-06 [train_loss] loss -0.5170 (1.157 secs)
+NP:default step 92800 lr 6.368e-06 [train_loss] loss -0.5173 (1.158 secs)
+NP:default step 93000 lr 6.021e-06 [train_loss] loss -0.5516 (1.158 secs)
+NP:default RBF ctx_ll 0.7752 tar_ll 0.3205 (3.070 secs)
+
+NP:default step 93200 lr 5.683e-06 [train_loss] loss -0.5059 (4.783 secs)
+NP:default step 93400 lr 5.355e-06 [train_loss] loss -0.5216 (1.178 secs)
+NP:default step 93600 lr 5.036e-06 [train_loss] loss -0.5441 (1.202 secs)
+NP:default step 93800 lr 4.727e-06 [train_loss] loss -0.5388 (1.204 secs)
+NP:default step 94000 lr 4.428e-06 [train_loss] loss -0.5586 (1.193 secs)
+NP:default RBF ctx_ll 0.7769 tar_ll 0.3195 (3.139 secs)
+
+NP:default step 94200 lr 4.139e-06 [train_loss] loss -0.5395 (4.861 secs)
+NP:default step 94400 lr 3.859e-06 [train_loss] loss -0.5509 (1.186 secs)
+NP:default step 94600 lr 3.589e-06 [train_loss] loss -0.5141 (1.210 secs)
+NP:default step 94800 lr 3.329e-06 [train_loss] loss -0.5512 (1.218 secs)
+NP:default step 95000 lr 3.078e-06 [train_loss] loss -0.5506 (1.176 secs)
+NP:default RBF ctx_ll 0.7765 tar_ll 0.3208 (3.125 secs)
+
+NP:default RBF ctx_ll 0.7765 tar_ll 0.3195 (3.095 secs)
+
+NP:default step 95200 lr 2.837e-06 [train_loss] loss -0.5689 (4.836 secs)
+NP:default step 95400 lr 2.606e-06 [train_loss] loss -0.5393 (1.162 secs)
+NP:default step 95600 lr 2.385e-06 [train_loss] loss -0.5509 (1.160 secs)
+NP:default step 95800 lr 2.173e-06 [train_loss] loss -0.5394 (1.174 secs)
+NP:default step 96000 lr 1.971e-06 [train_loss] loss -0.5306 (1.166 secs)
+NP:default RBF ctx_ll 0.7762 tar_ll 0.3214 (3.076 secs)
+
+NP:default step 96200 lr 1.779e-06 [train_loss] loss -0.5217 (4.828 secs)
+NP:default step 96400 lr 1.597e-06 [train_loss] loss -0.5389 (1.166 secs)
+NP:default step 96600 lr 1.425e-06 [train_loss] loss -0.5300 (1.169 secs)
+NP:default step 96800 lr 1.262e-06 [train_loss] loss -0.5568 (1.173 secs)
+NP:default step 97000 lr 1.110e-06 [train_loss] loss -0.5638 (1.167 secs)
+NP:default RBF ctx_ll 0.7788 tar_ll 0.3189 (3.091 secs)
+
+NP:default step 97200 lr 9.666e-07 [train_loss] loss -0.5200 (4.827 secs)
+NP:default step 97400 lr 8.335e-07 [train_loss] loss -0.4945 (1.162 secs)
+NP:default step 97600 lr 7.103e-07 [train_loss] loss -0.5399 (1.163 secs)
+NP:default step 97800 lr 5.969e-07 [train_loss] loss -0.5343 (1.167 secs)
+NP:default step 98000 lr 4.933e-07 [train_loss] loss -0.5467 (1.171 secs)
+NP:default RBF ctx_ll 0.7770 tar_ll 0.3210 (3.095 secs)
+
+NP:default step 98200 lr 3.996e-07 [train_loss] loss -0.5393 (4.899 secs)
+NP:default step 98400 lr 3.158e-07 [train_loss] loss -0.5517 (1.165 secs)
+NP:default step 98600 lr 2.418e-07 [train_loss] loss -0.5280 (1.164 secs)
+NP:default step 98800 lr 1.776e-07 [train_loss] loss -0.5348 (1.163 secs)
+NP:default step 99000 lr 1.234e-07 [train_loss] loss -0.5460 (1.164 secs)
+NP:default RBF ctx_ll 0.7771 tar_ll 0.3212 (3.096 secs)
+
+NP:default step 99200 lr 7.895e-08 [train_loss] loss -0.5618 (4.821 secs)
+NP:default step 99400 lr 4.441e-08 [train_loss] loss -0.5005 (1.159 secs)
+NP:default step 99600 lr 1.974e-08 [train_loss] loss -0.5455 (1.161 secs)
+NP:default step 99800 lr 4.935e-09 [train_loss] loss -0.4866 (1.162 secs)
+NP:default step 100000 lr 0.000e+00 [train_loss] loss -0.5265 (1.162 secs)
+NP:default RBF ctx_ll 0.7771 tar_ll 0.3210 (3.087 secs)
+
+NP:default RBF ctx_ll 0.7773 tar_ll 0.3219 (3.095 secs)
+
+save model at epoch 100000
+Experiment: NP-default
+Total number of parameters: 232194
+
+NP:default step 200 lr 5.000e-04 [train_loss] loss 0.6365 (3.140 secs)
+NP:default step 400 lr 5.000e-04 [train_loss] loss 0.5361 (3.097 secs)
+NP:default step 600 lr 5.000e-04 [train_loss] loss 0.5154 (2.934 secs)
+NP:default step 800 lr 4.999e-04 [train_loss] loss 0.5386 (3.149 secs)
+NP:default step 1000 lr 4.999e-04 [train_loss] loss 0.4737 (3.134 secs)
+Experiment: NP-default
+Total number of parameters: 232194
+
+Experiment: NP-default
+Total number of parameters: 232194
+
+NP:default step 200 lr 5.000e-04 [train_loss] loss 0.6339 (1.662 secs)
+NP:default step 400 lr 5.000e-04 [train_loss] loss 0.5405 (1.341 secs)
+NP:default step 600 lr 5.000e-04 [train_loss] loss 0.5184 (1.339 secs)
+NP:default step 800 lr 4.999e-04 [train_loss] loss 0.5478 (1.352 secs)
+NP:default step 1000 lr 4.999e-04 [train_loss] loss 0.5262 (1.342 secs)
+NP:default RBF ctx_ll -0.4411 tar_ll -0.5546 (3.269 secs)
+
+save model at epoch 1000
+NP:default step 1200 lr 4.998e-04 [train_loss] loss 0.4769 (5.371 secs)
+NP:default step 1400 lr 4.998e-04 [train_loss] loss 0.4679 (1.354 secs)
+NP:default step 1600 lr 4.997e-04 [train_loss] loss 0.4411 (1.346 secs)
+NP:default step 1800 lr 4.996e-04 [train_loss] loss 0.4582 (1.349 secs)
+NP:default step 2000 lr 4.995e-04 [train_loss] loss 0.4566 (1.348 secs)
+NP:default RBF ctx_ll -0.3192 tar_ll -0.4854 (3.234 secs)
+
+save model at epoch 2000
+NP:default step 2200 lr 4.994e-04 [train_loss] loss 0.4499 (5.265 secs)
+NP:default step 2400 lr 4.993e-04 [train_loss] loss 0.4226 (1.347 secs)
+NP:default step 2600 lr 4.992e-04 [train_loss] loss 0.3930 (1.341 secs)
+NP:default step 2800 lr 4.990e-04 [train_loss] loss 0.3390 (1.349 secs)
+NP:default step 3000 lr 4.989e-04 [train_loss] loss 0.3271 (1.349 secs)
+NP:default RBF ctx_ll -0.2116 tar_ll -0.3982 (3.204 secs)
+
+save model at epoch 3000
+NP:default step 3200 lr 4.987e-04 [train_loss] loss 0.3385 (5.217 secs)
+NP:default step 3400 lr 4.986e-04 [train_loss] loss 0.3073 (1.349 secs)
+NP:default step 3600 lr 4.984e-04 [train_loss] loss 0.2818 (1.338 secs)
+NP:default step 3800 lr 4.982e-04 [train_loss] loss 0.2497 (1.349 secs)
+NP:default step 4000 lr 4.980e-04 [train_loss] loss 0.2325 (1.341 secs)
+NP:default RBF ctx_ll -0.1001 tar_ll -0.3070 (3.207 secs)
+
+save model at epoch 4000
+NP:default step 4200 lr 4.978e-04 [train_loss] loss 0.1996 (5.182 secs)
+NP:default step 4400 lr 4.976e-04 [train_loss] loss 0.1975 (1.344 secs)
+NP:default step 4600 lr 4.974e-04 [train_loss] loss 0.2226 (1.346 secs)
+NP:default step 4800 lr 4.972e-04 [train_loss] loss 0.1722 (1.347 secs)
+NP:default step 5000 lr 4.969e-04 [train_loss] loss 0.1370 (1.346 secs)
+NP:default RBF ctx_ll 0.0182 tar_ll -0.2869 (3.194 secs)
+
+NP:default RBF ctx_ll 0.0181 tar_ll -0.2863 (3.192 secs)
+
+save model at epoch 5000
+NP:default step 5200 lr 4.967e-04 [train_loss] loss 0.1730 (5.149 secs)
+NP:default step 5400 lr 4.964e-04 [train_loss] loss 0.1620 (1.344 secs)
+NP:default step 5600 lr 4.961e-04 [train_loss] loss 0.1668 (1.350 secs)
+NP:default step 5800 lr 4.959e-04 [train_loss] loss 0.1386 (1.351 secs)
+NP:default step 6000 lr 4.956e-04 [train_loss] loss 0.1259 (1.320 secs)
+NP:default RBF ctx_ll 0.0378 tar_ll -0.2242 (3.277 secs)
+
+save model at epoch 6000
+NP:default step 6200 lr 4.953e-04 [train_loss] loss 0.1420 (5.295 secs)
+NP:default step 6400 lr 4.950e-04 [train_loss] loss 0.0837 (1.386 secs)
+NP:default step 6600 lr 4.946e-04 [train_loss] loss 0.0911 (1.392 secs)
+NP:default step 6800 lr 4.943e-04 [train_loss] loss 0.0702 (1.392 secs)
+NP:default step 7000 lr 4.940e-04 [train_loss] loss 0.0794 (1.399 secs)
+NP:default RBF ctx_ll 0.1042 tar_ll -0.1801 (3.207 secs)
+
+save model at epoch 7000
+NP:default step 7200 lr 4.936e-04 [train_loss] loss 0.0452 (5.266 secs)
+NP:default step 7400 lr 4.933e-04 [train_loss] loss 0.0282 (1.353 secs)
+NP:default step 7600 lr 4.929e-04 [train_loss] loss 0.0496 (1.352 secs)
+NP:default step 7800 lr 4.925e-04 [train_loss] loss 0.0538 (1.354 secs)
+NP:default step 8000 lr 4.921e-04 [train_loss] loss 0.0590 (1.350 secs)
+NP:default RBF ctx_ll 0.1562 tar_ll -0.1611 (3.193 secs)
+
+save model at epoch 8000
+NP:default step 8200 lr 4.918e-04 [train_loss] loss 0.0443 (5.175 secs)
+NP:default step 8400 lr 4.913e-04 [train_loss] loss 0.0454 (1.350 secs)
+NP:default step 8600 lr 4.909e-04 [train_loss] loss 0.0405 (1.352 secs)
+NP:default step 8800 lr 4.905e-04 [train_loss] loss 0.0123 (1.353 secs)
+NP:default step 9000 lr 4.901e-04 [train_loss] loss 0.0090 (1.348 secs)
+NP:default RBF ctx_ll 0.1992 tar_ll -0.1238 (3.186 secs)
+
+save model at epoch 9000
+NP:default step 9200 lr 4.896e-04 [train_loss] loss -0.0292 (5.132 secs)
+NP:default step 9400 lr 4.892e-04 [train_loss] loss -0.0430 (1.352 secs)
+NP:default step 9600 lr 4.887e-04 [train_loss] loss -0.0437 (1.357 secs)
+NP:default step 9800 lr 4.882e-04 [train_loss] loss -0.0072 (1.349 secs)
+NP:default step 10000 lr 4.878e-04 [train_loss] loss 0.0279 (1.351 secs)
+NP:default RBF ctx_ll 0.2226 tar_ll -0.0961 (3.199 secs)
+
+NP:default RBF ctx_ll 0.2228 tar_ll -0.0958 (3.205 secs)
+
+save model at epoch 10000
+NP:default step 10200 lr 4.873e-04 [train_loss] loss -0.0385 (5.155 secs)
+NP:default step 10400 lr 4.868e-04 [train_loss] loss -0.0569 (1.353 secs)
+NP:default step 10600 lr 4.863e-04 [train_loss] loss -0.0344 (1.352 secs)
+NP:default step 10800 lr 4.857e-04 [train_loss] loss -0.0621 (1.362 secs)
+NP:default step 11000 lr 4.852e-04 [train_loss] loss -0.0529 (1.350 secs)
+NP:default RBF ctx_ll 0.2686 tar_ll -0.1083 (3.209 secs)
+
+NP:default step 11200 lr 4.847e-04 [train_loss] loss -0.0357 (5.164 secs)
+NP:default step 11400 lr 4.841e-04 [train_loss] loss -0.0523 (1.347 secs)
+NP:default step 11600 lr 4.836e-04 [train_loss] loss -0.0860 (1.359 secs)
+NP:default step 11800 lr 4.830e-04 [train_loss] loss -0.0868 (1.354 secs)
+NP:default step 12000 lr 4.824e-04 [train_loss] loss -0.0894 (1.350 secs)
+NP:default RBF ctx_ll 0.3008 tar_ll -0.0632 (3.198 secs)
+
+save model at epoch 12000
+NP:default step 12200 lr 4.819e-04 [train_loss] loss -0.1029 (5.155 secs)
+NP:default step 12400 lr 4.813e-04 [train_loss] loss -0.1283 (1.350 secs)
+NP:default step 12600 lr 4.807e-04 [train_loss] loss -0.0833 (1.358 secs)
+NP:default step 12800 lr 4.801e-04 [train_loss] loss -0.1233 (1.353 secs)
+NP:default step 13000 lr 4.794e-04 [train_loss] loss -0.1493 (1.353 secs)
+NP:default RBF ctx_ll 0.2941 tar_ll -0.0455 (3.200 secs)
+
+save model at epoch 13000
+NP:default step 13200 lr 4.788e-04 [train_loss] loss -0.1286 (5.221 secs)
+NP:default step 13400 lr 4.782e-04 [train_loss] loss -0.1203 (1.354 secs)
+NP:default step 13600 lr 4.775e-04 [train_loss] loss -0.1430 (1.352 secs)
+NP:default step 13800 lr 4.769e-04 [train_loss] loss -0.1552 (1.351 secs)
+NP:default step 14000 lr 4.762e-04 [train_loss] loss -0.1135 (1.346 secs)
+NP:default RBF ctx_ll 0.3295 tar_ll -0.0110 (3.187 secs)
+
+save model at epoch 14000
+NP:default step 14200 lr 4.755e-04 [train_loss] loss -0.1607 (5.129 secs)
+NP:default step 14400 lr 4.749e-04 [train_loss] loss -0.1588 (1.352 secs)
+NP:default step 14600 lr 4.742e-04 [train_loss] loss -0.1779 (1.345 secs)
+NP:default step 14800 lr 4.735e-04 [train_loss] loss -0.2071 (1.347 secs)
+NP:default step 15000 lr 4.728e-04 [train_loss] loss -0.1804 (1.347 secs)
+NP:default RBF ctx_ll 0.3661 tar_ll 0.0251 (3.223 secs)
+
+NP:default RBF ctx_ll 0.3661 tar_ll 0.0244 (3.203 secs)
+
+save model at epoch 15000
+NP:default step 15200 lr 4.720e-04 [train_loss] loss -0.1535 (5.152 secs)
+NP:default step 15400 lr 4.713e-04 [train_loss] loss -0.1823 (1.350 secs)
+NP:default step 15600 lr 4.706e-04 [train_loss] loss -0.2032 (1.348 secs)
+NP:default step 15800 lr 4.698e-04 [train_loss] loss -0.1987 (1.352 secs)
+NP:default step 16000 lr 4.691e-04 [train_loss] loss -0.1718 (1.350 secs)
+NP:default RBF ctx_ll 0.3720 tar_ll 0.0443 (3.226 secs)
+
+save model at epoch 16000
+NP:default step 16200 lr 4.683e-04 [train_loss] loss -0.1673 (5.248 secs)
+NP:default step 16400 lr 4.675e-04 [train_loss] loss -0.1919 (1.349 secs)
+NP:default step 16600 lr 4.668e-04 [train_loss] loss -0.1670 (1.343 secs)
+NP:default step 16800 lr 4.660e-04 [train_loss] loss -0.2099 (1.351 secs)
+NP:default step 17000 lr 4.652e-04 [train_loss] loss -0.2160 (1.352 secs)
+NP:default RBF ctx_ll 0.4183 tar_ll 0.0505 (3.222 secs)
+
+save model at epoch 17000
+NP:default step 17200 lr 4.644e-04 [train_loss] loss -0.2175 (5.208 secs)
+NP:default step 17400 lr 4.636e-04 [train_loss] loss -0.1874 (1.358 secs)
+NP:default step 17600 lr 4.627e-04 [train_loss] loss -0.1642 (1.349 secs)
+NP:default step 17800 lr 4.619e-04 [train_loss] loss -0.2372 (1.357 secs)
+NP:default step 18000 lr 4.611e-04 [train_loss] loss -0.2124 (1.352 secs)
+NP:default RBF ctx_ll 0.4219 tar_ll 0.0591 (3.204 secs)
+
+save model at epoch 18000
+NP:default step 18200 lr 4.602e-04 [train_loss] loss -0.2351 (5.161 secs)
+NP:default step 18400 lr 4.594e-04 [train_loss] loss -0.2416 (1.347 secs)
+NP:default step 18600 lr 4.585e-04 [train_loss] loss -0.2303 (1.348 secs)
+NP:default step 18800 lr 4.576e-04 [train_loss] loss -0.2361 (1.345 secs)
+NP:default step 19000 lr 4.568e-04 [train_loss] loss -0.2304 (1.348 secs)
+NP:default RBF ctx_ll 0.4310 tar_ll 0.0797 (3.216 secs)
+
+save model at epoch 19000
+NP:default step 19200 lr 4.559e-04 [train_loss] loss -0.2225 (5.255 secs)
+NP:default step 19400 lr 4.550e-04 [train_loss] loss -0.1805 (1.354 secs)
+NP:default step 19600 lr 4.541e-04 [train_loss] loss -0.2072 (1.353 secs)
+NP:default step 19800 lr 4.532e-04 [train_loss] loss -0.2156 (1.352 secs)
+NP:default step 20000 lr 4.523e-04 [train_loss] loss -0.2369 (1.348 secs)
+NP:default RBF ctx_ll 0.4716 tar_ll 0.0703 (3.186 secs)
+
+NP:default RBF ctx_ll 0.4717 tar_ll 0.0711 (3.297 secs)
+
+NP:default step 20200 lr 4.513e-04 [train_loss] loss -0.2480 (5.279 secs)
+NP:default step 20400 lr 4.504e-04 [train_loss] loss -0.2582 (1.402 secs)
+NP:default step 20600 lr 4.494e-04 [train_loss] loss -0.2095 (1.398 secs)
+NP:default step 20800 lr 4.485e-04 [train_loss] loss -0.2646 (1.396 secs)
+NP:default step 21000 lr 4.475e-04 [train_loss] loss -0.2580 (1.392 secs)
+NP:default RBF ctx_ll 0.4628 tar_ll 0.0879 (3.234 secs)
+
+save model at epoch 21000
+NP:default step 21200 lr 4.466e-04 [train_loss] loss -0.2794 (5.194 secs)
+NP:default step 21400 lr 4.456e-04 [train_loss] loss -0.2189 (1.354 secs)
+NP:default step 21600 lr 4.446e-04 [train_loss] loss -0.2492 (1.353 secs)
+NP:default step 21800 lr 4.436e-04 [train_loss] loss -0.2533 (1.347 secs)
+NP:default step 22000 lr 4.426e-04 [train_loss] loss -0.2406 (1.350 secs)
+NP:default RBF ctx_ll 0.4525 tar_ll 0.0924 (3.201 secs)
+
+save model at epoch 22000
+NP:default step 22200 lr 4.416e-04 [train_loss] loss -0.1940 (5.134 secs)
+NP:default step 22400 lr 4.406e-04 [train_loss] loss -0.2293 (1.348 secs)
+NP:default step 22600 lr 4.396e-04 [train_loss] loss -0.2559 (1.347 secs)
+NP:default step 22800 lr 4.386e-04 [train_loss] loss -0.2512 (1.354 secs)
+NP:default step 23000 lr 4.375e-04 [train_loss] loss -0.2265 (1.345 secs)
+NP:default RBF ctx_ll 0.4582 tar_ll 0.1131 (3.227 secs)
+
+save model at epoch 23000
+NP:default step 23200 lr 4.365e-04 [train_loss] loss -0.2905 (5.227 secs)
+NP:default step 23400 lr 4.354e-04 [train_loss] loss -0.2653 (1.348 secs)
+NP:default step 23600 lr 4.344e-04 [train_loss] loss -0.2706 (1.351 secs)
+NP:default step 23800 lr 4.333e-04 [train_loss] loss -0.2962 (1.358 secs)
+NP:default step 24000 lr 4.322e-04 [train_loss] loss -0.2688 (1.347 secs)
+NP:default RBF ctx_ll 0.5329 tar_ll 0.0685 (3.212 secs)
+
+NP:default step 24200 lr 4.312e-04 [train_loss] loss -0.2807 (5.150 secs)
+NP:default step 24400 lr 4.301e-04 [train_loss] loss -0.2936 (1.348 secs)
+NP:default step 24600 lr 4.290e-04 [train_loss] loss -0.3169 (1.345 secs)
+NP:default step 24800 lr 4.279e-04 [train_loss] loss -0.3044 (1.354 secs)
+NP:default step 25000 lr 4.268e-04 [train_loss] loss -0.2703 (1.349 secs)
+NP:default RBF ctx_ll 0.4970 tar_ll 0.1277 (3.191 secs)
+
+NP:default RBF ctx_ll 0.4972 tar_ll 0.1295 (3.205 secs)
+
+save model at epoch 25000
+NP:default step 25200 lr 4.257e-04 [train_loss] loss -0.3066 (5.130 secs)
+NP:default step 25400 lr 4.245e-04 [train_loss] loss -0.2926 (1.352 secs)
+NP:default step 25600 lr 4.234e-04 [train_loss] loss -0.2927 (1.354 secs)
+NP:default step 25800 lr 4.223e-04 [train_loss] loss -0.2812 (1.351 secs)
+NP:default step 26000 lr 4.211e-04 [train_loss] loss -0.2921 (1.349 secs)
+NP:default RBF ctx_ll 0.5396 tar_ll 0.0889 (3.218 secs)
+
+NP:default step 26200 lr 4.200e-04 [train_loss] loss -0.3017 (5.254 secs)
+NP:default step 26400 lr 4.188e-04 [train_loss] loss -0.3316 (1.360 secs)
+NP:default step 26600 lr 4.177e-04 [train_loss] loss -0.2577 (1.344 secs)
+NP:default step 26800 lr 4.165e-04 [train_loss] loss -0.3199 (1.350 secs)
+NP:default step 27000 lr 4.153e-04 [train_loss] loss -0.3186 (1.350 secs)
+NP:default RBF ctx_ll 0.5738 tar_ll 0.1049 (3.196 secs)
+
+NP:default step 27200 lr 4.141e-04 [train_loss] loss -0.3015 (5.148 secs)
+NP:default step 27400 lr 4.130e-04 [train_loss] loss -0.3239 (1.354 secs)
+NP:default step 27600 lr 4.118e-04 [train_loss] loss -0.3312 (1.339 secs)
+NP:default step 27800 lr 4.106e-04 [train_loss] loss -0.3239 (1.352 secs)
+NP:default step 28000 lr 4.094e-04 [train_loss] loss -0.3155 (1.348 secs)
+NP:default RBF ctx_ll 0.5210 tar_ll 0.1573 (3.188 secs)
+
+save model at epoch 28000
+NP:default step 28200 lr 4.081e-04 [train_loss] loss -0.3233 (5.135 secs)
+NP:default step 28400 lr 4.069e-04 [train_loss] loss -0.3477 (1.356 secs)
+NP:default step 28600 lr 4.057e-04 [train_loss] loss -0.3141 (1.352 secs)
+NP:default step 28800 lr 4.045e-04 [train_loss] loss -0.2980 (1.345 secs)
+NP:default step 29000 lr 4.032e-04 [train_loss] loss -0.3313 (1.349 secs)
+NP:default RBF ctx_ll 0.5601 tar_ll 0.1562 (3.219 secs)
+
+NP:default step 29200 lr 4.020e-04 [train_loss] loss -0.3211 (5.163 secs)
+NP:default step 29400 lr 4.007e-04 [train_loss] loss -0.3373 (1.354 secs)
+NP:default step 29600 lr 3.995e-04 [train_loss] loss -0.3307 (1.350 secs)
+NP:default step 29800 lr 3.982e-04 [train_loss] loss -0.3520 (1.343 secs)
+NP:default step 30000 lr 3.969e-04 [train_loss] loss -0.3182 (1.347 secs)
+NP:default RBF ctx_ll 0.5170 tar_ll 0.1550 (3.197 secs)
+
+NP:default RBF ctx_ll 0.5170 tar_ll 0.1559 (3.202 secs)
+
+NP:default step 30200 lr 3.957e-04 [train_loss] loss -0.3041 (5.216 secs)
+NP:default step 30400 lr 3.944e-04 [train_loss] loss -0.3418 (1.348 secs)
+NP:default step 30600 lr 3.931e-04 [train_loss] loss -0.3274 (1.346 secs)
+NP:default step 30800 lr 3.918e-04 [train_loss] loss -0.3674 (1.349 secs)
+NP:default step 31000 lr 3.905e-04 [train_loss] loss -0.3491 (1.346 secs)
+NP:default RBF ctx_ll 0.5978 tar_ll 0.1466 (3.172 secs)
+
+NP:default step 31200 lr 3.892e-04 [train_loss] loss -0.3970 (5.103 secs)
+NP:default step 31400 lr 3.879e-04 [train_loss] loss -0.3712 (1.349 secs)
+NP:default step 31600 lr 3.866e-04 [train_loss] loss -0.3469 (1.349 secs)
+NP:default step 31800 lr 3.853e-04 [train_loss] loss -0.3484 (1.365 secs)
+NP:default step 32000 lr 3.840e-04 [train_loss] loss -0.3184 (1.346 secs)
+NP:default RBF ctx_ll 0.5824 tar_ll 0.1650 (3.175 secs)
+
+save model at epoch 32000
+NP:default step 32200 lr 3.826e-04 [train_loss] loss -0.3234 (5.128 secs)
+NP:default step 32400 lr 3.813e-04 [train_loss] loss -0.3785 (1.358 secs)
+NP:default step 32600 lr 3.800e-04 [train_loss] loss -0.3997 (1.347 secs)
+NP:default step 32800 lr 3.786e-04 [train_loss] loss -0.3723 (1.336 secs)
+NP:default step 33000 lr 3.773e-04 [train_loss] loss -0.3761 (1.347 secs)
+NP:default RBF ctx_ll 0.5862 tar_ll 0.1941 (3.168 secs)
+
+save model at epoch 33000
+NP:default step 33200 lr 3.759e-04 [train_loss] loss -0.3758 (5.169 secs)
+NP:default step 33400 lr 3.745e-04 [train_loss] loss -0.3662 (1.349 secs)
+NP:default step 33600 lr 3.732e-04 [train_loss] loss -0.3739 (1.357 secs)
+NP:default step 33800 lr 3.718e-04 [train_loss] loss -0.3588 (1.351 secs)
+NP:default step 34000 lr 3.704e-04 [train_loss] loss -0.3761 (1.346 secs)
+NP:default RBF ctx_ll 0.6163 tar_ll 0.1702 (3.187 secs)
+
+NP:default step 34200 lr 3.691e-04 [train_loss] loss -0.3682 (5.200 secs)
+NP:default step 34400 lr 3.677e-04 [train_loss] loss -0.3635 (1.412 secs)
+NP:default step 34600 lr 3.663e-04 [train_loss] loss -0.3527 (1.402 secs)
+NP:default step 34800 lr 3.649e-04 [train_loss] loss -0.4048 (1.402 secs)
+NP:default step 35000 lr 3.635e-04 [train_loss] loss -0.3874 (1.401 secs)
+NP:default RBF ctx_ll 0.6097 tar_ll 0.2018 (3.295 secs)
+
+NP:default RBF ctx_ll 0.6097 tar_ll 0.2019 (3.224 secs)
+
+save model at epoch 35000
+NP:default step 35200 lr 3.621e-04 [train_loss] loss -0.3750 (5.180 secs)
+NP:default step 35400 lr 3.607e-04 [train_loss] loss -0.3279 (1.352 secs)
+NP:default step 35600 lr 3.593e-04 [train_loss] loss -0.3948 (1.335 secs)
+NP:default step 35800 lr 3.579e-04 [train_loss] loss -0.3965 (1.349 secs)
+NP:default step 36000 lr 3.564e-04 [train_loss] loss -0.3821 (1.343 secs)
+NP:default RBF ctx_ll 0.6197 tar_ll 0.2088 (3.190 secs)
+
+save model at epoch 36000
+NP:default step 36200 lr 3.550e-04 [train_loss] loss -0.3685 (5.196 secs)
+NP:default step 36400 lr 3.536e-04 [train_loss] loss -0.3695 (1.348 secs)
+NP:default step 36600 lr 3.522e-04 [train_loss] loss -0.4028 (1.348 secs)
+NP:default step 36800 lr 3.507e-04 [train_loss] loss -0.3865 (1.345 secs)
+NP:default step 37000 lr 3.493e-04 [train_loss] loss -0.4085 (1.349 secs)
+NP:default RBF ctx_ll 0.6386 tar_ll 0.2145 (3.198 secs)
+
+save model at epoch 37000
+NP:default step 37200 lr 3.478e-04 [train_loss] loss -0.4210 (5.145 secs)
+NP:default step 37400 lr 3.464e-04 [train_loss] loss -0.3902 (1.349 secs)
+NP:default step 37600 lr 3.449e-04 [train_loss] loss -0.4020 (1.349 secs)
+NP:default step 37800 lr 3.435e-04 [train_loss] loss -0.4072 (1.348 secs)
+NP:default step 38000 lr 3.420e-04 [train_loss] loss -0.3808 (1.349 secs)
+NP:default RBF ctx_ll 0.6132 tar_ll 0.2220 (3.190 secs)
+
+save model at epoch 38000
+NP:default step 38200 lr 3.406e-04 [train_loss] loss -0.4039 (5.138 secs)
+NP:default step 38400 lr 3.391e-04 [train_loss] loss -0.4025 (1.349 secs)
+NP:default step 38600 lr 3.376e-04 [train_loss] loss -0.4144 (1.347 secs)
+NP:default step 38800 lr 3.362e-04 [train_loss] loss -0.4176 (1.358 secs)
+NP:default step 39000 lr 3.347e-04 [train_loss] loss -0.3925 (1.346 secs)
+NP:default RBF ctx_ll 0.6268 tar_ll 0.2185 (3.190 secs)
+
+NP:default step 39200 lr 3.332e-04 [train_loss] loss -0.3807 (5.144 secs)
+NP:default step 39400 lr 3.317e-04 [train_loss] loss -0.3853 (1.347 secs)
+NP:default step 39600 lr 3.302e-04 [train_loss] loss -0.3968 (1.348 secs)
+NP:default step 39800 lr 3.287e-04 [train_loss] loss -0.3703 (1.353 secs)
+NP:default step 40000 lr 3.273e-04 [train_loss] loss -0.4196 (1.354 secs)
+NP:default RBF ctx_ll 0.6439 tar_ll 0.2276 (3.171 secs)
+
+NP:default RBF ctx_ll 0.6440 tar_ll 0.2286 (3.176 secs)
+
+save model at epoch 40000
+NP:default step 40200 lr 3.258e-04 [train_loss] loss -0.4034 (5.112 secs)
+NP:default step 40400 lr 3.243e-04 [train_loss] loss -0.3919 (1.350 secs)
+NP:default step 40600 lr 3.228e-04 [train_loss] loss -0.4090 (1.345 secs)
+NP:default step 40800 lr 3.213e-04 [train_loss] loss -0.4193 (1.347 secs)
+NP:default step 41000 lr 3.197e-04 [train_loss] loss -0.4397 (1.348 secs)
+NP:default RBF ctx_ll 0.6455 tar_ll 0.2331 (3.180 secs)
+
+save model at epoch 41000
+NP:default step 41200 lr 3.182e-04 [train_loss] loss -0.4438 (5.097 secs)
+NP:default step 41400 lr 3.167e-04 [train_loss] loss -0.4235 (1.341 secs)
+NP:default step 41600 lr 3.152e-04 [train_loss] loss -0.3824 (1.344 secs)
+NP:default step 41800 lr 3.137e-04 [train_loss] loss -0.4170 (1.347 secs)
+NP:default step 42000 lr 3.122e-04 [train_loss] loss -0.4056 (1.350 secs)
+NP:default RBF ctx_ll 0.6571 tar_ll 0.2320 (3.190 secs)
+
+NP:default step 42200 lr 3.106e-04 [train_loss] loss -0.4198 (5.209 secs)
+NP:default step 42400 lr 3.091e-04 [train_loss] loss -0.4179 (1.350 secs)
+NP:default step 42600 lr 3.076e-04 [train_loss] loss -0.3948 (1.345 secs)
+NP:default step 42800 lr 3.061e-04 [train_loss] loss -0.4178 (1.344 secs)
+NP:default step 43000 lr 3.045e-04 [train_loss] loss -0.4532 (1.346 secs)
+NP:default RBF ctx_ll 0.6744 tar_ll 0.2370 (3.190 secs)
+
+save model at epoch 43000
+NP:default step 43200 lr 3.030e-04 [train_loss] loss -0.4283 (5.125 secs)
+NP:default step 43400 lr 3.015e-04 [train_loss] loss -0.4599 (1.349 secs)
+NP:default step 43600 lr 2.999e-04 [train_loss] loss -0.4544 (1.346 secs)
+NP:default step 43800 lr 2.984e-04 [train_loss] loss -0.4438 (1.349 secs)
+NP:default step 44000 lr 2.968e-04 [train_loss] loss -0.4098 (1.348 secs)
+NP:default RBF ctx_ll 0.6698 tar_ll 0.2517 (3.183 secs)
+
+save model at epoch 44000
+NP:default step 44200 lr 2.953e-04 [train_loss] loss -0.4866 (5.151 secs)
+NP:default step 44400 lr 2.938e-04 [train_loss] loss -0.4367 (1.349 secs)
+NP:default step 44600 lr 2.922e-04 [train_loss] loss -0.4554 (1.349 secs)
+NP:default step 44800 lr 2.907e-04 [train_loss] loss -0.4489 (1.342 secs)
+NP:default step 45000 lr 2.891e-04 [train_loss] loss -0.4570 (1.354 secs)
+NP:default RBF ctx_ll 0.6716 tar_ll 0.2428 (3.181 secs)
+
+NP:default RBF ctx_ll 0.6716 tar_ll 0.2433 (3.171 secs)
+
+NP:default step 45200 lr 2.876e-04 [train_loss] loss -0.4512 (5.090 secs)
+NP:default step 45400 lr 2.860e-04 [train_loss] loss -0.4389 (1.345 secs)
+NP:default step 45600 lr 2.844e-04 [train_loss] loss -0.4553 (1.353 secs)
+NP:default step 45800 lr 2.829e-04 [train_loss] loss -0.4325 (1.350 secs)
+NP:default step 46000 lr 2.813e-04 [train_loss] loss -0.4244 (1.356 secs)
+NP:default RBF ctx_ll 0.6482 tar_ll 0.2553 (3.171 secs)
+
+save model at epoch 46000
+NP:default step 46200 lr 2.798e-04 [train_loss] loss -0.5016 (5.155 secs)
+NP:default step 46400 lr 2.782e-04 [train_loss] loss -0.4017 (1.350 secs)
+NP:default step 46600 lr 2.767e-04 [train_loss] loss -0.4126 (1.352 secs)
+NP:default step 46800 lr 2.751e-04 [train_loss] loss -0.4185 (1.350 secs)
+NP:default step 47000 lr 2.735e-04 [train_loss] loss -0.4631 (1.358 secs)
+NP:default RBF ctx_ll 0.6800 tar_ll 0.2662 (3.202 secs)
+
+save model at epoch 47000
+NP:default step 47200 lr 2.720e-04 [train_loss] loss -0.4612 (5.132 secs)
+NP:default step 47400 lr 2.704e-04 [train_loss] loss -0.4724 (1.350 secs)
+NP:default step 47600 lr 2.688e-04 [train_loss] loss -0.4340 (1.349 secs)
+NP:default step 47800 lr 2.673e-04 [train_loss] loss -0.4547 (1.353 secs)
+NP:default step 48000 lr 2.657e-04 [train_loss] loss -0.4824 (1.358 secs)
+NP:default RBF ctx_ll 0.6993 tar_ll 0.2578 (3.194 secs)
+
+NP:default step 48200 lr 2.641e-04 [train_loss] loss -0.5068 (5.193 secs)
+NP:default step 48400 lr 2.626e-04 [train_loss] loss -0.4545 (1.405 secs)
+NP:default step 48600 lr 2.610e-04 [train_loss] loss -0.4760 (1.400 secs)
+NP:default step 48800 lr 2.594e-04 [train_loss] loss -0.4583 (1.412 secs)
+NP:default step 49000 lr 2.579e-04 [train_loss] loss -0.4760 (1.407 secs)
+NP:default RBF ctx_ll 0.6958 tar_ll 0.2650 (3.320 secs)
+
+NP:default step 49200 lr 2.563e-04 [train_loss] loss -0.4522 (5.301 secs)
+NP:default step 49400 lr 2.547e-04 [train_loss] loss -0.4483 (1.355 secs)
+NP:default step 49600 lr 2.531e-04 [train_loss] loss -0.4579 (1.366 secs)
+NP:default step 49800 lr 2.516e-04 [train_loss] loss -0.4272 (1.349 secs)
+NP:default step 50000 lr 2.500e-04 [train_loss] loss -0.4558 (1.352 secs)
+NP:default RBF ctx_ll 0.6810 tar_ll 0.2687 (3.181 secs)
+
+NP:default RBF ctx_ll 0.6807 tar_ll 0.2686 (3.192 secs)
+
+save model at epoch 50000
+NP:default step 50200 lr 2.484e-04 [train_loss] loss -0.4731 (5.137 secs)
+NP:default step 50400 lr 2.469e-04 [train_loss] loss -0.4500 (1.341 secs)
+NP:default step 50600 lr 2.453e-04 [train_loss] loss -0.4574 (1.346 secs)
+NP:default step 50800 lr 2.437e-04 [train_loss] loss -0.4776 (1.348 secs)
+NP:default step 51000 lr 2.421e-04 [train_loss] loss -0.4535 (1.347 secs)
+NP:default RBF ctx_ll 0.6809 tar_ll 0.2767 (3.187 secs)
+
+save model at epoch 51000
+NP:default step 51200 lr 2.406e-04 [train_loss] loss -0.5112 (5.128 secs)
+NP:default step 51400 lr 2.390e-04 [train_loss] loss -0.4504 (1.345 secs)
+NP:default step 51600 lr 2.374e-04 [train_loss] loss -0.4956 (1.347 secs)
+NP:default step 51800 lr 2.359e-04 [train_loss] loss -0.4833 (1.345 secs)
+NP:default step 52000 lr 2.343e-04 [train_loss] loss -0.4385 (1.347 secs)
+NP:default RBF ctx_ll 0.6963 tar_ll 0.2784 (3.180 secs)
+
+save model at epoch 52000
+NP:default step 52200 lr 2.327e-04 [train_loss] loss -0.4572 (5.121 secs)
+NP:default step 52400 lr 2.312e-04 [train_loss] loss -0.5104 (1.358 secs)
+NP:default step 52600 lr 2.296e-04 [train_loss] loss -0.4898 (1.344 secs)
+NP:default step 52800 lr 2.280e-04 [train_loss] loss -0.4699 (1.347 secs)
+NP:default step 53000 lr 2.265e-04 [train_loss] loss -0.4968 (1.358 secs)
+NP:default RBF ctx_ll 0.7121 tar_ll 0.2792 (3.185 secs)
+
+save model at epoch 53000
+NP:default step 53200 lr 2.249e-04 [train_loss] loss -0.4660 (5.137 secs)
+NP:default step 53400 lr 2.233e-04 [train_loss] loss -0.4673 (1.346 secs)
+NP:default step 53600 lr 2.218e-04 [train_loss] loss -0.4944 (1.349 secs)
+NP:default step 53800 lr 2.202e-04 [train_loss] loss -0.4645 (1.347 secs)
+NP:default step 54000 lr 2.187e-04 [train_loss] loss -0.4900 (1.351 secs)
+NP:default RBF ctx_ll 0.7188 tar_ll 0.2689 (3.195 secs)
+
+NP:default step 54200 lr 2.171e-04 [train_loss] loss -0.4690 (5.219 secs)
+NP:default step 54400 lr 2.156e-04 [train_loss] loss -0.4528 (1.350 secs)
+NP:default step 54600 lr 2.140e-04 [train_loss] loss -0.4783 (1.349 secs)
+NP:default step 54800 lr 2.124e-04 [train_loss] loss -0.4967 (1.347 secs)
+NP:default step 55000 lr 2.109e-04 [train_loss] loss -0.4508 (1.342 secs)
+NP:default RBF ctx_ll 0.7098 tar_ll 0.2825 (3.179 secs)
+
+NP:default RBF ctx_ll 0.7098 tar_ll 0.2833 (3.191 secs)
+
+save model at epoch 55000
+NP:default step 55200 lr 2.093e-04 [train_loss] loss -0.4989 (5.144 secs)
+NP:default step 55400 lr 2.078e-04 [train_loss] loss -0.4706 (1.349 secs)
+NP:default step 55600 lr 2.062e-04 [train_loss] loss -0.4549 (1.347 secs)
+NP:default step 55800 lr 2.047e-04 [train_loss] loss -0.5227 (1.347 secs)
+NP:default step 56000 lr 2.032e-04 [train_loss] loss -0.5108 (1.346 secs)
+NP:default RBF ctx_ll 0.6863 tar_ll 0.2660 (3.228 secs)
+
+NP:default step 56200 lr 2.016e-04 [train_loss] loss -0.4627 (5.239 secs)
+NP:default step 56400 lr 2.001e-04 [train_loss] loss -0.5291 (1.349 secs)
+NP:default step 56600 lr 1.985e-04 [train_loss] loss -0.4721 (1.347 secs)
+NP:default step 56800 lr 1.970e-04 [train_loss] loss -0.4590 (1.349 secs)
+NP:default step 57000 lr 1.955e-04 [train_loss] loss -0.4803 (1.339 secs)
+NP:default RBF ctx_ll 0.7102 tar_ll 0.2936 (3.197 secs)
+
+save model at epoch 57000
+NP:default step 57200 lr 1.939e-04 [train_loss] loss -0.4961 (5.022 secs)
+NP:default step 57400 lr 1.924e-04 [train_loss] loss -0.4926 (1.210 secs)
+NP:default step 57600 lr 1.909e-04 [train_loss] loss -0.5030 (1.199 secs)
+NP:default step 57800 lr 1.894e-04 [train_loss] loss -0.4654 (1.204 secs)
+NP:default step 58000 lr 1.878e-04 [train_loss] loss -0.4720 (1.203 secs)
+NP:default RBF ctx_ll 0.7503 tar_ll 0.2477 (3.195 secs)
+
+NP:default step 58200 lr 1.863e-04 [train_loss] loss -0.5104 (4.997 secs)
+NP:default step 58400 lr 1.848e-04 [train_loss] loss -0.5107 (1.207 secs)
+NP:default step 58600 lr 1.833e-04 [train_loss] loss -0.5138 (1.211 secs)
+NP:default step 58800 lr 1.818e-04 [train_loss] loss -0.5285 (1.205 secs)
+NP:default step 59000 lr 1.803e-04 [train_loss] loss -0.4997 (1.207 secs)
+NP:default RBF ctx_ll 0.6987 tar_ll 0.2996 (3.184 secs)
+
+save model at epoch 59000
+NP:default step 59200 lr 1.787e-04 [train_loss] loss -0.4615 (4.980 secs)
+NP:default step 59400 lr 1.772e-04 [train_loss] loss -0.4866 (1.206 secs)
+NP:default step 59600 lr 1.757e-04 [train_loss] loss -0.5155 (1.210 secs)
+NP:default step 59800 lr 1.742e-04 [train_loss] loss -0.4983 (1.212 secs)
+NP:default step 60000 lr 1.727e-04 [train_loss] loss -0.4796 (1.216 secs)
+NP:default RBF ctx_ll 0.7356 tar_ll 0.3011 (3.203 secs)
+
+NP:default RBF ctx_ll 0.7356 tar_ll 0.3014 (3.192 secs)
+
+save model at epoch 60000
+NP:default step 60200 lr 1.713e-04 [train_loss] loss -0.5432 (4.995 secs)
+NP:default step 60400 lr 1.698e-04 [train_loss] loss -0.5179 (1.209 secs)
+NP:default step 60600 lr 1.683e-04 [train_loss] loss -0.4953 (1.202 secs)
+NP:default step 60800 lr 1.668e-04 [train_loss] loss -0.4641 (1.201 secs)
+NP:default step 61000 lr 1.653e-04 [train_loss] loss -0.5038 (1.208 secs)
+NP:default RBF ctx_ll 0.7383 tar_ll 0.2962 (3.188 secs)
+
+NP:default step 61200 lr 1.638e-04 [train_loss] loss -0.5362 (4.988 secs)
+NP:default step 61400 lr 1.624e-04 [train_loss] loss -0.5307 (1.214 secs)
+NP:default step 61600 lr 1.609e-04 [train_loss] loss -0.5292 (1.202 secs)
+NP:default step 61800 lr 1.594e-04 [train_loss] loss -0.4895 (1.206 secs)
+NP:default step 62000 lr 1.580e-04 [train_loss] loss -0.5196 (1.208 secs)
+NP:default RBF ctx_ll 0.7488 tar_ll 0.3014 (3.201 secs)
+
+save model at epoch 62000
+NP:default step 62200 lr 1.565e-04 [train_loss] loss -0.5484 (4.978 secs)
+NP:default step 62400 lr 1.551e-04 [train_loss] loss -0.5198 (1.187 secs)
+NP:default step 62600 lr 1.536e-04 [train_loss] loss -0.5064 (1.205 secs)
+NP:default step 62800 lr 1.522e-04 [train_loss] loss -0.5059 (1.259 secs)
+NP:default step 63000 lr 1.507e-04 [train_loss] loss -0.5066 (1.258 secs)
+NP:default RBF ctx_ll 0.7429 tar_ll 0.2885 (3.294 secs)
+
+NP:default step 63200 lr 1.493e-04 [train_loss] loss -0.4952 (5.247 secs)
+NP:default step 63400 lr 1.478e-04 [train_loss] loss -0.5101 (1.254 secs)
+NP:default step 63600 lr 1.464e-04 [train_loss] loss -0.4991 (1.249 secs)
+NP:default step 63800 lr 1.450e-04 [train_loss] loss -0.5091 (1.253 secs)
+NP:default step 64000 lr 1.436e-04 [train_loss] loss -0.5298 (1.238 secs)
+NP:default RBF ctx_ll 0.7438 tar_ll 0.3145 (3.199 secs)
+
+save model at epoch 64000
+NP:default step 64200 lr 1.421e-04 [train_loss] loss -0.4784 (4.997 secs)
+NP:default step 64400 lr 1.407e-04 [train_loss] loss -0.5013 (1.206 secs)
+NP:default step 64600 lr 1.393e-04 [train_loss] loss -0.4826 (1.202 secs)
+NP:default step 64800 lr 1.379e-04 [train_loss] loss -0.5037 (1.201 secs)
+NP:default step 65000 lr 1.365e-04 [train_loss] loss -0.5365 (1.212 secs)
+NP:default RBF ctx_ll 0.7581 tar_ll 0.3157 (3.197 secs)
+
+NP:default RBF ctx_ll 0.7581 tar_ll 0.3148 (3.174 secs)
+
+save model at epoch 65000
+NP:default step 65200 lr 1.351e-04 [train_loss] loss -0.5184 (4.963 secs)
+NP:default step 65400 lr 1.337e-04 [train_loss] loss -0.5254 (1.207 secs)
+NP:default step 65600 lr 1.323e-04 [train_loss] loss -0.5102 (1.218 secs)
+NP:default step 65800 lr 1.309e-04 [train_loss] loss -0.5156 (1.216 secs)
+NP:default step 66000 lr 1.296e-04 [train_loss] loss -0.5587 (1.206 secs)
+NP:default RBF ctx_ll 0.7667 tar_ll 0.3137 (3.202 secs)
+
+NP:default step 66200 lr 1.282e-04 [train_loss] loss -0.5459 (5.004 secs)
+NP:default step 66400 lr 1.268e-04 [train_loss] loss -0.5282 (1.212 secs)
+NP:default step 66600 lr 1.255e-04 [train_loss] loss -0.5154 (1.206 secs)
+NP:default step 66800 lr 1.241e-04 [train_loss] loss -0.5425 (1.215 secs)
+NP:default step 67000 lr 1.227e-04 [train_loss] loss -0.5545 (1.205 secs)
+NP:default RBF ctx_ll 0.7722 tar_ll 0.3081 (3.184 secs)
+
+NP:default step 67200 lr 1.214e-04 [train_loss] loss -0.5081 (5.069 secs)
+NP:default step 67400 lr 1.200e-04 [train_loss] loss -0.5066 (1.205 secs)
+NP:default step 67600 lr 1.187e-04 [train_loss] loss -0.5378 (1.211 secs)
+NP:default step 67800 lr 1.174e-04 [train_loss] loss -0.5576 (1.213 secs)
+NP:default step 68000 lr 1.160e-04 [train_loss] loss -0.5433 (1.210 secs)
+NP:default RBF ctx_ll 0.7658 tar_ll 0.3100 (3.180 secs)
+
+NP:default step 68200 lr 1.147e-04 [train_loss] loss -0.5372 (4.977 secs)
+NP:default step 68400 lr 1.134e-04 [train_loss] loss -0.5482 (1.201 secs)
+NP:default step 68600 lr 1.121e-04 [train_loss] loss -0.5156 (1.199 secs)
+NP:default step 68800 lr 1.108e-04 [train_loss] loss -0.5244 (1.201 secs)
+NP:default step 69000 lr 1.095e-04 [train_loss] loss -0.5373 (1.204 secs)
+NP:default RBF ctx_ll 0.7632 tar_ll 0.3042 (3.187 secs)
+
+NP:default step 69200 lr 1.082e-04 [train_loss] loss -0.5480 (4.988 secs)
+NP:default step 69400 lr 1.069e-04 [train_loss] loss -0.5186 (1.207 secs)
+NP:default step 69600 lr 1.056e-04 [train_loss] loss -0.5074 (1.206 secs)
+NP:default step 69800 lr 1.043e-04 [train_loss] loss -0.5236 (1.199 secs)
+NP:default step 70000 lr 1.031e-04 [train_loss] loss -0.5334 (1.212 secs)
+NP:default RBF ctx_ll 0.7679 tar_ll 0.3130 (3.198 secs)
+
+NP:default RBF ctx_ll 0.7680 tar_ll 0.3145 (3.196 secs)
+
+NP:default step 70200 lr 1.018e-04 [train_loss] loss -0.5484 (5.063 secs)
+NP:default step 70400 lr 1.005e-04 [train_loss] loss -0.5543 (1.211 secs)
+NP:default step 70600 lr 9.927e-05 [train_loss] loss -0.5423 (1.210 secs)
+NP:default step 70800 lr 9.802e-05 [train_loss] loss -0.5646 (1.211 secs)
+NP:default step 71000 lr 9.677e-05 [train_loss] loss -0.5396 (1.214 secs)
+NP:default RBF ctx_ll 0.7640 tar_ll 0.3220 (3.192 secs)
+
+save model at epoch 71000
+NP:default step 71200 lr 9.554e-05 [train_loss] loss -0.5082 (5.020 secs)
+NP:default step 71400 lr 9.430e-05 [train_loss] loss -0.5042 (1.206 secs)
+NP:default step 71600 lr 9.308e-05 [train_loss] loss -0.5352 (1.202 secs)
+NP:default step 71800 lr 9.186e-05 [train_loss] loss -0.5093 (1.207 secs)
+NP:default step 72000 lr 9.064e-05 [train_loss] loss -0.5707 (1.214 secs)
+NP:default RBF ctx_ll 0.7758 tar_ll 0.3232 (3.209 secs)
+
+save model at epoch 72000
+NP:default step 72200 lr 8.944e-05 [train_loss] loss -0.5495 (4.995 secs)
+NP:default step 72400 lr 8.824e-05 [train_loss] loss -0.5229 (1.209 secs)
+NP:default step 72600 lr 8.704e-05 [train_loss] loss -0.5323 (1.190 secs)
+NP:default step 72800 lr 8.585e-05 [train_loss] loss -0.5355 (1.203 secs)
+NP:default step 73000 lr 8.467e-05 [train_loss] loss -0.5227 (1.210 secs)
+NP:default RBF ctx_ll 0.7726 tar_ll 0.3274 (3.208 secs)
+
+save model at epoch 73000
+NP:default step 73200 lr 8.350e-05 [train_loss] loss -0.5238 (5.015 secs)
+NP:default step 73400 lr 8.233e-05 [train_loss] loss -0.5118 (1.207 secs)
+NP:default step 73600 lr 8.117e-05 [train_loss] loss -0.5359 (1.203 secs)
+NP:default step 73800 lr 8.001e-05 [train_loss] loss -0.5525 (1.204 secs)
+NP:default step 74000 lr 7.886e-05 [train_loss] loss -0.5173 (1.202 secs)
+NP:default RBF ctx_ll 0.7691 tar_ll 0.3257 (3.191 secs)
+
+NP:default step 74200 lr 7.772e-05 [train_loss] loss -0.5153 (5.069 secs)
+NP:default step 74400 lr 7.659e-05 [train_loss] loss -0.5701 (1.201 secs)
+NP:default step 74600 lr 7.546e-05 [train_loss] loss -0.5636 (1.201 secs)
+NP:default step 74800 lr 7.434e-05 [train_loss] loss -0.5761 (1.206 secs)
+NP:default step 75000 lr 7.322e-05 [train_loss] loss -0.5726 (1.204 secs)
+NP:default RBF ctx_ll 0.7906 tar_ll 0.3177 (3.195 secs)
+
+NP:default RBF ctx_ll 0.7907 tar_ll 0.3170 (3.192 secs)
+
+NP:default step 75200 lr 7.212e-05 [train_loss] loss -0.5401 (4.968 secs)
+NP:default step 75400 lr 7.102e-05 [train_loss] loss -0.5437 (1.213 secs)
+NP:default step 75600 lr 6.992e-05 [train_loss] loss -0.5280 (1.202 secs)
+NP:default step 75800 lr 6.884e-05 [train_loss] loss -0.5394 (1.205 secs)
+NP:default step 76000 lr 6.776e-05 [train_loss] loss -0.5092 (1.209 secs)
+NP:default RBF ctx_ll 0.7776 tar_ll 0.3283 (3.181 secs)
+
+save model at epoch 76000
+NP:default step 76200 lr 6.669e-05 [train_loss] loss -0.5333 (4.986 secs)
+NP:default step 76400 lr 6.562e-05 [train_loss] loss -0.5231 (1.207 secs)
+NP:default step 76600 lr 6.456e-05 [train_loss] loss -0.5843 (1.203 secs)
+NP:default step 76800 lr 6.351e-05 [train_loss] loss -0.5275 (1.223 secs)
+NP:default step 77000 lr 6.247e-05 [train_loss] loss -0.5497 (1.216 secs)
+NP:default RBF ctx_ll 0.7864 tar_ll 0.3290 (3.204 secs)
+
+save model at epoch 77000
+NP:default step 77200 lr 6.144e-05 [train_loss] loss -0.5582 (5.007 secs)
+NP:default step 77400 lr 6.041e-05 [train_loss] loss -0.5370 (1.208 secs)
+NP:default step 77600 lr 5.939e-05 [train_loss] loss -0.5231 (1.179 secs)
+NP:default step 77800 lr 5.838e-05 [train_loss] loss -0.5605 (1.251 secs)
+NP:default step 78000 lr 5.737e-05 [train_loss] loss -0.5286 (1.263 secs)
+NP:default RBF ctx_ll 0.7812 tar_ll 0.3327 (3.313 secs)
+
+save model at epoch 78000
+NP:default step 78200 lr 5.637e-05 [train_loss] loss -0.5847 (5.288 secs)
+NP:default step 78400 lr 5.538e-05 [train_loss] loss -0.5208 (1.248 secs)
+NP:default step 78600 lr 5.440e-05 [train_loss] loss -0.5494 (1.256 secs)
+NP:default step 78800 lr 5.343e-05 [train_loss] loss -0.5291 (1.250 secs)
+NP:default step 79000 lr 5.246e-05 [train_loss] loss -0.5504 (1.252 secs)
+NP:default RBF ctx_ll 0.7920 tar_ll 0.3259 (3.226 secs)
+
+NP:default step 79200 lr 5.150e-05 [train_loss] loss -0.5460 (5.048 secs)
+NP:default step 79400 lr 5.055e-05 [train_loss] loss -0.5620 (1.215 secs)
+NP:default step 79600 lr 4.961e-05 [train_loss] loss -0.5454 (1.210 secs)
+NP:default step 79800 lr 4.867e-05 [train_loss] loss -0.5953 (1.214 secs)
+NP:default step 80000 lr 4.775e-05 [train_loss] loss -0.5549 (1.225 secs)
+NP:default RBF ctx_ll 0.7878 tar_ll 0.3329 (3.216 secs)
+
+NP:default RBF ctx_ll 0.7879 tar_ll 0.3320 (3.206 secs)
+
+NP:default step 80200 lr 4.683e-05 [train_loss] loss -0.5326 (4.997 secs)
+NP:default step 80400 lr 4.592e-05 [train_loss] loss -0.5479 (1.218 secs)
+NP:default step 80600 lr 4.501e-05 [train_loss] loss -0.5349 (1.218 secs)
+NP:default step 80800 lr 4.412e-05 [train_loss] loss -0.5168 (1.210 secs)
+NP:default step 81000 lr 4.323e-05 [train_loss] loss -0.5655 (1.216 secs)
+NP:default RBF ctx_ll 0.7858 tar_ll 0.3376 (3.185 secs)
+
+save model at epoch 81000
+NP:default step 81200 lr 4.235e-05 [train_loss] loss -0.5642 (5.009 secs)
+NP:default step 81400 lr 4.148e-05 [train_loss] loss -0.5203 (1.201 secs)
+NP:default step 81600 lr 4.062e-05 [train_loss] loss -0.5484 (1.203 secs)
+NP:default step 81800 lr 3.976e-05 [train_loss] loss -0.5688 (1.208 secs)
+NP:default step 82000 lr 3.892e-05 [train_loss] loss -0.5517 (1.206 secs)
+NP:default RBF ctx_ll 0.7788 tar_ll 0.3395 (3.181 secs)
+
+save model at epoch 82000
+NP:default step 82200 lr 3.808e-05 [train_loss] loss -0.5688 (4.981 secs)
+NP:default step 82400 lr 3.725e-05 [train_loss] loss -0.5012 (1.216 secs)
+NP:default step 82600 lr 3.643e-05 [train_loss] loss -0.5573 (1.200 secs)
+NP:default step 82800 lr 3.562e-05 [train_loss] loss -0.5549 (1.209 secs)
+NP:default step 83000 lr 3.481e-05 [train_loss] loss -0.5211 (1.211 secs)
+NP:default RBF ctx_ll 0.7881 tar_ll 0.3380 (3.194 secs)
+
+NP:default step 83200 lr 3.402e-05 [train_loss] loss -0.5329 (5.059 secs)
+NP:default step 83400 lr 3.323e-05 [train_loss] loss -0.5586 (1.200 secs)
+NP:default step 83600 lr 3.245e-05 [train_loss] loss -0.5601 (1.202 secs)
+NP:default step 83800 lr 3.168e-05 [train_loss] loss -0.5471 (1.216 secs)
+NP:default step 84000 lr 3.092e-05 [train_loss] loss -0.5652 (1.208 secs)
+NP:default RBF ctx_ll 0.7861 tar_ll 0.3415 (3.192 secs)
+
+save model at epoch 84000
+NP:default step 84200 lr 3.017e-05 [train_loss] loss -0.5378 (4.998 secs)
+NP:default step 84400 lr 2.943e-05 [train_loss] loss -0.4985 (1.203 secs)
+NP:default step 84600 lr 2.869e-05 [train_loss] loss -0.5497 (1.208 secs)
+NP:default step 84800 lr 2.797e-05 [train_loss] loss -0.5117 (1.205 secs)
+NP:default step 85000 lr 2.725e-05 [train_loss] loss -0.5395 (1.205 secs)
+NP:default RBF ctx_ll 0.7870 tar_ll 0.3411 (3.208 secs)
+
+NP:default RBF ctx_ll 0.7870 tar_ll 0.3389 (3.204 secs)
+
+NP:default step 85200 lr 2.654e-05 [train_loss] loss -0.5162 (5.006 secs)
+NP:default step 85400 lr 2.584e-05 [train_loss] loss -0.5755 (1.212 secs)
+NP:default step 85600 lr 2.515e-05 [train_loss] loss -0.5521 (1.211 secs)
+NP:default step 85800 lr 2.447e-05 [train_loss] loss -0.5424 (1.208 secs)
+NP:default step 86000 lr 2.379e-05 [train_loss] loss -0.5819 (1.211 secs)
+NP:default RBF ctx_ll 0.7978 tar_ll 0.3305 (3.205 secs)
+
+NP:default step 86200 lr 2.313e-05 [train_loss] loss -0.5651 (5.080 secs)
+NP:default step 86400 lr 2.247e-05 [train_loss] loss -0.5418 (1.214 secs)
+NP:default step 86600 lr 2.183e-05 [train_loss] loss -0.5939 (1.233 secs)
+NP:default step 86800 lr 2.119e-05 [train_loss] loss -0.5497 (1.209 secs)
+NP:default step 87000 lr 2.056e-05 [train_loss] loss -0.5672 (1.211 secs)
+NP:default RBF ctx_ll 0.7896 tar_ll 0.3437 (3.207 secs)
+
+save model at epoch 87000
+NP:default step 87200 lr 1.994e-05 [train_loss] loss -0.5451 (5.015 secs)
+NP:default step 87400 lr 1.933e-05 [train_loss] loss -0.5650 (1.206 secs)
+NP:default step 87600 lr 1.873e-05 [train_loss] loss -0.5504 (1.206 secs)
+NP:default step 87800 lr 1.814e-05 [train_loss] loss -0.5457 (1.206 secs)
+NP:default step 88000 lr 1.756e-05 [train_loss] loss -0.5320 (1.205 secs)
+NP:default RBF ctx_ll 0.7956 tar_ll 0.3381 (3.202 secs)
+
+NP:default step 88200 lr 1.698e-05 [train_loss] loss -0.5737 (5.000 secs)
+NP:default step 88400 lr 1.642e-05 [train_loss] loss -0.5554 (1.203 secs)
+NP:default step 88600 lr 1.586e-05 [train_loss] loss -0.5566 (1.211 secs)
+NP:default step 88800 lr 1.532e-05 [train_loss] loss -0.5512 (1.222 secs)
+NP:default step 89000 lr 1.478e-05 [train_loss] loss -0.5929 (1.210 secs)
+NP:default RBF ctx_ll 0.7987 tar_ll 0.3378 (3.203 secs)
+
+NP:default step 89200 lr 1.425e-05 [train_loss] loss -0.5703 (5.006 secs)
+NP:default step 89400 lr 1.373e-05 [train_loss] loss -0.5489 (1.202 secs)
+NP:default step 89600 lr 1.323e-05 [train_loss] loss -0.5503 (1.206 secs)
+NP:default step 89800 lr 1.273e-05 [train_loss] loss -0.5938 (1.209 secs)
+NP:default step 90000 lr 1.224e-05 [train_loss] loss -0.5141 (1.204 secs)
+NP:default RBF ctx_ll 0.7976 tar_ll 0.3401 (3.203 secs)
+
+NP:default RBF ctx_ll 0.7976 tar_ll 0.3406 (3.206 secs)
+
+NP:default step 90200 lr 1.176e-05 [train_loss] loss -0.5636 (5.012 secs)
+NP:default step 90400 lr 1.128e-05 [train_loss] loss -0.5699 (1.210 secs)
+NP:default step 90600 lr 1.082e-05 [train_loss] loss -0.5414 (1.205 secs)
+NP:default step 90800 lr 1.037e-05 [train_loss] loss -0.5500 (1.206 secs)
+NP:default step 91000 lr 9.927e-06 [train_loss] loss -0.5652 (1.208 secs)
+NP:default RBF ctx_ll 0.7942 tar_ll 0.3415 (3.201 secs)
+
+NP:default step 91200 lr 9.493e-06 [train_loss] loss -0.5862 (4.992 secs)
+NP:default step 91400 lr 9.069e-06 [train_loss] loss -0.5521 (1.218 secs)
+NP:default step 91600 lr 8.655e-06 [train_loss] loss -0.5753 (1.203 secs)
+NP:default step 91800 lr 8.250e-06 [train_loss] loss -0.5953 (1.204 secs)
+NP:default step 92000 lr 7.854e-06 [train_loss] loss -0.5556 (1.211 secs)
+NP:default RBF ctx_ll 0.7994 tar_ll 0.3399 (3.204 secs)
+
+NP:default step 92200 lr 7.468e-06 [train_loss] loss -0.5563 (5.085 secs)
+NP:default step 92400 lr 7.092e-06 [train_loss] loss -0.5524 (1.202 secs)
+NP:default step 92600 lr 6.725e-06 [train_loss] loss -0.5846 (1.219 secs)
+NP:default step 92800 lr 6.368e-06 [train_loss] loss -0.5426 (1.271 secs)
+NP:default step 93000 lr 6.021e-06 [train_loss] loss -0.5764 (1.270 secs)
+NP:default RBF ctx_ll 0.7969 tar_ll 0.3427 (3.313 secs)
+
+NP:default step 93200 lr 5.683e-06 [train_loss] loss -0.5562 (5.223 secs)
+NP:default step 93400 lr 5.355e-06 [train_loss] loss -0.5749 (1.261 secs)
+NP:default step 93600 lr 5.036e-06 [train_loss] loss -0.5736 (1.249 secs)
+NP:default step 93800 lr 4.727e-06 [train_loss] loss -0.5214 (1.268 secs)
+NP:default step 94000 lr 4.428e-06 [train_loss] loss -0.5863 (1.227 secs)
+NP:default RBF ctx_ll 0.7982 tar_ll 0.3424 (3.304 secs)
+
+NP:default step 94200 lr 4.139e-06 [train_loss] loss -0.5900 (5.193 secs)
+NP:default step 94400 lr 3.859e-06 [train_loss] loss -0.5657 (1.285 secs)
+NP:default step 94600 lr 3.589e-06 [train_loss] loss -0.5853 (1.273 secs)
+NP:default step 94800 lr 3.329e-06 [train_loss] loss -0.5715 (1.282 secs)
+NP:default step 95000 lr 3.078e-06 [train_loss] loss -0.5581 (1.290 secs)
+NP:default RBF ctx_ll 0.7986 tar_ll 0.3427 (3.356 secs)
+
+NP:default RBF ctx_ll 0.7983 tar_ll 0.3427 (3.369 secs)
+
+NP:default step 95200 lr 2.837e-06 [train_loss] loss -0.5620 (5.378 secs)
+NP:default step 95400 lr 2.606e-06 [train_loss] loss -0.5631 (1.287 secs)
+NP:default step 95600 lr 2.385e-06 [train_loss] loss -0.5281 (1.286 secs)
+NP:default step 95800 lr 2.173e-06 [train_loss] loss -0.5593 (1.294 secs)
+NP:default step 96000 lr 1.971e-06 [train_loss] loss -0.5602 (1.280 secs)
+NP:default RBF ctx_ll 0.7970 tar_ll 0.3443 (3.359 secs)
+
+save model at epoch 96000
+NP:default step 96200 lr 1.779e-06 [train_loss] loss -0.5280 (5.280 secs)
+NP:default step 96400 lr 1.597e-06 [train_loss] loss -0.5579 (1.274 secs)
+NP:default step 96600 lr 1.425e-06 [train_loss] loss -0.5651 (1.273 secs)
+NP:default step 96800 lr 1.262e-06 [train_loss] loss -0.5292 (1.281 secs)
+NP:default step 97000 lr 1.110e-06 [train_loss] loss -0.5908 (1.282 secs)
+NP:default RBF ctx_ll 0.7987 tar_ll 0.3438 (3.336 secs)
+
+NP:default step 97200 lr 9.666e-07 [train_loss] loss -0.5657 (5.266 secs)
+NP:default step 97400 lr 8.335e-07 [train_loss] loss -0.5544 (1.285 secs)
+NP:default step 97600 lr 7.103e-07 [train_loss] loss -0.5593 (1.273 secs)
+NP:default step 97800 lr 5.969e-07 [train_loss] loss -0.5676 (1.281 secs)
+NP:default step 98000 lr 4.933e-07 [train_loss] loss -0.5464 (1.276 secs)
+NP:default RBF ctx_ll 0.7961 tar_ll 0.3454 (3.319 secs)
+
+save model at epoch 98000
+NP:default step 98200 lr 3.996e-07 [train_loss] loss -0.5663 (5.237 secs)
+NP:default step 98400 lr 3.158e-07 [train_loss] loss -0.5758 (1.283 secs)
+NP:default step 98600 lr 2.418e-07 [train_loss] loss -0.5740 (1.290 secs)
+NP:default step 98800 lr 1.776e-07 [train_loss] loss -0.5118 (1.290 secs)
+NP:default step 99000 lr 1.234e-07 [train_loss] loss -0.5827 (1.284 secs)
+NP:default RBF ctx_ll 0.7974 tar_ll 0.3433 (3.346 secs)
+
+NP:default step 99200 lr 7.895e-08 [train_loss] loss -0.5839 (5.361 secs)
+NP:default step 99400 lr 4.441e-08 [train_loss] loss -0.5731 (1.287 secs)
+NP:default step 99600 lr 1.974e-08 [train_loss] loss -0.5875 (1.269 secs)
+NP:default step 99800 lr 4.935e-09 [train_loss] loss -0.5454 (1.191 secs)
+NP:default step 100000 lr 0.000e+00 [train_loss] loss -0.5637 (1.227 secs)
+NP:default RBF ctx_ll 0.7974 tar_ll 0.3437 (3.359 secs)
+
+NP:default RBF ctx_ll 0.7975 tar_ll 0.3432 (3.368 secs)
+
+Experiment: NP-default
+Total number of parameters: 232194
+
+NP:default step 200 lr 5.000e-04 [train_loss] loss 0.6426 (1.404 secs)
+NP:default step 400 lr 5.000e-04 [train_loss] loss 0.5386 (1.153 secs)
+NP:default step 600 lr 5.000e-04 [train_loss] loss 0.5155 (1.154 secs)
+NP:default step 800 lr 4.999e-04 [train_loss] loss 0.5222 (1.156 secs)
+NP:default step 1000 lr 4.999e-04 [train_loss] loss 0.4682 (1.153 secs)
+NP:default RBF crps 0.2525 ctx_ll -0.3492 tar_ll -0.5002 ctx_re 4.3241 tar_re 5.9094 (4.558 secs)
+
+save model at epoch 1000
+NP:default step 1200 lr 4.998e-04 [train_loss] loss 0.4419 (6.386 secs)
+NP:default step 1400 lr 4.998e-04 [train_loss] loss 0.4249 (1.149 secs)
+NP:default step 1600 lr 4.997e-04 [train_loss] loss 0.4149 (1.150 secs)
+NP:default step 1800 lr 4.996e-04 [train_loss] loss 0.4301 (1.150 secs)
+NP:default step 2000 lr 4.995e-04 [train_loss] loss 0.4314 (1.149 secs)
+NP:default RBF crps 0.2440 ctx_ll -0.2872 tar_ll -0.4610 ctx_re 4.3936 tar_re 5.9185 (4.561 secs)
+
+save model at epoch 2000
+NP:default step 2200 lr 4.994e-04 [train_loss] loss 0.3920 (6.312 secs)
+NP:default step 2400 lr 4.993e-04 [train_loss] loss 0.3622 (1.147 secs)
+NP:default step 2600 lr 4.992e-04 [train_loss] loss 0.3657 (1.150 secs)
+NP:default step 2800 lr 4.990e-04 [train_loss] loss 0.3529 (1.149 secs)
+NP:default step 3000 lr 4.989e-04 [train_loss] loss 0.3103 (1.146 secs)
+NP:default RBF crps 0.2231 ctx_ll -0.1568 tar_ll -0.3979 ctx_re 5.0584 tar_re 5.9009 (4.564 secs)
+
+save model at epoch 3000
+NP:default step 3200 lr 4.987e-04 [train_loss] loss 0.2905 (6.300 secs)
+NP:default step 3400 lr 4.986e-04 [train_loss] loss 0.2364 (1.150 secs)
+NP:default step 3600 lr 4.984e-04 [train_loss] loss 0.2699 (1.148 secs)
+NP:default step 3800 lr 4.982e-04 [train_loss] loss 0.2524 (1.151 secs)
+NP:default step 4000 lr 4.980e-04 [train_loss] loss 0.2587 (1.150 secs)
+NP:default RBF crps 0.2178 ctx_ll -0.1393 tar_ll -0.3480 ctx_re 5.0750 tar_re 6.2502 (4.548 secs)
+
+save model at epoch 4000
+NP:default step 4200 lr 4.978e-04 [train_loss] loss 0.2331 (6.286 secs)
+NP:default step 4400 lr 4.976e-04 [train_loss] loss 0.2121 (1.147 secs)
+NP:default step 4600 lr 4.974e-04 [train_loss] loss 0.2052 (1.145 secs)
+NP:default step 4800 lr 4.972e-04 [train_loss] loss 0.1776 (1.148 secs)
+NP:default step 5000 lr 4.969e-04 [train_loss] loss 0.1485 (1.154 secs)
+NP:default RBF crps 0.2066 ctx_ll -0.0468 tar_ll -0.3122 ctx_re 4.6187 tar_re 6.0938 (4.534 secs)
+
+NP:default RBF crps 0.2066 ctx_ll -0.0468 tar_ll -0.3131 ctx_re 4.6820 tar_re 6.1355 (4.559 secs)
+
+save model at epoch 5000
+NP:default step 5200 lr 4.967e-04 [train_loss] loss 0.1399 (6.338 secs)
+NP:default step 5400 lr 4.964e-04 [train_loss] loss 0.2054 (1.147 secs)
+NP:default step 5600 lr 4.961e-04 [train_loss] loss 0.1381 (1.145 secs)
+NP:default step 5800 lr 4.959e-04 [train_loss] loss 0.1278 (1.148 secs)
+NP:default step 6000 lr 4.956e-04 [train_loss] loss 0.1226 (1.151 secs)
+NP:default RBF crps 0.1930 ctx_ll 0.0364 tar_ll -0.2398 ctx_re 4.9089 tar_re 5.9191 (4.545 secs)
+
+save model at epoch 6000
+NP:default step 6200 lr 4.953e-04 [train_loss] loss 0.1245 (6.282 secs)
+NP:default step 6400 lr 4.950e-04 [train_loss] loss 0.1233 (1.147 secs)
+NP:default step 6600 lr 4.946e-04 [train_loss] loss 0.1222 (1.145 secs)
+NP:default step 6800 lr 4.943e-04 [train_loss] loss 0.0831 (1.147 secs)
+NP:default step 7000 lr 4.940e-04 [train_loss] loss 0.0614 (1.151 secs)
+NP:default RBF crps 0.1846 ctx_ll 0.1023 tar_ll -0.1919 ctx_re 4.5277 tar_re 5.9451 (4.524 secs)
+
+save model at epoch 7000
+NP:default step 7200 lr 4.936e-04 [train_loss] loss 0.0481 (6.242 secs)
+NP:default step 7400 lr 4.933e-04 [train_loss] loss 0.0384 (1.146 secs)
+NP:default step 7600 lr 4.929e-04 [train_loss] loss 0.0752 (1.145 secs)
+NP:default step 7800 lr 4.925e-04 [train_loss] loss 0.0267 (1.146 secs)
+NP:default step 8000 lr 4.921e-04 [train_loss] loss 0.0871 (1.155 secs)
+NP:default RBF crps 0.1818 ctx_ll 0.1041 tar_ll -0.1693 ctx_re 4.2702 tar_re 6.0907 (4.517 secs)
+
+save model at epoch 8000
+NP:default step 8200 lr 4.918e-04 [train_loss] loss 0.0363 (6.254 secs)
+NP:default step 8400 lr 4.913e-04 [train_loss] loss 0.0297 (1.150 secs)
+NP:default step 8600 lr 4.909e-04 [train_loss] loss 0.0248 (1.149 secs)
+NP:default step 8800 lr 4.905e-04 [train_loss] loss 0.0001 (1.157 secs)
+NP:default step 9000 lr 4.901e-04 [train_loss] loss -0.0285 (1.155 secs)
+NP:default RBF crps 0.1728 ctx_ll 0.1879 tar_ll -0.1788 ctx_re 4.2453 tar_re 7.1993 (4.521 secs)
+
+NP:default step 9200 lr 4.896e-04 [train_loss] loss 0.0034 (6.229 secs)
+NP:default step 9400 lr 4.892e-04 [train_loss] loss -0.0073 (1.151 secs)
+NP:default step 9600 lr 4.887e-04 [train_loss] loss -0.0353 (1.150 secs)
+NP:default step 9800 lr 4.882e-04 [train_loss] loss -0.0565 (1.152 secs)
+NP:default step 10000 lr 4.878e-04 [train_loss] loss -0.0142 (1.154 secs)
+NP:default RBF crps 0.1728 ctx_ll 0.1908 tar_ll -0.1253 ctx_re 4.6651 tar_re 6.6181 (4.530 secs)
+
+NP:default RBF crps 0.1728 ctx_ll 0.1908 tar_ll -0.1254 ctx_re 4.6562 tar_re 6.6114 (4.532 secs)
+
+save model at epoch 10000
+NP:default step 10200 lr 4.873e-04 [train_loss] loss 0.0083 (6.329 secs)
+NP:default step 10400 lr 4.868e-04 [train_loss] loss 0.0077 (1.154 secs)
+NP:default step 10600 lr 4.863e-04 [train_loss] loss -0.0250 (1.154 secs)
+NP:default step 10800 lr 4.857e-04 [train_loss] loss -0.0090 (1.152 secs)
+NP:default step 11000 lr 4.852e-04 [train_loss] loss -0.0331 (1.155 secs)
+NP:default RBF crps 0.1663 ctx_ll 0.2391 tar_ll -0.0899 ctx_re 4.1821 tar_re 6.6692 (4.534 secs)
+
+save model at epoch 11000
+NP:default step 11200 lr 4.847e-04 [train_loss] loss -0.0349 (6.258 secs)
+NP:default step 11400 lr 4.841e-04 [train_loss] loss -0.0360 (1.150 secs)
+NP:default step 11600 lr 4.836e-04 [train_loss] loss -0.0197 (1.150 secs)
+NP:default step 11800 lr 4.830e-04 [train_loss] loss -0.0475 (1.151 secs)
+NP:default step 12000 lr 4.824e-04 [train_loss] loss -0.0643 (1.151 secs)
+NP:default RBF crps 0.1615 ctx_ll 0.2310 tar_ll -0.0665 ctx_re 4.1334 tar_re 6.5065 (4.534 secs)
+
+save model at epoch 12000
+NP:default step 12200 lr 4.819e-04 [train_loss] loss -0.0842 (6.249 secs)
+NP:default step 12400 lr 4.813e-04 [train_loss] loss -0.0695 (1.149 secs)
+NP:default step 12600 lr 4.807e-04 [train_loss] loss -0.0748 (1.150 secs)
+NP:default step 12800 lr 4.801e-04 [train_loss] loss -0.0613 (1.149 secs)
+NP:default step 13000 lr 4.794e-04 [train_loss] loss -0.0796 (1.153 secs)
+NP:default RBF crps 0.1585 ctx_ll 0.3074 tar_ll -0.0961 ctx_re 4.1056 tar_re 6.5332 (4.511 secs)
+
+NP:default step 13200 lr 4.788e-04 [train_loss] loss -0.0786 (6.220 secs)
+NP:default step 13400 lr 4.782e-04 [train_loss] loss -0.0748 (1.148 secs)
+NP:default step 13600 lr 4.775e-04 [train_loss] loss -0.0488 (1.148 secs)
+NP:default step 13800 lr 4.769e-04 [train_loss] loss -0.0956 (1.147 secs)
+NP:default step 14000 lr 4.762e-04 [train_loss] loss -0.1310 (1.153 secs)
+NP:default RBF crps 0.1567 ctx_ll 0.3097 tar_ll -0.0475 ctx_re 4.2850 tar_re 6.8386 (4.512 secs)
+
+save model at epoch 14000
+NP:default step 14200 lr 4.755e-04 [train_loss] loss -0.1230 (6.241 secs)
+NP:default step 14400 lr 4.749e-04 [train_loss] loss -0.1156 (1.150 secs)
+NP:default step 14600 lr 4.742e-04 [train_loss] loss -0.1335 (1.149 secs)
+NP:default step 14800 lr 4.735e-04 [train_loss] loss -0.0934 (1.148 secs)
+NP:default step 15000 lr 4.728e-04 [train_loss] loss -0.1126 (1.154 secs)
+NP:default RBF crps 0.1543 ctx_ll 0.3072 tar_ll -0.0273 ctx_re 4.1378 tar_re 6.7668 (4.510 secs)
+
+NP:default RBF crps 0.1543 ctx_ll 0.3072 tar_ll -0.0275 ctx_re 4.1017 tar_re 6.7866 (4.536 secs)
+
+save model at epoch 15000
+NP:default step 15200 lr 4.720e-04 [train_loss] loss -0.1400 (6.249 secs)
+NP:default step 15400 lr 4.713e-04 [train_loss] loss -0.1398 (1.154 secs)
+NP:default step 15600 lr 4.706e-04 [train_loss] loss -0.1012 (1.151 secs)
+NP:default step 15800 lr 4.698e-04 [train_loss] loss -0.1261 (1.150 secs)
+NP:default step 16000 lr 4.691e-04 [train_loss] loss -0.1462 (1.154 secs)
+NP:default RBF crps 0.1526 ctx_ll 0.3109 tar_ll -0.0227 ctx_re 4.1827 tar_re 7.1055 (4.526 secs)
+
+save model at epoch 16000
+NP:default step 16200 lr 4.683e-04 [train_loss] loss -0.1477 (6.243 secs)
+NP:default step 16400 lr 4.675e-04 [train_loss] loss -0.1461 (1.153 secs)
+NP:default step 16600 lr 4.668e-04 [train_loss] loss -0.1666 (1.152 secs)
+NP:default step 16800 lr 4.660e-04 [train_loss] loss -0.1591 (1.151 secs)
+NP:default step 17000 lr 4.652e-04 [train_loss] loss -0.1668 (1.152 secs)
+NP:default RBF crps 0.1521 ctx_ll 0.3260 tar_ll -0.0029 ctx_re 4.0939 tar_re 6.6777 (4.525 secs)
+
+save model at epoch 17000
+NP:default step 17200 lr 4.644e-04 [train_loss] loss -0.1936 (6.249 secs)
+NP:default step 17400 lr 4.636e-04 [train_loss] loss -0.1322 (1.150 secs)
+NP:default step 17600 lr 4.627e-04 [train_loss] loss -0.1550 (1.150 secs)
+NP:default step 17800 lr 4.619e-04 [train_loss] loss -0.1738 (1.151 secs)
+NP:default step 18000 lr 4.611e-04 [train_loss] loss -0.1345 (1.152 secs)
+NP:default RBF crps 0.1504 ctx_ll 0.3668 tar_ll 0.0125 ctx_re 3.4468 tar_re 6.5457 (4.518 secs)
+
+save model at epoch 18000
+NP:default step 18200 lr 4.602e-04 [train_loss] loss -0.1436 (6.223 secs)
+NP:default step 18400 lr 4.594e-04 [train_loss] loss -0.1634 (1.149 secs)
+NP:default step 18600 lr 4.585e-04 [train_loss] loss -0.1805 (1.147 secs)
+NP:default step 18800 lr 4.576e-04 [train_loss] loss -0.1855 (1.148 secs)
+NP:default step 19000 lr 4.568e-04 [train_loss] loss -0.1967 (1.162 secs)
+NP:default RBF crps 0.1483 ctx_ll 0.4038 tar_ll -0.0560 ctx_re 3.7423 tar_re 6.3008 (4.526 secs)
+
+NP:default step 19200 lr 4.559e-04 [train_loss] loss -0.2016 (6.310 secs)
+NP:default step 19400 lr 4.550e-04 [train_loss] loss -0.2147 (1.149 secs)
+NP:default step 19600 lr 4.541e-04 [train_loss] loss -0.1895 (1.151 secs)
+NP:default step 19800 lr 4.532e-04 [train_loss] loss -0.2187 (1.147 secs)
+NP:default step 20000 lr 4.523e-04 [train_loss] loss -0.2229 (1.153 secs)
+NP:default RBF crps 0.1409 ctx_ll 0.4329 tar_ll 0.0362 ctx_re 3.3043 tar_re 6.0926 (4.500 secs)
+
+NP:default RBF crps 0.1409 ctx_ll 0.4328 tar_ll 0.0359 ctx_re 3.3199 tar_re 6.0601 (4.527 secs)
+
+save model at epoch 20000
+NP:default step 20200 lr 4.513e-04 [train_loss] loss -0.2275 (6.238 secs)
+NP:default step 20400 lr 4.504e-04 [train_loss] loss -0.2045 (1.154 secs)
+NP:default step 20600 lr 4.494e-04 [train_loss] loss -0.2031 (1.152 secs)
+NP:default step 20800 lr 4.485e-04 [train_loss] loss -0.2374 (1.152 secs)
+NP:default step 21000 lr 4.475e-04 [train_loss] loss -0.2371 (1.155 secs)
+NP:default RBF crps 0.1399 ctx_ll 0.4299 tar_ll 0.0742 ctx_re 3.0373 tar_re 6.1983 (4.524 secs)
+
+save model at epoch 21000
+NP:default step 21200 lr 4.466e-04 [train_loss] loss -0.2292 (6.239 secs)
+NP:default step 21400 lr 4.456e-04 [train_loss] loss -0.2136 (1.153 secs)
+NP:default step 21600 lr 4.446e-04 [train_loss] loss -0.2329 (1.150 secs)
+NP:default step 21800 lr 4.436e-04 [train_loss] loss -0.2133 (1.154 secs)
+NP:default step 22000 lr 4.426e-04 [train_loss] loss -0.2772 (1.154 secs)
+NP:default RBF crps 0.1370 ctx_ll 0.4797 tar_ll 0.0661 ctx_re 3.1376 tar_re 5.7117 (4.522 secs)
+
+NP:default step 22200 lr 4.416e-04 [train_loss] loss -0.2311 (6.316 secs)
+NP:default step 22400 lr 4.406e-04 [train_loss] loss -0.2603 (1.154 secs)
+NP:default step 22600 lr 4.396e-04 [train_loss] loss -0.2568 (1.153 secs)
+NP:default step 22800 lr 4.386e-04 [train_loss] loss -0.1856 (1.153 secs)
+NP:default step 23000 lr 4.375e-04 [train_loss] loss -0.2787 (1.156 secs)
+NP:default RBF crps 0.1381 ctx_ll 0.4610 tar_ll 0.0922 ctx_re 2.9525 tar_re 5.6379 (4.520 secs)
+
+save model at epoch 23000
+NP:default step 23200 lr 4.365e-04 [train_loss] loss -0.2491 (6.238 secs)
+NP:default step 23400 lr 4.354e-04 [train_loss] loss -0.2625 (1.152 secs)
+NP:default step 23600 lr 4.344e-04 [train_loss] loss -0.2585 (1.150 secs)
+NP:default step 23800 lr 4.333e-04 [train_loss] loss -0.2694 (1.152 secs)
+NP:default step 24000 lr 4.322e-04 [train_loss] loss -0.2763 (1.154 secs)
+NP:default RBF crps 0.1364 ctx_ll 0.4790 tar_ll 0.0931 ctx_re 2.8616 tar_re 5.7643 (4.509 secs)
+
+save model at epoch 24000
+NP:default step 24200 lr 4.312e-04 [train_loss] loss -0.2528 (6.229 secs)
+NP:default step 24400 lr 4.301e-04 [train_loss] loss -0.2835 (1.152 secs)
+NP:default step 24600 lr 4.290e-04 [train_loss] loss -0.2773 (1.150 secs)
+NP:default step 24800 lr 4.279e-04 [train_loss] loss -0.2443 (1.150 secs)
+NP:default step 25000 lr 4.268e-04 [train_loss] loss -0.2449 (1.151 secs)
+NP:default RBF crps 0.1354 ctx_ll 0.4907 tar_ll 0.0980 ctx_re 2.9627 tar_re 5.5176 (4.525 secs)
+
+NP:default RBF crps 0.1354 ctx_ll 0.4909 tar_ll 0.0981 ctx_re 2.9361 tar_re 5.4818 (4.526 secs)
+
+save model at epoch 25000
+NP:default step 25200 lr 4.257e-04 [train_loss] loss -0.2893 (6.241 secs)
+NP:default step 25400 lr 4.245e-04 [train_loss] loss -0.2802 (1.152 secs)
+NP:default step 25600 lr 4.234e-04 [train_loss] loss -0.3035 (1.150 secs)
+NP:default step 25800 lr 4.223e-04 [train_loss] loss -0.2940 (1.151 secs)
+NP:default step 26000 lr 4.211e-04 [train_loss] loss -0.2601 (1.153 secs)
+NP:default RBF crps 0.1352 ctx_ll 0.4939 tar_ll 0.0915 ctx_re 2.5978 tar_re 5.5279 (4.526 secs)
+
+NP:default step 26200 lr 4.200e-04 [train_loss] loss -0.2617 (6.318 secs)
+NP:default step 26400 lr 4.188e-04 [train_loss] loss -0.2748 (1.150 secs)
+NP:default step 26600 lr 4.177e-04 [train_loss] loss -0.2918 (1.151 secs)
+NP:default step 26800 lr 4.165e-04 [train_loss] loss -0.3016 (1.151 secs)
+NP:default step 27000 lr 4.153e-04 [train_loss] loss -0.2941 (1.152 secs)
+NP:default RBF crps 0.1335 ctx_ll 0.5265 tar_ll 0.0990 ctx_re 2.8346 tar_re 5.6578 (4.522 secs)
+
+save model at epoch 27000
+NP:default step 27200 lr 4.141e-04 [train_loss] loss -0.2800 (6.236 secs)
+NP:default step 27400 lr 4.130e-04 [train_loss] loss -0.2648 (1.151 secs)
+NP:default step 27600 lr 4.118e-04 [train_loss] loss -0.2910 (1.152 secs)
+NP:default step 27800 lr 4.106e-04 [train_loss] loss -0.2470 (1.151 secs)
+NP:default step 28000 lr 4.094e-04 [train_loss] loss -0.3054 (1.154 secs)
+NP:default RBF crps 0.1336 ctx_ll 0.5162 tar_ll 0.1074 ctx_re 2.9068 tar_re 5.5618 (4.529 secs)
+
+save model at epoch 28000
+NP:default step 28200 lr 4.081e-04 [train_loss] loss -0.2975 (6.240 secs)
+NP:default step 28400 lr 4.069e-04 [train_loss] loss -0.2588 (1.154 secs)
+NP:default step 28600 lr 4.057e-04 [train_loss] loss -0.2751 (1.152 secs)
+NP:default step 28800 lr 4.045e-04 [train_loss] loss -0.2590 (1.151 secs)
+NP:default step 29000 lr 4.032e-04 [train_loss] loss -0.3030 (1.152 secs)
+NP:default RBF crps 0.1325 ctx_ll 0.4988 tar_ll 0.1424 ctx_re 2.7762 tar_re 5.6798 (4.516 secs)
+
+save model at epoch 29000
+NP:default step 29200 lr 4.020e-04 [train_loss] loss -0.3080 (6.236 secs)
+NP:default step 29400 lr 4.007e-04 [train_loss] loss -0.3165 (1.153 secs)
+NP:default step 29600 lr 3.995e-04 [train_loss] loss -0.3092 (1.152 secs)
+NP:default step 29800 lr 3.982e-04 [train_loss] loss -0.3009 (1.151 secs)
+NP:default step 30000 lr 3.969e-04 [train_loss] loss -0.2955 (1.148 secs)
+NP:default RBF crps 0.1317 ctx_ll 0.5271 tar_ll 0.1279 ctx_re 2.8215 tar_re 5.1667 (4.526 secs)
+
+NP:default RBF crps 0.1317 ctx_ll 0.5271 tar_ll 0.1284 ctx_re 2.8700 tar_re 5.1658 (4.557 secs)
+
+NP:default step 30200 lr 3.957e-04 [train_loss] loss -0.3193 (6.330 secs)
+NP:default step 30400 lr 3.944e-04 [train_loss] loss -0.3059 (1.152 secs)
+NP:default step 30600 lr 3.931e-04 [train_loss] loss -0.3042 (1.151 secs)
+NP:default step 30800 lr 3.918e-04 [train_loss] loss -0.3110 (1.153 secs)
+NP:default step 31000 lr 3.905e-04 [train_loss] loss -0.2885 (1.150 secs)
+NP:default RBF crps 0.1318 ctx_ll 0.5240 tar_ll 0.1303 ctx_re 2.7341 tar_re 5.1553 (4.537 secs)
+
+NP:default step 31200 lr 3.892e-04 [train_loss] loss -0.3114 (6.255 secs)
+NP:default step 31400 lr 3.879e-04 [train_loss] loss -0.3265 (1.152 secs)
+NP:default step 31600 lr 3.866e-04 [train_loss] loss -0.2895 (1.151 secs)
+NP:default step 31800 lr 3.853e-04 [train_loss] loss -0.3247 (1.154 secs)
+NP:default step 32000 lr 3.840e-04 [train_loss] loss -0.3379 (1.153 secs)
+NP:default RBF crps 0.1315 ctx_ll 0.5242 tar_ll 0.1469 ctx_re 2.6864 tar_re 4.7274 (4.517 secs)
+
+save model at epoch 32000
+NP:default step 32200 lr 3.826e-04 [train_loss] loss -0.3126 (6.253 secs)
+NP:default step 32400 lr 3.813e-04 [train_loss] loss -0.3152 (1.148 secs)
+NP:default step 32600 lr 3.800e-04 [train_loss] loss -0.3477 (1.149 secs)
+NP:default step 32800 lr 3.786e-04 [train_loss] loss -0.3121 (1.151 secs)
+NP:default step 33000 lr 3.773e-04 [train_loss] loss -0.3281 (1.149 secs)
+NP:default RBF crps 0.1302 ctx_ll 0.5653 tar_ll 0.1112 ctx_re 2.7242 tar_re 4.6923 (4.523 secs)
+
+NP:default step 33200 lr 3.759e-04 [train_loss] loss -0.3322 (6.236 secs)
+NP:default step 33400 lr 3.745e-04 [train_loss] loss -0.3368 (1.154 secs)
+NP:default step 33600 lr 3.732e-04 [train_loss] loss -0.3237 (1.152 secs)
+NP:default step 33800 lr 3.718e-04 [train_loss] loss -0.3404 (1.156 secs)
+NP:default step 34000 lr 3.704e-04 [train_loss] loss -0.3313 (1.152 secs)
+NP:default RBF crps 0.1286 ctx_ll 0.5427 tar_ll 0.1632 ctx_re 2.7810 tar_re 4.7556 (4.527 secs)
+
+save model at epoch 34000
+NP:default step 34200 lr 3.691e-04 [train_loss] loss -0.3414 (6.270 secs)
+NP:default step 34400 lr 3.677e-04 [train_loss] loss -0.3363 (1.149 secs)
+NP:default step 34600 lr 3.663e-04 [train_loss] loss -0.3394 (1.150 secs)
+NP:default step 34800 lr 3.649e-04 [train_loss] loss -0.3093 (1.151 secs)
+NP:default step 35000 lr 3.635e-04 [train_loss] loss -0.3486 (1.150 secs)
+NP:default RBF crps 0.1271 ctx_ll 0.5785 tar_ll 0.1657 ctx_re 2.6383 tar_re 4.7073 (4.518 secs)
+
+NP:default RBF crps 0.1270 ctx_ll 0.5784 tar_ll 0.1662 ctx_re 2.5986 tar_re 4.7698 (4.535 secs)
+
+save model at epoch 35000
+NP:default step 35200 lr 3.621e-04 [train_loss] loss -0.3843 (6.313 secs)
+NP:default step 35400 lr 3.607e-04 [train_loss] loss -0.3538 (1.150 secs)
+NP:default step 35600 lr 3.593e-04 [train_loss] loss -0.3284 (1.150 secs)
+NP:default step 35800 lr 3.579e-04 [train_loss] loss -0.3580 (1.152 secs)
+NP:default step 36000 lr 3.564e-04 [train_loss] loss -0.3399 (1.149 secs)
+NP:default RBF crps 0.1251 ctx_ll 0.5889 tar_ll 0.1668 ctx_re 2.7160 tar_re 4.5907 (4.522 secs)
+
+save model at epoch 36000
+NP:default step 36200 lr 3.550e-04 [train_loss] loss -0.3592 (6.238 secs)
+NP:default step 36400 lr 3.536e-04 [train_loss] loss -0.3827 (1.151 secs)
+NP:default step 36600 lr 3.522e-04 [train_loss] loss -0.3560 (1.150 secs)
+NP:default step 36800 lr 3.507e-04 [train_loss] loss -0.3829 (1.153 secs)
+NP:default step 37000 lr 3.493e-04 [train_loss] loss -0.3490 (1.150 secs)
+NP:default RBF crps 0.1252 ctx_ll 0.5936 tar_ll 0.1749 ctx_re 2.4650 tar_re 4.8235 (4.514 secs)
+
+save model at epoch 37000
+NP:default step 37200 lr 3.478e-04 [train_loss] loss -0.3512 (6.239 secs)
+NP:default step 37400 lr 3.464e-04 [train_loss] loss -0.3872 (1.152 secs)
+NP:default step 37600 lr 3.449e-04 [train_loss] loss -0.3932 (1.150 secs)
+NP:default step 37800 lr 3.435e-04 [train_loss] loss -0.3568 (1.151 secs)
+NP:default step 38000 lr 3.420e-04 [train_loss] loss -0.3528 (1.150 secs)
+NP:default RBF crps 0.1258 ctx_ll 0.5884 tar_ll 0.1675 ctx_re 2.6454 tar_re 4.3879 (4.517 secs)
+
+NP:default step 38200 lr 3.406e-04 [train_loss] loss -0.3191 (6.218 secs)
+NP:default step 38400 lr 3.391e-04 [train_loss] loss -0.3571 (1.149 secs)
+NP:default step 38600 lr 3.376e-04 [train_loss] loss -0.3731 (1.153 secs)
+NP:default step 38800 lr 3.362e-04 [train_loss] loss -0.3808 (1.155 secs)
+NP:default step 39000 lr 3.347e-04 [train_loss] loss -0.3841 (1.153 secs)
+NP:default RBF crps 0.1232 ctx_ll 0.6154 tar_ll 0.1632 ctx_re 2.3676 tar_re 4.2973 (4.534 secs)
+
+NP:default step 39200 lr 3.332e-04 [train_loss] loss -0.4024 (6.318 secs)
+NP:default step 39400 lr 3.317e-04 [train_loss] loss -0.3957 (1.149 secs)
+NP:default step 39600 lr 3.302e-04 [train_loss] loss -0.3374 (1.150 secs)
+NP:default step 39800 lr 3.287e-04 [train_loss] loss -0.3701 (1.151 secs)
+NP:default step 40000 lr 3.273e-04 [train_loss] loss -0.3753 (1.149 secs)
+NP:default RBF crps 0.1270 ctx_ll 0.5577 tar_ll 0.1840 ctx_re 2.6199 tar_re 4.0522 (4.526 secs)
+
+NP:default RBF crps 0.1270 ctx_ll 0.5578 tar_ll 0.1839 ctx_re 2.5798 tar_re 4.1211 (4.531 secs)
+
+save model at epoch 40000
+NP:default step 40200 lr 3.258e-04 [train_loss] loss -0.3522 (6.247 secs)
+NP:default step 40400 lr 3.243e-04 [train_loss] loss -0.3903 (1.154 secs)
+NP:default step 40600 lr 3.228e-04 [train_loss] loss -0.3816 (1.158 secs)
+NP:default step 40800 lr 3.213e-04 [train_loss] loss -0.3546 (1.150 secs)
+NP:default step 41000 lr 3.197e-04 [train_loss] loss -0.3728 (1.149 secs)
+NP:default RBF crps 0.1226 ctx_ll 0.6177 tar_ll 0.1890 ctx_re 2.3068 tar_re 3.7021 (4.511 secs)
+
+save model at epoch 41000
+NP:default step 41200 lr 3.182e-04 [train_loss] loss -0.3719 (6.245 secs)
+NP:default step 41400 lr 3.167e-04 [train_loss] loss -0.4096 (1.152 secs)
+NP:default step 41600 lr 3.152e-04 [train_loss] loss -0.4022 (1.156 secs)
+NP:default step 41800 lr 3.137e-04 [train_loss] loss -0.3915 (1.152 secs)
+NP:default step 42000 lr 3.122e-04 [train_loss] loss -0.4058 (1.151 secs)
+NP:default RBF crps 0.1213 ctx_ll 0.6296 tar_ll 0.1990 ctx_re 2.4480 tar_re 4.2910 (4.536 secs)
+
+save model at epoch 42000
+NP:default step 42200 lr 3.106e-04 [train_loss] loss -0.3566 (6.263 secs)
+NP:default step 42400 lr 3.091e-04 [train_loss] loss -0.3606 (1.151 secs)
+NP:default step 42600 lr 3.076e-04 [train_loss] loss -0.3960 (1.154 secs)
+NP:default step 42800 lr 3.061e-04 [train_loss] loss -0.4274 (1.153 secs)
+NP:default step 43000 lr 3.045e-04 [train_loss] loss -0.3847 (1.150 secs)
+NP:default RBF crps 0.1227 ctx_ll 0.6353 tar_ll 0.1946 ctx_re 2.4819 tar_re 4.4768 (4.530 secs)
+
+NP:default step 43200 lr 3.030e-04 [train_loss] loss -0.4164 (6.307 secs)
+NP:default step 43400 lr 3.015e-04 [train_loss] loss -0.3761 (1.151 secs)
+NP:default step 43600 lr 2.999e-04 [train_loss] loss -0.4052 (1.151 secs)
+NP:default step 43800 lr 2.984e-04 [train_loss] loss -0.3664 (1.148 secs)
+NP:default step 44000 lr 2.968e-04 [train_loss] loss -0.3745 (1.148 secs)
+NP:default RBF crps 0.1206 ctx_ll 0.6408 tar_ll 0.2113 ctx_re 2.5029 tar_re 3.8301 (4.518 secs)
+
+save model at epoch 44000
+NP:default step 44200 lr 2.953e-04 [train_loss] loss -0.4052 (6.234 secs)
+NP:default step 44400 lr 2.938e-04 [train_loss] loss -0.4062 (1.151 secs)
+NP:default step 44600 lr 2.922e-04 [train_loss] loss -0.4189 (1.155 secs)
+NP:default step 44800 lr 2.907e-04 [train_loss] loss -0.4027 (1.152 secs)
+NP:default step 45000 lr 2.891e-04 [train_loss] loss -0.4195 (1.149 secs)
+NP:default RBF crps 0.1203 ctx_ll 0.6451 tar_ll 0.2248 ctx_re 2.3329 tar_re 4.2164 (4.506 secs)
+
+NP:default RBF crps 0.1203 ctx_ll 0.6451 tar_ll 0.2256 ctx_re 2.3518 tar_re 4.2473 (4.505 secs)
+
+save model at epoch 45000
+NP:default step 45200 lr 2.876e-04 [train_loss] loss -0.4264 (6.215 secs)
+NP:default step 45400 lr 2.860e-04 [train_loss] loss -0.4025 (1.153 secs)
+NP:default step 45600 lr 2.844e-04 [train_loss] loss -0.3903 (1.153 secs)
+NP:default step 45800 lr 2.829e-04 [train_loss] loss -0.3754 (1.151 secs)
+NP:default step 46000 lr 2.813e-04 [train_loss] loss -0.4193 (1.151 secs)
+NP:default RBF crps 0.1196 ctx_ll 0.6567 tar_ll 0.2269 ctx_re 2.4615 tar_re 4.4192 (4.506 secs)
+
+save model at epoch 46000
+NP:default step 46200 lr 2.798e-04 [train_loss] loss -0.3826 (6.220 secs)
+NP:default step 46400 lr 2.782e-04 [train_loss] loss -0.3943 (1.152 secs)
+NP:default step 46600 lr 2.767e-04 [train_loss] loss -0.4094 (1.152 secs)
+NP:default step 46800 lr 2.751e-04 [train_loss] loss -0.4206 (1.150 secs)
+NP:default step 47000 lr 2.735e-04 [train_loss] loss -0.4196 (1.149 secs)
+NP:default RBF crps 0.1197 ctx_ll 0.6573 tar_ll 0.2121 ctx_re 2.3692 tar_re 4.3083 (4.523 secs)
+
+NP:default step 47200 lr 2.720e-04 [train_loss] loss -0.4050 (6.297 secs)
+NP:default step 47400 lr 2.704e-04 [train_loss] loss -0.4469 (1.151 secs)
+NP:default step 47600 lr 2.688e-04 [train_loss] loss -0.4236 (1.151 secs)
+NP:default step 47800 lr 2.673e-04 [train_loss] loss -0.4584 (1.149 secs)
+NP:default step 48000 lr 2.657e-04 [train_loss] loss -0.4420 (1.150 secs)
+NP:default RBF crps 0.1183 ctx_ll 0.6636 tar_ll 0.2299 ctx_re 2.3345 tar_re 4.1929 (4.507 secs)
+
+save model at epoch 48000
+NP:default step 48200 lr 2.641e-04 [train_loss] loss -0.4011 (6.263 secs)
+NP:default step 48400 lr 2.626e-04 [train_loss] loss -0.4109 (1.151 secs)
+NP:default step 48600 lr 2.610e-04 [train_loss] loss -0.4620 (1.151 secs)
+NP:default step 48800 lr 2.594e-04 [train_loss] loss -0.4285 (1.150 secs)
+NP:default step 49000 lr 2.579e-04 [train_loss] loss -0.4308 (1.150 secs)
+NP:default RBF crps 0.1179 ctx_ll 0.6695 tar_ll 0.2317 ctx_re 2.2575 tar_re 3.9363 (4.521 secs)
+
+save model at epoch 49000
+NP:default step 49200 lr 2.563e-04 [train_loss] loss -0.4479 (6.263 secs)
+NP:default step 49400 lr 2.547e-04 [train_loss] loss -0.4523 (1.151 secs)
+NP:default step 49600 lr 2.531e-04 [train_loss] loss -0.4457 (1.150 secs)
+NP:default step 49800 lr 2.516e-04 [train_loss] loss -0.4378 (1.149 secs)
+NP:default step 50000 lr 2.500e-04 [train_loss] loss -0.4238 (1.151 secs)
+NP:default RBF crps 0.1183 ctx_ll 0.6766 tar_ll 0.2392 ctx_re 2.3370 tar_re 4.3490 (4.499 secs)
+
+NP:default RBF crps 0.1183 ctx_ll 0.6766 tar_ll 0.2395 ctx_re 2.3353 tar_re 4.3592 (4.501 secs)
+
+save model at epoch 50000
+NP:default step 50200 lr 2.484e-04 [train_loss] loss -0.4343 (6.207 secs)
+NP:default step 50400 lr 2.469e-04 [train_loss] loss -0.4574 (1.153 secs)
+NP:default step 50600 lr 2.453e-04 [train_loss] loss -0.4370 (1.150 secs)
+NP:default step 50800 lr 2.437e-04 [train_loss] loss -0.4371 (1.154 secs)
+NP:default step 51000 lr 2.421e-04 [train_loss] loss -0.4374 (1.150 secs)
+NP:default RBF crps 0.1177 ctx_ll 0.6717 tar_ll 0.2555 ctx_re 2.4539 tar_re 3.8246 (4.544 secs)
+
+save model at epoch 51000
+NP:default step 51200 lr 2.406e-04 [train_loss] loss -0.4528 (6.258 secs)
+NP:default step 51400 lr 2.390e-04 [train_loss] loss -0.4607 (1.169 secs)
+NP:default step 51600 lr 2.374e-04 [train_loss] loss -0.3984 (1.169 secs)
+NP:default step 51800 lr 2.359e-04 [train_loss] loss -0.4386 (1.167 secs)
+NP:default step 52000 lr 2.343e-04 [train_loss] loss -0.4699 (1.168 secs)
+NP:default RBF crps 0.1164 ctx_ll 0.6831 tar_ll 0.2475 ctx_re 2.1689 tar_re 4.0556 (4.518 secs)
+
+NP:default step 52200 lr 2.327e-04 [train_loss] loss -0.4189 (6.309 secs)
+NP:default step 52400 lr 2.312e-04 [train_loss] loss -0.4510 (1.153 secs)
+NP:default step 52600 lr 2.296e-04 [train_loss] loss -0.4352 (1.153 secs)
+NP:default step 52800 lr 2.280e-04 [train_loss] loss -0.4923 (1.150 secs)
+NP:default step 53000 lr 2.265e-04 [train_loss] loss -0.4876 (1.155 secs)
+NP:default RBF crps 0.1161 ctx_ll 0.6965 tar_ll 0.2364 ctx_re 2.3579 tar_re 4.1389 (4.507 secs)
+
+NP:default step 53200 lr 2.249e-04 [train_loss] loss -0.4835 (6.235 secs)
+NP:default step 53400 lr 2.233e-04 [train_loss] loss -0.4797 (1.152 secs)
+NP:default step 53600 lr 2.218e-04 [train_loss] loss -0.4612 (1.152 secs)
+NP:default step 53800 lr 2.202e-04 [train_loss] loss -0.4672 (1.150 secs)
+NP:default step 54000 lr 2.187e-04 [train_loss] loss -0.4759 (1.153 secs)
+NP:default RBF crps 0.1143 ctx_ll 0.7117 tar_ll 0.2389 ctx_re 2.0455 tar_re 4.1067 (4.508 secs)
+
+NP:default step 54200 lr 2.171e-04 [train_loss] loss -0.4802 (6.220 secs)
+NP:default step 54400 lr 2.156e-04 [train_loss] loss -0.4330 (1.155 secs)
+NP:default step 54600 lr 2.140e-04 [train_loss] loss -0.4653 (1.155 secs)
+NP:default step 54800 lr 2.124e-04 [train_loss] loss -0.4682 (1.154 secs)
+NP:default step 55000 lr 2.109e-04 [train_loss] loss -0.4691 (1.156 secs)
+NP:default RBF crps 0.1160 ctx_ll 0.6978 tar_ll 0.2602 ctx_re 2.2286 tar_re 4.2490 (4.505 secs)
+
+NP:default RBF crps 0.1160 ctx_ll 0.6977 tar_ll 0.2597 ctx_re 2.2362 tar_re 4.2089 (4.507 secs)
+
+save model at epoch 55000
+NP:default step 55200 lr 2.093e-04 [train_loss] loss -0.4338 (6.312 secs)
+NP:default step 55400 lr 2.078e-04 [train_loss] loss -0.4198 (1.151 secs)
+NP:default step 55600 lr 2.062e-04 [train_loss] loss -0.4325 (1.150 secs)
+NP:default step 55800 lr 2.047e-04 [train_loss] loss -0.4444 (1.153 secs)
+NP:default step 56000 lr 2.032e-04 [train_loss] loss -0.4418 (1.151 secs)
+NP:default RBF crps 0.1149 ctx_ll 0.7039 tar_ll 0.2636 ctx_re 2.1894 tar_re 3.9868 (4.523 secs)
+
+save model at epoch 56000
+NP:default step 56200 lr 2.016e-04 [train_loss] loss -0.4697 (6.244 secs)
+NP:default step 56400 lr 2.001e-04 [train_loss] loss -0.4914 (1.152 secs)
+NP:default step 56600 lr 1.985e-04 [train_loss] loss -0.4565 (1.151 secs)
+NP:default step 56800 lr 1.970e-04 [train_loss] loss -0.4567 (1.149 secs)
+NP:default step 57000 lr 1.955e-04 [train_loss] loss -0.4709 (1.151 secs)
+NP:default RBF crps 0.1147 ctx_ll 0.7142 tar_ll 0.2395 ctx_re 2.2210 tar_re 3.7227 (4.504 secs)
+
+NP:default step 57200 lr 1.939e-04 [train_loss] loss -0.4727 (6.247 secs)
+NP:default step 57400 lr 1.924e-04 [train_loss] loss -0.4487 (1.152 secs)
+NP:default step 57600 lr 1.909e-04 [train_loss] loss -0.4510 (1.152 secs)
+NP:default step 57800 lr 1.894e-04 [train_loss] loss -0.4740 (1.153 secs)
+NP:default step 58000 lr 1.878e-04 [train_loss] loss -0.4706 (1.153 secs)
+NP:default RBF crps 0.1188 ctx_ll 0.6316 tar_ll 0.2322 ctx_re 2.1182 tar_re 4.1195 (4.501 secs)
+
+NP:default step 58200 lr 1.863e-04 [train_loss] loss -0.4674 (6.229 secs)
+NP:default step 58400 lr 1.848e-04 [train_loss] loss -0.4788 (1.149 secs)
+NP:default step 58600 lr 1.833e-04 [train_loss] loss -0.5211 (1.152 secs)
+NP:default step 58800 lr 1.818e-04 [train_loss] loss -0.4843 (1.153 secs)
+NP:default step 59000 lr 1.803e-04 [train_loss] loss -0.4925 (1.151 secs)
+NP:default RBF crps 0.1133 ctx_ll 0.7346 tar_ll 0.2612 ctx_re 2.1580 tar_re 4.2315 (4.514 secs)
+
+NP:default step 59200 lr 1.787e-04 [train_loss] loss -0.4548 (6.253 secs)
+NP:default step 59400 lr 1.772e-04 [train_loss] loss -0.4956 (1.150 secs)
+NP:default step 59600 lr 1.757e-04 [train_loss] loss -0.4884 (1.151 secs)
+NP:default step 59800 lr 1.742e-04 [train_loss] loss -0.4978 (1.150 secs)
+NP:default step 60000 lr 1.727e-04 [train_loss] loss -0.5128 (1.153 secs)
+NP:default RBF crps 0.1137 ctx_ll 0.7185 tar_ll 0.2695 ctx_re 2.2785 tar_re 4.0326 (4.506 secs)
+
+NP:default RBF crps 0.1137 ctx_ll 0.7185 tar_ll 0.2685 ctx_re 2.2667 tar_re 4.0576 (4.505 secs)
+
+save model at epoch 60000
+NP:default step 60200 lr 1.713e-04 [train_loss] loss -0.4944 (6.220 secs)
+NP:default step 60400 lr 1.698e-04 [train_loss] loss -0.4821 (1.150 secs)
+NP:default step 60600 lr 1.683e-04 [train_loss] loss -0.5339 (1.151 secs)
+NP:default step 60800 lr 1.668e-04 [train_loss] loss -0.5027 (1.150 secs)
+NP:default step 61000 lr 1.653e-04 [train_loss] loss -0.5137 (1.151 secs)
+NP:default RBF crps 0.1128 ctx_ll 0.7291 tar_ll 0.2691 ctx_re 2.3138 tar_re 4.0609 (4.506 secs)
+
+save model at epoch 61000
+NP:default step 61200 lr 1.638e-04 [train_loss] loss -0.4607 (6.222 secs)
+NP:default step 61400 lr 1.624e-04 [train_loss] loss -0.4809 (1.154 secs)
+NP:default step 61600 lr 1.609e-04 [train_loss] loss -0.4956 (1.154 secs)
+NP:default step 61800 lr 1.594e-04 [train_loss] loss -0.5088 (1.152 secs)
+NP:default step 62000 lr 1.580e-04 [train_loss] loss -0.5229 (1.152 secs)
+NP:default RBF crps 0.1127 ctx_ll 0.7244 tar_ll 0.2861 ctx_re 2.1126 tar_re 4.2474 (4.514 secs)
+
+save model at epoch 62000
+NP:default step 62200 lr 1.565e-04 [train_loss] loss -0.4764 (6.259 secs)
+NP:default step 62400 lr 1.551e-04 [train_loss] loss -0.5006 (1.149 secs)
+NP:default step 62600 lr 1.536e-04 [train_loss] loss -0.5221 (1.152 secs)
+NP:default step 62800 lr 1.522e-04 [train_loss] loss -0.4907 (1.153 secs)
+NP:default step 63000 lr 1.507e-04 [train_loss] loss -0.4785 (1.152 secs)
+NP:default RBF crps 0.1117 ctx_ll 0.7373 tar_ll 0.2890 ctx_re 2.1083 tar_re 4.0826 (4.516 secs)
+
+save model at epoch 63000
+NP:default step 63200 lr 1.493e-04 [train_loss] loss -0.4861 (6.274 secs)
+NP:default step 63400 lr 1.478e-04 [train_loss] loss -0.4613 (1.149 secs)
+NP:default step 63600 lr 1.464e-04 [train_loss] loss -0.4962 (1.151 secs)
+NP:default step 63800 lr 1.450e-04 [train_loss] loss -0.4527 (1.152 secs)
+NP:default step 64000 lr 1.436e-04 [train_loss] loss -0.5026 (1.153 secs)
+NP:default RBF crps 0.1126 ctx_ll 0.7385 tar_ll 0.2709 ctx_re 2.2397 tar_re 4.2157 (4.515 secs)
+
+NP:default step 64200 lr 1.421e-04 [train_loss] loss -0.5048 (6.323 secs)
+NP:default step 64400 lr 1.407e-04 [train_loss] loss -0.4573 (1.151 secs)
+NP:default step 64600 lr 1.393e-04 [train_loss] loss -0.4867 (1.153 secs)
+NP:default step 64800 lr 1.379e-04 [train_loss] loss -0.4800 (1.153 secs)
+NP:default step 65000 lr 1.365e-04 [train_loss] loss -0.4720 (1.147 secs)
+NP:default RBF crps 0.1123 ctx_ll 0.7474 tar_ll 0.2889 ctx_re 2.0938 tar_re 4.2165 (4.516 secs)
+
+NP:default RBF crps 0.1123 ctx_ll 0.7472 tar_ll 0.2888 ctx_re 2.0764 tar_re 4.1812 (4.517 secs)
+
+NP:default step 65200 lr 1.351e-04 [train_loss] loss -0.5054 (6.232 secs)
+NP:default step 65400 lr 1.337e-04 [train_loss] loss -0.4988 (1.149 secs)
+NP:default step 65600 lr 1.323e-04 [train_loss] loss -0.4721 (1.148 secs)
+NP:default step 65800 lr 1.309e-04 [train_loss] loss -0.4930 (1.150 secs)
+NP:default step 66000 lr 1.296e-04 [train_loss] loss -0.5129 (1.150 secs)
+NP:default RBF crps 0.1112 ctx_ll 0.7426 tar_ll 0.2921 ctx_re 2.1328 tar_re 4.0537 (4.505 secs)
+
+save model at epoch 66000
+NP:default step 66200 lr 1.282e-04 [train_loss] loss -0.5059 (6.264 secs)
+NP:default step 66400 lr 1.268e-04 [train_loss] loss -0.4924 (1.149 secs)
+NP:default step 66600 lr 1.255e-04 [train_loss] loss -0.4948 (1.149 secs)
+NP:default step 66800 lr 1.241e-04 [train_loss] loss -0.5049 (1.150 secs)
+NP:default step 67000 lr 1.227e-04 [train_loss] loss -0.4777 (1.149 secs)
+NP:default RBF crps 0.1126 ctx_ll 0.7255 tar_ll 0.2950 ctx_re 2.3014 tar_re 4.3116 (4.505 secs)
+
+save model at epoch 67000
+NP:default step 67200 lr 1.214e-04 [train_loss] loss -0.5117 (6.253 secs)
+NP:default step 67400 lr 1.200e-04 [train_loss] loss -0.4696 (1.148 secs)
+NP:default step 67600 lr 1.187e-04 [train_loss] loss -0.5148 (1.150 secs)
+NP:default step 67800 lr 1.174e-04 [train_loss] loss -0.4877 (1.150 secs)
+NP:default step 68000 lr 1.160e-04 [train_loss] loss -0.5183 (1.154 secs)
+NP:default RBF crps 0.1108 ctx_ll 0.7528 tar_ll 0.2861 ctx_re 2.2685 tar_re 4.1909 (4.521 secs)
+
+NP:default step 68200 lr 1.147e-04 [train_loss] loss -0.5026 (6.247 secs)
+NP:default step 68400 lr 1.134e-04 [train_loss] loss -0.5274 (1.151 secs)
+NP:default step 68600 lr 1.121e-04 [train_loss] loss -0.5327 (1.151 secs)
+NP:default step 68800 lr 1.108e-04 [train_loss] loss -0.5031 (1.149 secs)
+NP:default step 69000 lr 1.095e-04 [train_loss] loss -0.5202 (1.147 secs)
+NP:default RBF crps 0.1107 ctx_ll 0.7485 tar_ll 0.3024 ctx_re 2.1869 tar_re 4.1593 (4.527 secs)
+
+save model at epoch 69000
+NP:default step 69200 lr 1.082e-04 [train_loss] loss -0.5059 (6.358 secs)
+NP:default step 69400 lr 1.069e-04 [train_loss] loss -0.5418 (1.155 secs)
+NP:default step 69600 lr 1.056e-04 [train_loss] loss -0.5083 (1.152 secs)
+NP:default step 69800 lr 1.043e-04 [train_loss] loss -0.5217 (1.154 secs)
+NP:default step 70000 lr 1.031e-04 [train_loss] loss -0.4894 (1.152 secs)
+NP:default RBF crps 0.1112 ctx_ll 0.7531 tar_ll 0.2974 ctx_re 2.1798 tar_re 4.1718 (4.509 secs)
+
+NP:default RBF crps 0.1112 ctx_ll 0.7530 tar_ll 0.2984 ctx_re 2.1562 tar_re 4.1888 (4.511 secs)
+
+NP:default step 70200 lr 1.018e-04 [train_loss] loss -0.5054 (6.226 secs)
+NP:default step 70400 lr 1.005e-04 [train_loss] loss -0.5174 (1.149 secs)
+NP:default step 70600 lr 9.927e-05 [train_loss] loss -0.5252 (1.152 secs)
+NP:default step 70800 lr 9.802e-05 [train_loss] loss -0.5170 (1.151 secs)
+NP:default step 71000 lr 9.677e-05 [train_loss] loss -0.5592 (1.151 secs)
+NP:default RBF crps 0.1101 ctx_ll 0.7641 tar_ll 0.2926 ctx_re 2.1259 tar_re 3.9991 (4.513 secs)
+
+NP:default step 71200 lr 9.554e-05 [train_loss] loss -0.5165 (6.245 secs)
+NP:default step 71400 lr 9.430e-05 [train_loss] loss -0.5178 (1.150 secs)
+NP:default step 71600 lr 9.308e-05 [train_loss] loss -0.5079 (1.152 secs)
+NP:default step 71800 lr 9.186e-05 [train_loss] loss -0.5401 (1.152 secs)
+NP:default step 72000 lr 9.064e-05 [train_loss] loss -0.5164 (1.150 secs)
+NP:default RBF crps 0.1102 ctx_ll 0.7532 tar_ll 0.3091 ctx_re 2.0781 tar_re 4.2190 (4.535 secs)
+
+save model at epoch 72000
+NP:default step 72200 lr 8.944e-05 [train_loss] loss -0.5069 (6.349 secs)
+NP:default step 72400 lr 8.824e-05 [train_loss] loss -0.4917 (1.148 secs)
+NP:default step 72600 lr 8.704e-05 [train_loss] loss -0.5031 (1.148 secs)
+NP:default step 72800 lr 8.585e-05 [train_loss] loss -0.5058 (1.147 secs)
+NP:default step 73000 lr 8.467e-05 [train_loss] loss -0.4820 (1.148 secs)
+NP:default RBF crps 0.1100 ctx_ll 0.7681 tar_ll 0.3006 ctx_re 2.0606 tar_re 4.0955 (4.519 secs)
+
+NP:default step 73200 lr 8.350e-05 [train_loss] loss -0.5245 (6.270 secs)
+NP:default step 73400 lr 8.233e-05 [train_loss] loss -0.5467 (1.149 secs)
+NP:default step 73600 lr 8.117e-05 [train_loss] loss -0.5458 (1.148 secs)
+NP:default step 73800 lr 8.001e-05 [train_loss] loss -0.5291 (1.150 secs)
+NP:default step 74000 lr 7.886e-05 [train_loss] loss -0.5122 (1.147 secs)
+NP:default RBF crps 0.1101 ctx_ll 0.7578 tar_ll 0.3053 ctx_re 2.1503 tar_re 4.1715 (4.501 secs)
+
+NP:default step 74200 lr 7.772e-05 [train_loss] loss -0.5332 (6.237 secs)
+NP:default step 74400 lr 7.659e-05 [train_loss] loss -0.5341 (1.150 secs)
+NP:default step 74600 lr 7.546e-05 [train_loss] loss -0.5372 (1.149 secs)
+NP:default step 74800 lr 7.434e-05 [train_loss] loss -0.4804 (1.146 secs)
+NP:default step 75000 lr 7.322e-05 [train_loss] loss -0.5059 (1.147 secs)
+NP:default RBF crps 0.1098 ctx_ll 0.7715 tar_ll 0.2959 ctx_re 2.1959 tar_re 4.0822 (4.496 secs)
+
+NP:default RBF crps 0.1098 ctx_ll 0.7716 tar_ll 0.2961 ctx_re 2.1694 tar_re 4.0538 (4.506 secs)
+
+NP:default step 75200 lr 7.212e-05 [train_loss] loss -0.5234 (6.207 secs)
+NP:default step 75400 lr 7.102e-05 [train_loss] loss -0.5553 (1.147 secs)
+NP:default step 75600 lr 6.992e-05 [train_loss] loss -0.5347 (1.146 secs)
+NP:default step 75800 lr 6.884e-05 [train_loss] loss -0.5132 (1.147 secs)
+NP:default step 76000 lr 6.776e-05 [train_loss] loss -0.5234 (1.144 secs)
+NP:default RBF crps 0.1101 ctx_ll 0.7525 tar_ll 0.3196 ctx_re 2.1589 tar_re 4.0959 (4.498 secs)
+
+save model at epoch 76000
+NP:default step 76200 lr 6.669e-05 [train_loss] loss -0.5378 (6.290 secs)
+NP:default step 76400 lr 6.562e-05 [train_loss] loss -0.5203 (1.146 secs)
+NP:default step 76600 lr 6.456e-05 [train_loss] loss -0.5550 (1.147 secs)
+NP:default step 76800 lr 6.351e-05 [train_loss] loss -0.5580 (1.147 secs)
+NP:default step 77000 lr 6.247e-05 [train_loss] loss -0.5086 (1.146 secs)
+NP:default RBF crps 0.1090 ctx_ll 0.7776 tar_ll 0.3006 ctx_re 2.0476 tar_re 3.8741 (4.494 secs)
+
+NP:default step 77200 lr 6.144e-05 [train_loss] loss -0.5150 (6.239 secs)
+NP:default step 77400 lr 6.041e-05 [train_loss] loss -0.4841 (1.145 secs)
+NP:default step 77600 lr 5.939e-05 [train_loss] loss -0.5604 (1.147 secs)
+NP:default step 77800 lr 5.838e-05 [train_loss] loss -0.4972 (1.141 secs)
+NP:default step 78000 lr 5.737e-05 [train_loss] loss -0.4852 (1.141 secs)
+NP:default RBF crps 0.1101 ctx_ll 0.7545 tar_ll 0.3205 ctx_re 2.0863 tar_re 3.8495 (4.468 secs)
+
+save model at epoch 78000
+NP:default step 78200 lr 5.637e-05 [train_loss] loss -0.5211 (6.213 secs)
+NP:default step 78400 lr 5.538e-05 [train_loss] loss -0.5187 (1.147 secs)
+NP:default step 78600 lr 5.440e-05 [train_loss] loss -0.5350 (1.142 secs)
+NP:default step 78800 lr 5.343e-05 [train_loss] loss -0.4766 (1.139 secs)
+NP:default step 79000 lr 5.246e-05 [train_loss] loss -0.5446 (1.142 secs)
+NP:default RBF crps 0.1091 ctx_ll 0.7690 tar_ll 0.3185 ctx_re 2.0386 tar_re 3.8595 (4.459 secs)
+
+NP:default step 79200 lr 5.150e-05 [train_loss] loss -0.5381 (6.178 secs)
+NP:default step 79400 lr 5.055e-05 [train_loss] loss -0.5623 (1.148 secs)
+NP:default step 79600 lr 4.961e-05 [train_loss] loss -0.4708 (1.138 secs)
+NP:default step 79800 lr 4.867e-05 [train_loss] loss -0.5409 (1.137 secs)
+NP:default step 80000 lr 4.775e-05 [train_loss] loss -0.5156 (1.134 secs)
+NP:default RBF crps 0.1087 ctx_ll 0.7796 tar_ll 0.3098 ctx_re 2.0496 tar_re 3.9796 (4.475 secs)
+
+NP:default RBF crps 0.1087 ctx_ll 0.7796 tar_ll 0.3099 ctx_re 2.0682 tar_re 3.9091 (4.463 secs)
+
+NP:default step 80200 lr 4.683e-05 [train_loss] loss -0.5340 (6.247 secs)
+NP:default step 80400 lr 4.592e-05 [train_loss] loss -0.5272 (1.138 secs)
+NP:default step 80600 lr 4.501e-05 [train_loss] loss -0.5237 (1.139 secs)
+NP:default step 80800 lr 4.412e-05 [train_loss] loss -0.5234 (1.140 secs)
+NP:default step 81000 lr 4.323e-05 [train_loss] loss -0.5498 (1.142 secs)
+NP:default RBF crps 0.1086 ctx_ll 0.7782 tar_ll 0.3139 ctx_re 2.0936 tar_re 3.7760 (4.449 secs)
+
+NP:default step 81200 lr 4.235e-05 [train_loss] loss -0.5266 (6.144 secs)
+NP:default step 81400 lr 4.148e-05 [train_loss] loss -0.5482 (1.138 secs)
+NP:default step 81600 lr 4.062e-05 [train_loss] loss -0.5267 (1.136 secs)
+NP:default step 81800 lr 3.976e-05 [train_loss] loss -0.5193 (1.138 secs)
+NP:default step 82000 lr 3.892e-05 [train_loss] loss -0.4975 (1.140 secs)
+NP:default RBF crps 0.1092 ctx_ll 0.7660 tar_ll 0.3244 ctx_re 2.1134 tar_re 4.0303 (4.458 secs)
+
+save model at epoch 82000
+NP:default step 82200 lr 3.808e-05 [train_loss] loss -0.5165 (6.156 secs)
+NP:default step 82400 lr 3.725e-05 [train_loss] loss -0.5227 (1.139 secs)
+NP:default step 82600 lr 3.643e-05 [train_loss] loss -0.5373 (1.135 secs)
+NP:default step 82800 lr 3.562e-05 [train_loss] loss -0.5419 (1.136 secs)
+NP:default step 83000 lr 3.481e-05 [train_loss] loss -0.5147 (1.142 secs)
+NP:default RBF crps 0.1086 ctx_ll 0.7840 tar_ll 0.3145 ctx_re 2.0388 tar_re 4.0065 (4.456 secs)
+
+NP:default step 83200 lr 3.402e-05 [train_loss] loss -0.5231 (6.155 secs)
+NP:default step 83400 lr 3.323e-05 [train_loss] loss -0.5755 (1.135 secs)
+NP:default step 83600 lr 3.245e-05 [train_loss] loss -0.5187 (1.134 secs)
+NP:default step 83800 lr 3.168e-05 [train_loss] loss -0.5374 (1.134 secs)
+NP:default step 84000 lr 3.092e-05 [train_loss] loss -0.5371 (1.138 secs)
+NP:default RBF crps 0.1085 ctx_ll 0.7815 tar_ll 0.3173 ctx_re 2.0564 tar_re 4.0226 (4.451 secs)
+
+NP:default step 84200 lr 3.017e-05 [train_loss] loss -0.5333 (6.142 secs)
+NP:default step 84400 lr 2.943e-05 [train_loss] loss -0.5236 (1.134 secs)
+NP:default step 84600 lr 2.869e-05 [train_loss] loss -0.5562 (1.134 secs)
+NP:default step 84800 lr 2.797e-05 [train_loss] loss -0.5298 (1.135 secs)
+NP:default step 85000 lr 2.725e-05 [train_loss] loss -0.5563 (1.135 secs)
+NP:default RBF crps 0.1083 ctx_ll 0.7724 tar_ll 0.3252 ctx_re 2.0414 tar_re 4.0429 (4.460 secs)
+
+NP:default RBF crps 0.1083 ctx_ll 0.7725 tar_ll 0.3258 ctx_re 2.0329 tar_re 4.1092 (4.461 secs)
+
+save model at epoch 85000
+NP:default step 85200 lr 2.654e-05 [train_loss] loss -0.5531 (6.221 secs)
+NP:default step 85400 lr 2.584e-05 [train_loss] loss -0.5636 (1.137 secs)
+NP:default step 85600 lr 2.515e-05 [train_loss] loss -0.5357 (1.139 secs)
+NP:default step 85800 lr 2.447e-05 [train_loss] loss -0.5389 (1.138 secs)
+NP:default step 86000 lr 2.379e-05 [train_loss] loss -0.5432 (1.139 secs)
+NP:default RBF crps 0.1080 ctx_ll 0.7841 tar_ll 0.3159 ctx_re 2.0793 tar_re 4.1019 (4.442 secs)
+
+NP:default step 86200 lr 2.313e-05 [train_loss] loss -0.5349 (6.131 secs)
+NP:default step 86400 lr 2.247e-05 [train_loss] loss -0.5349 (1.138 secs)
+NP:default step 86600 lr 2.183e-05 [train_loss] loss -0.5447 (1.137 secs)
+NP:default step 86800 lr 2.119e-05 [train_loss] loss -0.4977 (1.134 secs)
+NP:default step 87000 lr 2.056e-05 [train_loss] loss -0.5131 (1.137 secs)
+NP:default RBF crps 0.1082 ctx_ll 0.7854 tar_ll 0.3175 ctx_re 2.0340 tar_re 4.0808 (4.447 secs)
+
+NP:default step 87200 lr 1.994e-05 [train_loss] loss -0.5223 (6.147 secs)
+NP:default step 87400 lr 1.933e-05 [train_loss] loss -0.5283 (1.136 secs)
+NP:default step 87600 lr 1.873e-05 [train_loss] loss -0.4964 (1.135 secs)
+NP:default step 87800 lr 1.814e-05 [train_loss] loss -0.5351 (1.136 secs)
+NP:default step 88000 lr 1.756e-05 [train_loss] loss -0.5522 (1.139 secs)
+NP:default RBF crps 0.1081 ctx_ll 0.7856 tar_ll 0.3190 ctx_re 2.0382 tar_re 3.9903 (4.470 secs)
+
+NP:default step 88200 lr 1.698e-05 [train_loss] loss -0.5597 (6.156 secs)
+NP:default step 88400 lr 1.642e-05 [train_loss] loss -0.5341 (1.135 secs)
+NP:default step 88600 lr 1.586e-05 [train_loss] loss -0.5734 (1.137 secs)
+NP:default step 88800 lr 1.532e-05 [train_loss] loss -0.5492 (1.137 secs)
+NP:default step 89000 lr 1.478e-05 [train_loss] loss -0.5251 (1.150 secs)
+NP:default RBF crps 0.1078 ctx_ll 0.7849 tar_ll 0.3198 ctx_re 2.0156 tar_re 3.9801 (4.455 secs)
+
+NP:default step 89200 lr 1.425e-05 [train_loss] loss -0.4948 (6.213 secs)
+NP:default step 89400 lr 1.373e-05 [train_loss] loss -0.5485 (1.132 secs)
+NP:default step 89600 lr 1.323e-05 [train_loss] loss -0.5356 (1.131 secs)
+NP:default step 89800 lr 1.273e-05 [train_loss] loss -0.5165 (1.143 secs)
+NP:default step 90000 lr 1.224e-05 [train_loss] loss -0.5439 (1.138 secs)
+NP:default RBF crps 0.1079 ctx_ll 0.7831 tar_ll 0.3268 ctx_re 2.0712 tar_re 4.0645 (4.455 secs)
+
+NP:default RBF crps 0.1080 ctx_ll 0.7831 tar_ll 0.3273 ctx_re 2.0584 tar_re 4.0317 (4.455 secs)
+
+save model at epoch 90000
+NP:default step 90200 lr 1.176e-05 [train_loss] loss -0.5933 (6.147 secs)
+NP:default step 90400 lr 1.128e-05 [train_loss] loss -0.5235 (1.134 secs)
+NP:default step 90600 lr 1.082e-05 [train_loss] loss -0.5657 (1.131 secs)
+NP:default step 90800 lr 1.037e-05 [train_loss] loss -0.5692 (1.133 secs)
+NP:default step 91000 lr 9.927e-06 [train_loss] loss -0.5585 (1.135 secs)
+NP:default RBF crps 0.1078 ctx_ll 0.7849 tar_ll 0.3258 ctx_re 2.0748 tar_re 4.0159 (4.448 secs)
+
+NP:default step 91200 lr 9.493e-06 [train_loss] loss -0.5359 (6.137 secs)
+NP:default step 91400 lr 9.069e-06 [train_loss] loss -0.5225 (1.132 secs)
+NP:default step 91600 lr 8.655e-06 [train_loss] loss -0.5268 (1.130 secs)
+NP:default step 91800 lr 8.250e-06 [train_loss] loss -0.5075 (1.132 secs)
+NP:default step 92000 lr 7.854e-06 [train_loss] loss -0.5093 (1.135 secs)
+NP:default RBF crps 0.1079 ctx_ll 0.7827 tar_ll 0.3271 ctx_re 2.0267 tar_re 3.9389 (4.450 secs)
+
+NP:default step 92200 lr 7.468e-06 [train_loss] loss -0.5532 (6.150 secs)
+NP:default step 92400 lr 7.092e-06 [train_loss] loss -0.5534 (1.145 secs)
+NP:default step 92600 lr 6.725e-06 [train_loss] loss -0.5580 (1.145 secs)
+NP:default step 92800 lr 6.368e-06 [train_loss] loss -0.5896 (1.147 secs)
+NP:default step 93000 lr 6.021e-06 [train_loss] loss -0.5306 (1.136 secs)
+NP:default RBF crps 0.1078 ctx_ll 0.7854 tar_ll 0.3262 ctx_re 2.0190 tar_re 3.9662 (4.433 secs)
+
+NP:default step 93200 lr 5.683e-06 [train_loss] loss -0.5416 (6.214 secs)
+NP:default step 93400 lr 5.355e-06 [train_loss] loss -0.5558 (1.135 secs)
+NP:default step 93600 lr 5.036e-06 [train_loss] loss -0.5314 (1.133 secs)
+NP:default step 93800 lr 4.727e-06 [train_loss] loss -0.5499 (1.134 secs)
+NP:default step 94000 lr 4.428e-06 [train_loss] loss -0.5377 (1.136 secs)
+NP:default RBF crps 0.1079 ctx_ll 0.7863 tar_ll 0.3277 ctx_re 2.0355 tar_re 3.9059 (4.435 secs)
+
+save model at epoch 94000
+NP:default step 94200 lr 4.139e-06 [train_loss] loss -0.5516 (6.161 secs)
+NP:default step 94400 lr 3.859e-06 [train_loss] loss -0.5483 (1.135 secs)
+NP:default step 94600 lr 3.589e-06 [train_loss] loss -0.5267 (1.132 secs)
+NP:default step 94800 lr 3.329e-06 [train_loss] loss -0.5537 (1.138 secs)
+NP:default step 95000 lr 3.078e-06 [train_loss] loss -0.5154 (1.132 secs)
+NP:default RBF crps 0.1078 ctx_ll 0.7842 tar_ll 0.3277 ctx_re 2.0002 tar_re 3.8414 (4.440 secs)
+
+NP:default RBF crps 0.1079 ctx_ll 0.7842 tar_ll 0.3283 ctx_re 2.0019 tar_re 3.9917 (4.440 secs)
+
+save model at epoch 95000
+NP:default step 95200 lr 2.837e-06 [train_loss] loss -0.5467 (6.127 secs)
+NP:default step 95400 lr 2.606e-06 [train_loss] loss -0.5554 (1.132 secs)
+NP:default step 95600 lr 2.385e-06 [train_loss] loss -0.5439 (1.132 secs)
+NP:default step 95800 lr 2.173e-06 [train_loss] loss -0.5349 (1.135 secs)
+NP:default step 96000 lr 1.971e-06 [train_loss] loss -0.5249 (1.132 secs)
+NP:default RBF crps 0.1078 ctx_ll 0.7852 tar_ll 0.3276 ctx_re 2.0301 tar_re 3.9107 (4.434 secs)
+
+NP:default step 96200 lr 1.779e-06 [train_loss] loss -0.5502 (6.115 secs)
+NP:default step 96400 lr 1.597e-06 [train_loss] loss -0.5397 (1.133 secs)
+NP:default step 96600 lr 1.425e-06 [train_loss] loss -0.5568 (1.134 secs)
+NP:default step 96800 lr 1.262e-06 [train_loss] loss -0.5382 (1.135 secs)
+NP:default step 97000 lr 1.110e-06 [train_loss] loss -0.5547 (1.137 secs)
+NP:default RBF crps 0.1078 ctx_ll 0.7872 tar_ll 0.3264 ctx_re 2.0254 tar_re 3.8953 (4.455 secs)
+
+NP:default step 97200 lr 9.666e-07 [train_loss] loss -0.5493 (6.209 secs)
+NP:default step 97400 lr 8.335e-07 [train_loss] loss -0.5194 (1.129 secs)
+NP:default step 97600 lr 7.103e-07 [train_loss] loss -0.5633 (1.128 secs)
+NP:default step 97800 lr 5.969e-07 [train_loss] loss -0.5172 (1.131 secs)
+NP:default step 98000 lr 4.933e-07 [train_loss] loss -0.5607 (1.128 secs)
+NP:default RBF crps 0.1078 ctx_ll 0.7874 tar_ll 0.3276 ctx_re 1.9945 tar_re 3.9252 (4.449 secs)
+
+NP:default step 98200 lr 3.996e-07 [train_loss] loss -0.5763 (6.135 secs)
+NP:default step 98400 lr 3.158e-07 [train_loss] loss -0.5380 (1.128 secs)
+NP:default step 98600 lr 2.418e-07 [train_loss] loss -0.5543 (1.130 secs)
+NP:default step 98800 lr 1.776e-07 [train_loss] loss -0.5976 (1.130 secs)
+NP:default step 99000 lr 1.234e-07 [train_loss] loss -0.5101 (1.126 secs)
+NP:default RBF crps 0.1078 ctx_ll 0.7876 tar_ll 0.3264 ctx_re 2.0282 tar_re 3.8955 (4.454 secs)
+
+NP:default step 99200 lr 7.895e-08 [train_loss] loss -0.5753 (6.149 secs)
+NP:default step 99400 lr 4.441e-08 [train_loss] loss -0.5643 (1.132 secs)
+NP:default step 99600 lr 1.974e-08 [train_loss] loss -0.5380 (1.133 secs)
+NP:default step 99800 lr 4.935e-09 [train_loss] loss -0.5339 (1.138 secs)
+NP:default step 100000 lr 0.000e+00 [train_loss] loss -0.5701 (1.128 secs)
+NP:default RBF crps 0.1078 ctx_ll 0.7878 tar_ll 0.3265 ctx_re 2.0241 tar_re 3.8809 (4.459 secs)
+
+NP:default RBF crps 0.1078 ctx_ll 0.7877 tar_ll 0.3255 ctx_re 2.0476 tar_re 3.9775 (4.437 secs)
+

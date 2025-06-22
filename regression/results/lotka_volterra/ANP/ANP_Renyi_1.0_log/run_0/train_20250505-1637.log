@@ -1,0 +1,82 @@
+Total number of parameters: 348932
+
+ANP:trial step 200 lr 4.995e-04 loss 2.3590 (2.298 secs)
+ANP:trial step 400 lr 4.980e-04 loss 1.7254 (2.043 secs)
+ANP:trial step 600 lr 4.956e-04 loss 1.4479 (2.060 secs)
+ANP:trial step 800 lr 4.921e-04 loss 1.2227 (2.102 secs)
+ANP:trial step 1000 lr 4.878e-04 loss 1.0397 (2.080 secs)
+ANP:trial crps 0.4152 ctx_ll -1.1723 tar_ll -1.3787 ctx_re inf tar_re inf (4.039 secs)
+
+save model at epoch 1000
+ANP:trial step 1200 lr 4.824e-04 loss 0.8839 (5.964 secs)
+ANP:trial step 1400 lr 4.762e-04 loss 0.6912 (2.160 secs)
+ANP:trial step 1600 lr 4.691e-04 loss 0.4838 (2.139 secs)
+ANP:trial step 1800 lr 4.611e-04 loss 0.2591 (2.109 secs)
+ANP:trial step 2000 lr 4.523e-04 loss -0.0316 (2.108 secs)
+ANP:trial crps 0.2737 ctx_ll 0.1596 tar_ll -0.4642 ctx_re inf tar_re inf (3.797 secs)
+
+save model at epoch 2000
+ANP:trial step 2200 lr 4.426e-04 loss -0.1889 (5.971 secs)
+ANP:trial step 2400 lr 4.322e-04 loss -0.3351 (2.139 secs)
+ANP:trial step 2600 lr 4.211e-04 loss -0.5133 (2.137 secs)
+ANP:trial step 2800 lr 4.094e-04 loss -0.5909 (2.194 secs)
+ANP:trial step 3000 lr 3.969e-04 loss -0.7169 (2.226 secs)
+ANP:trial crps 0.1944 ctx_ll 1.0022 tar_ll 0.3512 ctx_re inf tar_re inf (3.795 secs)
+
+save model at epoch 3000
+ANP:trial step 3200 lr 3.840e-04 loss -0.8488 (6.102 secs)
+ANP:trial step 3400 lr 3.704e-04 loss -0.9274 (2.252 secs)
+ANP:trial step 3600 lr 3.564e-04 loss -0.9605 (2.236 secs)
+ANP:trial step 3800 lr 3.420e-04 loss -0.9822 (2.242 secs)
+ANP:trial step 4000 lr 3.273e-04 loss -1.0321 (2.248 secs)
+ANP:trial crps 0.1893 ctx_ll 1.1491 tar_ll 0.4953 ctx_re inf tar_re inf (3.794 secs)
+
+save model at epoch 4000
+ANP:trial step 4200 lr 3.122e-04 loss -1.0908 (6.112 secs)
+ANP:trial step 4400 lr 2.968e-04 loss -1.2194 (2.265 secs)
+ANP:trial step 4600 lr 2.813e-04 loss -1.1449 (2.263 secs)
+ANP:trial step 4800 lr 2.657e-04 loss -1.2752 (2.257 secs)
+ANP:trial step 5000 lr 2.500e-04 loss -1.3164 (2.252 secs)
+ANP:trial crps 0.1380 ctx_ll 1.6186 tar_ll 0.9322 ctx_re inf tar_re inf (3.774 secs)
+
+save model at epoch 5000
+ANP:trial step 5200 lr 2.343e-04 loss -1.4298 (6.090 secs)
+ANP:trial step 5400 lr 2.187e-04 loss -1.4144 (2.315 secs)
+ANP:trial step 5600 lr 2.032e-04 loss -1.3906 (2.238 secs)
+ANP:trial step 5800 lr 1.878e-04 loss -1.4846 (2.250 secs)
+ANP:trial step 6000 lr 1.727e-04 loss -1.4966 (2.236 secs)
+ANP:trial crps 0.1304 ctx_ll 1.6665 tar_ll 1.0116 ctx_re inf tar_re inf (3.790 secs)
+
+save model at epoch 6000
+ANP:trial step 6200 lr 1.580e-04 loss -1.5183 (6.120 secs)
+ANP:trial step 6400 lr 1.436e-04 loss -1.5578 (2.274 secs)
+ANP:trial step 6600 lr 1.296e-04 loss -1.5428 (2.274 secs)
+ANP:trial step 6800 lr 1.160e-04 loss -1.5711 (2.255 secs)
+ANP:trial step 7000 lr 1.031e-04 loss -1.5924 (2.267 secs)
+ANP:trial crps 0.1199 ctx_ll 1.7952 tar_ll 1.0972 ctx_re inf tar_re inf (3.791 secs)
+
+save model at epoch 7000
+ANP:trial step 7200 lr 9.064e-05 loss -1.5893 (6.139 secs)
+ANP:trial step 7400 lr 7.886e-05 loss -1.6196 (2.285 secs)
+ANP:trial step 7600 lr 6.776e-05 loss -1.6036 (2.284 secs)
+ANP:trial step 7800 lr 5.737e-05 loss -1.6382 (2.264 secs)
+ANP:trial step 8000 lr 4.775e-05 loss -1.6534 (2.271 secs)
+ANP:trial crps 0.1146 ctx_ll 1.9009 tar_ll 1.1596 ctx_re inf tar_re inf (3.801 secs)
+
+save model at epoch 8000
+ANP:trial step 8200 lr 3.892e-05 loss -1.6975 (6.129 secs)
+ANP:trial step 8400 lr 3.092e-05 loss -1.7038 (2.275 secs)
+ANP:trial step 8600 lr 2.379e-05 loss -1.7156 (2.278 secs)
+ANP:trial step 8800 lr 1.756e-05 loss -1.6572 (2.256 secs)
+ANP:trial step 9000 lr 1.224e-05 loss -1.6907 (2.276 secs)
+ANP:trial crps 0.1097 ctx_ll 1.9383 tar_ll 1.2281 ctx_re inf tar_re inf (3.802 secs)
+
+save model at epoch 9000
+ANP:trial step 9200 lr 7.854e-06 loss -1.6549 (6.108 secs)
+ANP:trial step 9400 lr 4.428e-06 loss -1.7454 (2.248 secs)
+ANP:trial step 9600 lr 1.971e-06 loss -1.6777 (2.267 secs)
+ANP:trial step 9800 lr 4.933e-07 loss -1.7076 (2.267 secs)
+ANP:trial step 10000 lr 0.000e+00 loss -1.7234 (2.279 secs)
+ANP:trial crps 0.1093 ctx_ll 1.9512 tar_ll 1.2301 ctx_re inf tar_re inf (3.795 secs)
+
+save model at epoch 10000

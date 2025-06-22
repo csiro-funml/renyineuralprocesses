@@ -1,0 +1,23 @@
+data_name: RBF
+divergence: Renyi_0.7
+eval_batch_size: 16
+eval_freq: 5000
+eval_logfile: null
+eval_num_batches: 3000
+eval_num_samples: 50
+eval_seed: 0
+expid: default
+lr: 0.0005
+max_num_points: 50
+mode: train
+model_name: NP
+num_steps: 100000
+print_freq: 200
+resume: null
+root:
+save_freq: 1000
+scorerule: log
+t_noise: null
+train_batch_size: 16
+train_num_samples: 32
+train_seed: 0
