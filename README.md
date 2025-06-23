@@ -1,3 +1,8 @@
+# Rényi Neural Processes
+
+This repository accompanies the paper
+<ins>Xuesong Wang, He Zhao and Edwin V. Bonilla. Rényi Neural Processes. ICML 2025 (*Oral, 1 % of total submissions*).</ins>
+
 ## 1D Regression
 
 ---
