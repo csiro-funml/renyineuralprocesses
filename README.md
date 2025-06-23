@@ -1,10 +1,11 @@
 # Rényi Neural Processes
 
-This repository accompanies the paper
-<ins>Xuesong Wang, He Zhao and Edwin V. Bonilla. Rényi Neural Processes. ICML 2025 (*Oral, 1 % of total submissions*).</ins>
+## This repository accompanies the paper  <u>["Rényi Neural Processes"](https://arxiv.org/abs/2405.15991)
+ 
+### <u>[Xuesong Wang](https://www.linkedin.com/in/xuesong-wang-7728a711a/)</u>, <u>[He Zhao](https://scholar.google.com/citations?user=pkn0NPsAAAAJ&hl=en)</u>, and <u>[Edwin V. Bonilla](https://scholar.google.com.au/citations?user=uDLRZQMAAAAJ&hl=en)</u> . ICML 2025 (**Oral, ~1 % of total submissions**)
+---
 
 ## 1D Regression
-
 ---
 ### Training
 ```
@@ -23,7 +24,7 @@ python regression/main_gp.py --data_name=RBF --model_name=NP --mode=plot --diver
 ```
 
 
-The code is heavily borrowed from https://github.com/tung-nd/TNP-pytorch , please refer to their documentation for more details for the dataset.
+Some codes are borrowed from https://github.com/tung-nd/TNP-pytorch , please refer to their documentation for more details for the dataset.
 
 
 
